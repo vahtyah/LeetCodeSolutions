@@ -1,4 +1,4 @@
-# Prefix Sum Algorithm in C#
+# Prefix Sum Algorithm
 
 The **Prefix Sum** algorithm is an efficient technique used to calculate the sum of elements in a subarray of a larger array. Instead of recalculating the sum each time, the algorithm precomputes a `prefix sum` array that allows fast querying of the sum over any subarray.
 
