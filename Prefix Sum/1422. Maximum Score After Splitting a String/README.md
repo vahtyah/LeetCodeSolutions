@@ -39,5 +39,7 @@ Output: 3
 
 - `2 <= s.length <= 500`
 - The string `s` consists of characters `'0'` and `'1'` only.
-   
+
+### Another solututions
+[Greedy](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/1422.%20Maximum%20Score%20After%20Splitting%20a%20String)
 
