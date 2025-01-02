@@ -43,3 +43,4 @@ Thus, [2,0,2] is returned.
 
 
 ### Another Solutions
+[Binary Search](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Binary%20Search/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions)
