@@ -43,3 +43,4 @@ Thus, [2,0,2] is returned.
 
 
 ### Another Solutions
+[Prefix Sum](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions): Time: 16 ms (100%), Space: 87.62 MB (16.54%)
