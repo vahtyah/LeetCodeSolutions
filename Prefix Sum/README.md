@@ -39,3 +39,19 @@ static int GetRangeSum(int[] prefixSum, int start, int end)
 {
     return (start > 0) ? prefixSum[end] - prefixSum[start - 1] : prefixSum[end];
 }
+```
+- **Subarray Sum Equals K:** Find the total number of continuous subarrays whose sum equals a target value `k`.
+- **Maximum Subarray Sum:** Find the maximum sum of a contiguous subarray within an array of numbers.
+- **Count Vowel Strings in Ranges:** Count the number of strings in a range that start and end with a vowel.
+- **Count Submatrices With All Ones:** Count the number of submatrices that consist of only ones.
+- **Count Substrings That Differ by One Character:** Count the number of substrings that differ by exactly one character.
+- **Count Substrings with Only One Distinct Letter:** Count the number of substrings with only one distinct letter.
+- **Count Substrings That Have the Same Number of Zeros and Ones:** Count the number of substrings with an equal number of zeros and ones.
+- **Count Substrings with All Characters the Same:** Count the number of substrings with all characters being the same.
+- **Count Substrings That Have All Characters the Same:** Count the number of substrings with all characters being the same.
+- **Count Substrings That Have Only One Distinct Letter:** Count the number of substrings with only one distinct letter.
+- **Count Substrings That Have Only One Distinct Character:** Count the number of substrings with only one distinct character.
+- **Count Substrings That Have Only One Distinct Digit:** Count the number of substrings with only one distinct digit.
+- **Count Substrings That Have Only One Distinct Number:** Count the number of substrings with only one distinct number.
+- **Count Substrings That Have Only One Distinct Symbol:** Count the number of substrings with only one distinct symbol.
+- **Count Substrings That Have Only One Distinct Special Character:** Count the number of substrings with only one distinct special character.
