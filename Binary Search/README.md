@@ -43,57 +43,10 @@ public static int BinarySearch(int[] nums, int target)
     return -1;
 }
 ```
-## Use Cases
+## Solutions
 
-- **Searching in Sorted Arrays:** Quickly find the index of a target element in a sorted array.
-```csharp
-int[] sortedArray = { 1, 3, 5, 7, 9, 11, 13 };
-int targetIndex = BinarySearch(sortedArray, 7); // Returns 3
-```
-- **Finding the Square Root:** Use binary search to find the square root of a number with a given precision.
-```csharp
-double SquareRoot(double x, double precision)
-{
-    double left = 0;
-    double right = x;
-    double mid = 0;
+### ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
+- [0162. Find Peak Element](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Binary%20Search/0162.%20Find%20Peak%20Element): Find a peak element in an array.
+- [2300. Successful Pairs of Spells and Potions](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Binary%20Search/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions): Find the number of successful pairs of spells and potions whose product is at least a given value.
 
-    while (right - left > precision)
-    {
-        mid = left + (right - left) / 2;
-        if (mid * mid > x)
-        {
-            right = mid;
-        }
-        else
-        {
-            left = mid;
-        }
-    }
 
-    return mid;
-}
-```
-- **Finding the Peak Element:** Use binary search to find the peak element in an array.
-```csharp
-int FindPeakElement(int[] nums)
-{
-    int left = 0;
-    int right = nums.Length - 1;
-
-    while (left < right)
-    {
-        int mid = left + (right - left) / 2;
-        if (nums[mid] < nums[mid + 1])
-        {
-            left = mid + 1;
-        }
-        else
-        {
-            right = mid;
-        }
-    }
-
-    return left;
-}
-```
