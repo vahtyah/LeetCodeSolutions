@@ -1,3 +1,4 @@
+//Prefix Sum with Time Complexity O(n)
 public class Solution {
     public int[] SuccessfulPairs(int[] spells, int[] potions, long success) {
         var limitPotions = 100001;
