@@ -46,7 +46,8 @@ public static int BinarySearch(int[] nums, int target)
 ## Solutions
 
 ### ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
-- [0162. Find Peak Element](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Binary%20Search/0162.%20Find%20Peak%20Element): Find a peak element in an array.
-- [2300. Successful Pairs of Spells and Potions](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Binary%20Search/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions): Find the number of successful pairs of spells and potions whose product is at least a given value.
+[0162. Find Peak Element](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Binary%20Search/0162.%20Find%20Peak%20Element): Find a peak element in an array.
+
+[2300. Successful Pairs of Spells and Potions](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Binary%20Search/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions): Find the number of successful pairs of spells and potions whose product is at least a given value.
 
 
