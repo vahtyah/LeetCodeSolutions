@@ -32,26 +32,17 @@ public static int[] CalculatePrefixSum(int[] input)
     return prefixSum;
 }
 ```
-## Use Cases
-- **Range Sum Queries:** Quickly find the sum of elements between two indices `[L,R]` in an array with `O(1)` time complexity.
-```csharp
-static int GetRangeSum(int[] prefixSum, int start, int end)
-{
-    return (start > 0) ? prefixSum[end] - prefixSum[start - 1] : prefixSum[end];
-}
-```
-- **Subarray Sum Equals K:** Find the total number of continuous subarrays whose sum equals a target value `k`.
-- **Maximum Subarray Sum:** Find the maximum sum of a contiguous subarray within an array of numbers.
-- **Count Vowel Strings in Ranges:** Count the number of strings in a range that start and end with a vowel.
-- **Count Submatrices With All Ones:** Count the number of submatrices that consist of only ones.
-- **Count Substrings That Differ by One Character:** Count the number of substrings that differ by exactly one character.
-- **Count Substrings with Only One Distinct Letter:** Count the number of substrings with only one distinct letter.
-- **Count Substrings That Have the Same Number of Zeros and Ones:** Count the number of substrings with an equal number of zeros and ones.
-- **Count Substrings with All Characters the Same:** Count the number of substrings with all characters being the same.
-- **Count Substrings That Have All Characters the Same:** Count the number of substrings with all characters being the same.
-- **Count Substrings That Have Only One Distinct Letter:** Count the number of substrings with only one distinct letter.
-- **Count Substrings That Have Only One Distinct Character:** Count the number of substrings with only one distinct character.
-- **Count Substrings That Have Only One Distinct Digit:** Count the number of substrings with only one distinct digit.
-- **Count Substrings That Have Only One Distinct Number:** Count the number of substrings with only one distinct number.
-- **Count Substrings That Have Only One Distinct Symbol:** Count the number of substrings with only one distinct symbol.
-- **Count Substrings That Have Only One Distinct Special Character:** Count the number of substrings with only one distinct special character.
+## Solutions
+
+### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
+
+[1422. Maximum Score After Splitting a String](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/1422.%20Maximum%20Score%20After%20Splitting%20a%20String): Find the maximum score after splitting a string into two non-empty substrings.
+
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
+
+[2270. Number of Ways to Split Array](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2270.%20Number%20of%20Ways%20to%20Split%20Array): Find the number of ways to split an array into three non-empty subarrays such that the sum of elements in each subarray is the same.
+
+[2300. Successful Pairs of Spells and Potions](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions): Find the number of successful pairs of spells and potions that can be created.
+
+[2559. Count Vowel Strings in Ranges](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2559.%20Count%20Vowel%20Strings%20in%20Ranges): Count the number of strings that consist of vowels only in a given range.
+
