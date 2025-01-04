@@ -40,6 +40,8 @@ public static int[] CalculatePrefixSum(int[] input)
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[1920. Unique Length-3 Palindromic Subsequences](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum%2F1930.%20Unique%20Length-3%20Palindromic%20Subsequences): Find the number of unique length-3 palindromic subsequences in a string.
+
 [2270. Number of Ways to Split Array](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2270.%20Number%20of%20Ways%20to%20Split%20Array): Find the number of ways to split an array into three non-empty subarrays such that the sum of elements in each subarray is the same.
 
 [2300. Successful Pairs of Spells and Potions](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions): Find the number of successful pairs of spells and potions that can be created.
