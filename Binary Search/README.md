@@ -25,6 +25,7 @@ public static int BinarySearch(int[] nums, int target)
     while (left <= right)
     {
         int mid = left + (right - left) / 2;
+        //int mid = left + (right - left) >> 1; // Alternative faster way to calculate mid
 
         if (nums[mid] == target)
         {
@@ -47,6 +48,8 @@ public static int BinarySearch(int[] nums, int target)
 
 ### ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 [0162. Find Peak Element](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Binary%20Search/0162.%20Find%20Peak%20Element): Find a peak element in an array.
+
+[0875. Koko Eating Bananas](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Binary%20Search/0875.%20Koko%20Eating%20Bananas): Find the minimum integer `k` such that Koko can eat all the bananas within `h` hours.
 
 [2300. Successful Pairs of Spells and Potions](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Binary%20Search/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions): Find the number of successful pairs of spells and potions whose product is at least a given value.
 
