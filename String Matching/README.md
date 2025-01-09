@@ -235,6 +235,8 @@ public bool NaiveSearch(string pattern, string text) {
 
 [1408. String Matching in an Array](https://github.com/vahtyah/LeetCodeSolutions/tree/main/String%20Matching/1408.%20String%20Matching%20in%20an%20Array): Find all strings in an array that are substrings of another string.
 
+[2185. Counting Words With a Given Prefix](https://github.com/vahtyah/LeetCodeSolutions/tree/main/String%20Matching/2185.%20Counting%20Words%20With%20a%20Given%20Prefix): Count the number of words in a sentence that start with a given prefix.
+
 [3042. Count Prefix and Suffix Pairs I](https://github.com/vahtyah/LeetCodeSolutions/tree/main/String%20Matching/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I): Count the number of prefix and suffix pairs in a string array.
 
 [//]: # (![Medium]&#40;https://img.shields.io/badge/Medium-fac31d&#41;)
