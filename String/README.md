@@ -110,13 +110,6 @@ string str1 = "Hello";
 string str2 = "Hello";
 bool areEqual = str1.Equals(str2, StringComparison.OrdinalIgnoreCase); // true
 ````
-### String Equality
-To compare strings for equality, you can use the `==` operator, but it compares the references of the strings, not the actual content. To compare the content of strings, you can use the `Equals` method with the `StringComparison` parameter.
-````csharp
-string str1 = "Hello";
-string str2 = "Hello";
-bool areEqual = str1.Equals(str2, StringComparison.OrdinalIgnoreCase); // true
-````
 ### String Concatenation
 When concatenating strings, you can use the `+` operator, but it creates a new string instance each time. For better performance, especially when concatenating multiple strings in a loop, you can use `StringBuilder`.
 ````csharp
