@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution { 
     public IList<string> WordSubsets(string[] words1, string[] words2) {
         int[] combinedFreq = new int[26];
         foreach (var word in words2) {
