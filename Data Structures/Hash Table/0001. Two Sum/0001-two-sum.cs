@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution { 
     public int[] TwoSum(int[] nums, int target) {
         var seen = new Dictionary<int, int>();
 
