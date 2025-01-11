@@ -104,3 +104,5 @@ public class Solution {
 [0062. Unique Paths](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Dynamic%20Programming/0062.%20Unique%20Paths): Find the number of unique paths to reach the bottom-right corner of a grid.
 
 [0790. Domino and Tromino Tiling](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Dynamic%20Programming/0790.%20Domino%20and%20Tromino%20Tiling): Find the number of ways to tile a 2 x n board with dominoes and trominoes.
+
+[1143. Longest Common Subsequence](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence): Find the length of the longest common subsequence between two strings.
