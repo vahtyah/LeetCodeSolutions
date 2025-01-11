@@ -101,4 +101,6 @@ public class Solution {
 
 ### ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0062. Unique Paths](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Dynamic%20Programming/0062.%20Unique%20Paths): Find the number of unique paths to reach the bottom-right corner of a grid.
+
 [0790. Domino and Tromino Tiling](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Dynamic%20Programming/0790.%20Domino%20and%20Tromino%20Tiling): Find the number of ways to tile a 2 x n board with dominoes and trominoes.
