@@ -30,3 +30,7 @@ public static int GreedyAlgorithm(int[] nums)
 ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0334. Increasing Triplet Subsequence](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/334.%20Increasing%20Triplet%20Subsequence): Find if there exists an increasing triplet subsequence in an array.
+
+[1400. Construct K Palindrome Strings](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/1400.%20Construct%20K%20Palindrome%20Strings): Determine if it is possible to construct `k` palindrome strings from a given string.
+
+[//]: # ([//]: # &#40;![Hard]&#40;https://img.shields.io/badge/Hard-ff4d4d&#41;&#41;)

@@ -15,7 +15,7 @@
 
 
 ## C# Example
-
+### 1D
 ```csharp
 public static int DynamicProgrammingAlgorithm(int[] nums)
 {
@@ -33,6 +33,70 @@ public static int DynamicProgrammingAlgorithm(int[] nums)
     return dp[n - 1];
 }
 ```
+### Multi-Dimensional
+```csharp
+public static int DynamicProgrammingAlgorithm(int[,] matrix)
+{
+    int n = matrix.GetLength(0); // Number of rows
+    int m = matrix.GetLength(1); // Number of columns
+    int[,] dp = new int[n, m];
+
+    dp[0, 0] = matrix[0, 0]; // Initialize the first cell
+
+    for (int i = 1; i < n; i++) // Initialize the first column
+    {
+        dp[i, 0] = dp[i - 1, 0] + matrix[i, 0];
+    }
+
+    for (int j = 1; j < m; j++) // Initialize the first row
+    {
+        dp[0, j] = dp[0, j - 1] + matrix[0, j];
+    }
+
+    for (int i = 1; i < n; i++) // Fill in the rest of the matrix
+    {
+        for (int j = 1; j < m; j++)
+        {
+            dp[i, j] = Math.Max(dp[i - 1, j], dp[i, j - 1]) + matrix[i, j];
+        }
+    }
+
+    return dp[n - 1, m - 1];
+}
+```
+```csharp
+public class Solution {
+    public int MaxPathSum(int[,] matrix) {
+        int n = matrix.GetLength(0); // rows
+        int m = matrix.GetLength(1); // columns
+        int[,] dp = new int[n, m];
+        
+        // Initialize first cell
+        dp[0,0] = matrix[0,0];
+        
+        // Fill first row
+        for (int j = 1; j < m; j++) {
+            dp[0,j] = dp[0,j-1] + matrix[0,j];
+        }
+        
+        // Fill first column
+        for (int i = 1; i < n; i++) {
+            dp[i,0] = dp[i-1,0] + matrix[i,0];
+        }
+        
+        // Fill rest of the dp table
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j < m; j++) {
+                dp[i,j] = Math.Max(dp[i-1,j], dp[i,j-1]) + matrix[i,j];
+            }
+        }
+        
+        return dp[n-1,m-1];
+    }
+}
+```
+
+
 ## Solutions
 
 ### ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
