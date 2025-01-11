@@ -1,6 +1,6 @@
 <h1><a href="https://leetcode.com/problems/two-sum/description/">0001. Two Sum</a></h1>
 
-![Difficulty: Easy](https://img.shields.io/badge/Easy-46c6c2)
+![Difficulty: Easy](https://img.shields.io/badge/Easy-46c6c2)  
 
 ---
 
