@@ -1,6 +1,6 @@
 <h1><a href="https://leetcode.com/problems/word-subsets/description/?envType=daily-question&envId=2025-01-10">0916. Word Subsets</a></h1>
 
-![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
+![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d) 
 
 ---
 

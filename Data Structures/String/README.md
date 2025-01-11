@@ -1,4 +1,4 @@
-# String
+# String 
 
 **String** is a sequence of characters used to represent text. It is a reference type and is immutable, meaning once a string is created, it cannot be modified directly. If you modify a string, a new string is created instead.
 
