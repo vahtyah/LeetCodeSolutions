@@ -82,6 +82,8 @@ while(n > 0) {
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[1318. Minimum Flips to Make a OR b Equal to c](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c): Find the minimum number of flips to make `a | b` equal to `c`.
+
 [2429. Minimize XOR](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2429.%20Minimize%20XOR): Minimize the XOR of two numbers by setting a bit.
 
 [2657. Find the Prefix Common Array of Two Arrays](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays): Find the prefix common array of two arrays.
