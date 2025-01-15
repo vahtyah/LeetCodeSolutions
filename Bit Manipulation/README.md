@@ -4,32 +4,81 @@ The *Bit Manipulation* is a programming technique that involves manipulating bit
 clearing, toggling, and checking the status of bits in an integer. It is commonly used in various programming problems
 to optimize solutions and perform bitwise operations efficiently.
 
-## Key Concepts
+### Bitwise Operators
+- **AND (`&`):** The AND operator compares two bits and returns 1 if both bits are 1; otherwise, it returns 0.
+  
+    | A | B | A & B |
+    |---|---|-------|
+    | 0 | 0 |   0   |
+    | 0 | 1 |   0   |
+    | 1 | 0 |   0   |
+    | 1 | 1 |   1   |
 
-1. **Bitwise Operators:** Bitwise operators are used to perform operations at the bit level. Common bitwise operators
-   include `&` (AND), `|` (OR), `^` (XOR), `~` (NOT), `<<` (left shift), and `>>` (right shift).
-2. **Bitwise Operations:** Bitwise operations are used to manipulate individual bits in an integer. Common bitwise
-   operations include setting a bit, clearing a bit, toggling a bit, and checking the status of a bit.
-3. **Key Techniques:**
-    - **Set a Bit:** Use the OR operator `|` to set a bit at a specific position.
-    - **Clear a Bit:** Use the AND operator `&` with the complement `~` to clear a bit at a specific position.
-    - **Toggle a Bit:** Use the XOR operator `^` to toggle a bit at a specific position.
-    - **Check a Bit:** Use the AND operator `&` to check if a bit is set at a specific position.
-    - **Rightmost Set Bit:** Use the AND operator `&` with the two's complement `-num` to get the rightmost set bit.
-    - **Count Set Bits:** Use a loop to count the number of set bits in an integer.
-    - **Get the Average:** Use bitwise operations to calculate the average of two numbers.
-    - **Get the Minimum:** Use XOR and AND operators to get the minimum of two numbers.
-    - **Check Same Sign:** Use XOR to check if two numbers have the same sign.
-    - **Get Sign of a Number:** Use right shift and OR operators to get the sign of a number.
-    - **Swap Sign of a Number:** Use bitwise NOT and addition to swap the sign of a number.
-    - **GCD & LCM:** Implement functions to calculate the Greatest Common Divisor (GCD) and Least Common Multiple (LCM)
-      of two numbers.
+- **OR (`|`):** The OR operator compares two bits and returns 1 if at least one bit is 1; otherwise, it returns 0.
+  
+    | A | B | A \| B |
+    |---|---|--------|
+    | 0 | 0 |   0    |
+    | 0 | 1 |   1    |
+    | 1 | 0 |   1    |
+    | 1 | 1 |   1    |
+
+- **XOR (`^`):** The XOR operator compares two bits and returns 1 if the bits are different; otherwise, it returns 0.
+  
+    | A | B | A ^ B |
+    |---|---|------|
+    | 0 | 0 |   0  |
+    | 0 | 1 |   1  |
+    | 1 | 0 |   1  |
+    | 1 | 1 |   0  |
+
+- **NOT (`~`):** The NOT operator inverts each bit in a number, changing 1 to 0 and 0 to 1.
+      
+     | A | ~A |
+     |---|----|
+     | 0 |  1 |
+     | 1 |  0 |
+
+- **Left Shift (`<<`):** The left shift operator shifts the bits of a number to the left by a specified number of positions.
+      
+     `num << k` is equivalent to `num * 2^k`.
+
+- **Right Shift (`>>`):** The right shift operator shifts the bits of a number to the right by a specified number of positions.
+      
+     `num >> k` is equivalent to `num / 2^k`.
+
+### Formulas and Techniques
+```csharp
+// Set a bit at position i
+int setBit = num | (1 << i);
+
+// Clear a bit at position i
+int clearBit = num & ~(1 << i);
+
+// Toggle a bit at position i
+int toggleBit = num ^ (1 << i);
+
+// Check if a bit at position i is set
+bool isSet = (num & (1 << i)) != 0;
+
+// Get the rightmost set bit
+int rightmostSetBit = num & -num;
+
+// Count the number of set bits
+int countBits = 0;
+while(n > 0) {
+    countBits += n & 1;
+    n >>= 1;
+}
+```
 
 ## Solutions
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
 [0338. Counting Bits](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0338.%20Counting%20Bits): Count the number of 1 bits in the binary representation of each number from 0 to n.
+
+[0136. Single Number](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0136.%20Single%20Number): Find the single number that appears only once in an array of integers.
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
