@@ -103,6 +103,8 @@ public class Solution {
 
 [0062. Unique Paths](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Dynamic%20Programming/0062.%20Unique%20Paths): Find the number of unique paths to reach the bottom-right corner of a grid.
 
+[0072. Edit Distance](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Dynamic%20Programming/0072.%20Edit%20Distance): Find the minimum number of operations required to convert one word to another.
+
 [0714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Dynamic%20Programming/0714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee): Find the maximum profit from buying and selling stocks with a transaction fee.
 
 [0790. Domino and Tromino Tiling](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Dynamic%20Programming/0790.%20Domino%20and%20Tromino%20Tiling): Find the number of ways to tile a 2 x n board with dominoes and trominoes.
