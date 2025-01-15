@@ -30,4 +30,6 @@ to optimize solutions and perform bitwise operations efficiently.
 [//]: # (### ![Easy]&#40;https://img.shields.io/badge/Easy-46c6c2&#41;)
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[2429. Minimize XOR](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2429.%20Minimize%20XOR): Minimize the XOR of two numbers by setting a bit.
+
 [2657. Find the Prefix Common Array of Two Arrays](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays): Find the prefix common array of two arrays.
