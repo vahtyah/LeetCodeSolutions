@@ -27,7 +27,10 @@ to optimize solutions and perform bitwise operations efficiently.
 
 ## Solutions
 
-[//]: # (### ![Easy]&#40;https://img.shields.io/badge/Easy-46c6c2&#41;)
+### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
+
+[0338. Counting Bits](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0338.%20Counting%20Bits): Count the number of 1 bits in the binary representation of each number from 0 to n.
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [2429. Minimize XOR](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2429.%20Minimize%20XOR): Minimize the XOR of two numbers by setting a bit.
