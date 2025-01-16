@@ -31,6 +31,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [0334. Increasing Triplet Subsequence](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/334.%20Increasing%20Triplet%20Subsequence): Find if there exists an increasing triplet subsequence in an array.
 
+[0435. Non-overlapping Intervals](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/0435.%20Non-overlapping%20Intervals): Find the minimum number of intervals to remove to make the rest non-overlapping.
+
 [1400. Construct K Palindrome Strings](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/1400.%20Construct%20K%20Palindrome%20Strings): Determine if it is possible to construct `k` palindrome strings from a given string.
 
 [2116. Check if a Parentheses String Can Be Valid](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid): Check if a parentheses string can be made valid by adding parentheses.
