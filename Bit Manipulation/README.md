@@ -89,3 +89,6 @@ while(n > 0) {
 [2429. Minimize XOR](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2429.%20Minimize%20XOR): Minimize the XOR of two numbers by setting a bit.
 
 [2657. Find the Prefix Common Array of Two Arrays](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays): Find the prefix common array of two arrays.
+
+[2683. Neighboring Bitwise XOR](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2683.%20Neighboring%20Bitwise%20XOR): Calculate the bitwise XOR of neighboring elements in an array.
+
