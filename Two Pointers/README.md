@@ -22,6 +22,8 @@ public static void TwoPointersAlgorithm(int[] nums)
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
+[0088. Merge Sorted Array](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0088.%20Merge%20Sorted%20Array): Merge two sorted arrays in-place.
+
 [0283. Move Zeroes](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0283.%20Move%20Zeroes): Move all zeroes to the end of an array while maintaining the relative order of non-zero elements.
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)

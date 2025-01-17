@@ -64,6 +64,33 @@ public class MonotonicStack
     }
 }
 
+public class Program
+{
+    public static void Main()
+    {
+        MonotonicStack stack = new MonotonicStack();
+        int[] nums = { 4, 5, 2, 10, 8 };
+        int[] nextGreater = stack.NextGreaterElement(nums);
+        int[] nextSmaller = stack.NextSmallerElement(nums);
+
+        Console.WriteLine("Next Greater Element:");
+        foreach (int num in nextGreater)
+        {
+            Console.Write(num + " ");
+        }
+        
+        // Output: 5 10 10 -1 -1
+
+        Console.WriteLine("\nNext Smaller Element:");
+        foreach (int num in nextSmaller)
+        {
+            Console.Write(num + " ");
+        }
+        
+        // Output: 2 2 -1 8 2
+    }
+}
+
 ```
 ## Solutions
 
