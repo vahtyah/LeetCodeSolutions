@@ -73,5 +73,6 @@ public class MonotonicStack
 
 [0739. Daily Temperatures](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Monotonic%20Stack/0739.%20Daily%20Temperatures): Find the number of days you would have to wait until a warmer temperature.
 
+[0901. Online Stock Span](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Monotonic%20Stack/0901.%20Online%20Stock%20Span): Design a class that supports the stock span problem.
 
 
