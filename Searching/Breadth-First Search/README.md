@@ -105,8 +105,15 @@ public class Program
 }
 ```
 
-[//]: # (## Solutions)
+## Solutions
 
 [//]: # (### ![Easy]&#40;https://img.shields.io/badge/Easy-46c6c2&#41;)
 
 [//]: # (### ![Medium]&#40;https://img.shields.io/badge/Medium-fac31d&#41;)
+
+### ![Difficulty: Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching/Breadth-First%20Search/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid): Find the minimum cost to make at least one valid path from the top-left corner to the bottom-right corner of a grid.
+
+
+
