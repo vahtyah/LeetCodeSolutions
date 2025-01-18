@@ -22,6 +22,8 @@ public static void TwoPointersAlgorithm(int[] nums)
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
+[0026. Remove Duplicates from Sorted Array](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0026.%20Remove%20Duplicates%20from%20Sorted%20Array): Remove duplicates from a sorted array in-place.
+
 [0027. Remove Element](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0027.%20Remove%20Element): Remove all instances of a value from an array in-place.
 
 [0088. Merge Sorted Array](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0088.%20Merge%20Sorted%20Array): Merge two sorted arrays in-place.
