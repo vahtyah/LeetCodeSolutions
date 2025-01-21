@@ -133,7 +133,9 @@ public static int[] CalculatePrefixSum(int[] input)
 
 [1769. Minimum Number of Operations to Move All Balls to Each Box](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box): Calculate the minimum number of operations needed to move all balls to each box.
 
-[1920. Unique Length-3 Palindromic Subsequences](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum%2F1930.%20Unique%20Length-3%20Palindromic%20Subsequences): Find the number of unique length-3 palindromic subsequences in a string.
+[1930. Unique Length-3 Palindromic Subsequences](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum%2F1930.%20Unique%20Length-3%20Palindromic%20Subsequences): Find the number of unique length-3 palindromic subsequences in a string.
+
+[2017. Grid Game](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2017.%20Grid%20Game): Find the minimum sum of the maximum values of two paths in a grid.
 
 [2270. Number of Ways to Split Array](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2270.%20Number%20of%20Ways%20to%20Split%20Array): Find the number of ways to split an array into three non-empty subarrays such that the sum of elements in each subarray is the same.
 
