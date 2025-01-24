@@ -63,8 +63,8 @@ public class Graph
 }
 ```
 
-[//]: # (## Solutions)
+[//]: # (## Solutions
 
-[//]: # (### ![Easy]&#40;https://img.shields.io/badge/Easy-46c6c2&#41;)
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
-[//]: # (### ![Medium]&#40;https://img.shields.io/badge/Medium-fac31d&#41;)
+[0802. Find Eventual Safe States](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FDepth-First%20Search%2F0802.%20Find%20Eventual%20Safe%20States): Find the eventual safe states in a directed graph.
