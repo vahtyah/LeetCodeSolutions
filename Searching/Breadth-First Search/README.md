@@ -107,16 +107,10 @@ public class Program
 
 ## Solutions
 
-[//]: # (### ![Easy]&#40;https://img.shields.io/badge/Easy-46c6c2&#41;)
-
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [1765. Map of Highest Peak](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FBreadth-First%20Search%2F1765.%20Map%20of%20Highest%20Peak): Given an `m x n` integer matrix `isWater` representing a map of water areas and land areas, return a matrix representing the height of the land at each cell.
 
-### ![Difficulty: Hard](https://img.shields.io/badge/Hard-f8615c)
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
-[0407. Trapping Rain Water II](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching/Breadth-First%20Search/0407.%20Trapping%20Rain%20Water%20II): Given an `m x n` matrix representing the height of each unit cell in a 2D elevation map, compute the volume of water it is able to trap after raining.
-
-[1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching/Breadth-First%20Search/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid): Find the minimum cost to make at least one valid path from the top-left corner to the bottom-right corner of a grid.
-
-
+[2127. Maximum Employees to Be Invited to a Meeting](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FBreadth-First%20Search%2F2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting): 
