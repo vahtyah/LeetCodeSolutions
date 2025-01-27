@@ -109,8 +109,15 @@ public class Program
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
-[1765. Map of Highest Peak](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FBreadth-First%20Search%2F1765.%20Map%20of%20Highest%20Peak): Given an `m x n` integer matrix `isWater` representing a map of water areas and land areas, return a matrix representing the height of the land at each cell.
+[1462. Course Schedule IV](/Searching%2FBreadth-First%20Search%2F1462.%20Course%20Schedule%20IV): Check if a course is a prerequisite of another course.
+
+[1765. Map of Highest Peak](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FBreadth-First%20Search%2F1765.%20Map%20of%20Highest%20Peak): Find the highest peak on a map.
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
-[2127. Maximum Employees to Be Invited to a Meeting](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FBreadth-First%20Search%2F2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting): 
+[0407. Trapping Rain Water II](https://github.com/vahtyah/LeetCodeSolutions/blob/4f3480ea41349717ca90419670dfb22804f1f587/Searching/Breadth-First%20Search/0407.%20Trapping%20Rain%20Water%20II): Calculate the amount of water that can be trapped after raining.
+
+[1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://github.com/vahtyah/LeetCodeSolutions/blob/a1262282d89eae186573e94513b8cfe03a01fca7/Searching/Breadth-First%20Search/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid): Find the minimum cost to make at least one valid path in a grid.
+
+[2127. Maximum Employees to Be Invited to a Meeting](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FBreadth-First%20Search%2F2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting): Find the maximum number of employees to invite to a meeting.
+
