@@ -67,4 +67,4 @@ public class Graph
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
-[0802. Find Eventual Safe States](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FDepth-First%20Search%2F0802.%20Find%20Eventual%20Safe%20States): Find the eventual safe states in a directed graph.
+[2658. Maximum Number of Fish in a Grid](/Searching%2FDepth-First%20Search%2F2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid): Description not available
