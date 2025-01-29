@@ -101,4 +101,15 @@ public class Solution {
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
-[0122. Best Time to Buy and Sell Stock II](/Dynamic%20Programming%2F0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II): Description not available
+[0062. Unique Paths](0062.%20Unique%20Paths): Find the number of unique paths from the top-left corner to the bottom-right corner of a grid.
+
+[0072. Edit Distance](0072.%20Edit%20Distance): Find the minimum number of operations required to convert one word to another.
+
+[0714. Best Time to Buy and Sell Stock with Transaction Fee](0714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee): Find the maximum profit that can be obtained by buying and selling a stock with a transaction fee.
+
+[0790. Domino and Tromino Tiling](0790.%20Domino%20and%20Tromino%20Tiling): Find the number of ways to tile a 2 x N board with dominoes and trominoes.
+
+[1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence): Find the length of the longest common subsequence between two strings.
+
+[0122. Best Time to Buy and Sell Stock II](/Dynamic%20Programming%2F0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II): Find the maximum profit that can be obtained by buying and selling a stock multiple times.
+
