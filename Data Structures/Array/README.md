@@ -69,6 +69,8 @@ public class ArrayExamples
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0055. Jump Game](/Data%20Structures%2FArray%2F0055.%20Jump%20Game): Determine if you can reach the last index in an array of non-negative integers.
+
 [1267. Count Servers that Communicate](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures%2FArray%2F1267.%20Count%20Servers%20that%20Communicate): Count the number of servers that can communicate with at least one other server in a grid.
 
 [2661. First Completely Painted Row or Column](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Array/2661.%20First%20Completely%20Painted%20Row%20or%20Column): Determine the first row or column that is completely painted in a 2D grid.
