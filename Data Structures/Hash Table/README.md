@@ -66,8 +66,10 @@ foreach (var pair in dict)
 
 ## Solutions
 
-![Easy](https://img.shields.io/badge/Easy-46c6c2)
+### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
 [0001. Two Sum](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Hash%20Table/0001.%20Two%20Sum): Find two numbers that add up to a specific target.
 
-[//]: # (![Medium]&#40;https://img.shields.io/badge/Medium-fac31d&#41;)
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
+
+[0380. Insert Delete GetRandom O(1)](/Data%20Structures%2FHash%20Table%2F0380.%20Insert%20Delete%20GetRandom%20O%281%29): Design a data structure that supports insert, delete, and getRandom operations in constant time.
