@@ -31,7 +31,7 @@ public static int GreedyAlgorithm(int[] nums)
 
 [0045. Jump Game II](/Greedy%2F0045.%20Jump%20Game%20II): Find the minimum number of jumps to reach the last index in an array.
 
-[0055. Jump Game](/Data%20Structures%2FArray%2F0055.%20Jump%20Game): Determine if you can reach the last index in an array of non-negative integers.
+[0055. Jump Game](/Greedy%2F0045.%20Jump%20Game): Determine if you can reach the last index in an array of non-negative integers.
 
 [0334. Increasing Triplet Subsequence](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/334.%20Increasing%20Triplet%20Subsequence): Find if there exists an increasing triplet subsequence in an array.
 
