@@ -73,3 +73,7 @@ public class UnionFind
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0684. Redundant Connection](/Data%20Structures%2FUnion%20Find%2F0684.%20Redundant%20Connection): Find the redundant connection in a graph using union-find.
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[2493. Divide Nodes Into the Maximum Number of Groups](/Data%20Structures%2FUnion%20Find%2F2493.%20Divide%20Nodes%20Into%20the%20Maximum%20Number%20of%20Groups): Description not available
