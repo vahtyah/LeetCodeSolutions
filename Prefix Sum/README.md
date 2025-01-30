@@ -131,6 +131,8 @@ public static int[] CalculatePrefixSum(int[] input)
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0238. Product of Array Except Self](/Prefix%20Sum%2F0238.%20Product%20of%20Array%20Except%20Self): Calculate the product of all elements in an array except the current element.
+
 [1769. Minimum Number of Operations to Move All Balls to Each Box](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box): Calculate the minimum number of operations needed to move all balls to each box.
 
 [1930. Unique Length-3 Palindromic Subsequences](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum%2F1930.%20Unique%20Length-3%20Palindromic%20Subsequences): Find the number of unique length-3 palindromic subsequences in a string.
@@ -144,4 +146,3 @@ public static int[] CalculatePrefixSum(int[] input)
 [2381. Shifting Letters II](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2381.%20Shifting%20Letters%20II): Shift the letters of a string by a given number of positions.
 
 [2559. Count Vowel Strings in Ranges](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2559.%20Count%20Vowel%20Strings%20in%20Ranges): Count the number of strings that consist of vowels only in a given range.
-
