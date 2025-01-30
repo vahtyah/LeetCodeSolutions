@@ -72,8 +72,12 @@ public class UnionFind
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0122. Best Time to Buy and Sell Stock II](/Data%20Structures%2FUnion%20Find%2F0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II): Description not available
+
 [0684. Redundant Connection](/Data%20Structures%2FUnion%20Find%2F0684.%20Redundant%20Connection): Find the redundant connection in a graph using union-find.
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[1267. Count Servers that Communicate](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures%2FArray%2F1267.%20Count%20Servers%20that%20Communicate): Count the number of servers that can communicate with at least one other server in a grid.
 
 [2493. Divide Nodes Into the Maximum Number of Groups](/Data%20Structures%2FUnion%20Find%2F2493.%20Divide%20Nodes%20Into%20the%20Maximum%20Number%20of%20Groups): Description not available
