@@ -138,3 +138,87 @@ public class Solution {
         parents[y] = p;
     }
 }
+
+public class Solution {
+    private int[] parent;
+    private int[] size;
+    private int maxSize;
+    
+    public int LargestIsland(int[][] grid) {
+        int n = grid.Length;
+        parent = new int[n * n];
+        size = new int[n * n];
+        maxSize = 1;
+        
+        for (int i = 0; i < n * n; i++) {
+            parent[i] = i;
+            size[i] = 1;
+        }
+        
+        int[][] directions = new int[][] {
+            new int[] {1, 0},
+            new int[] {-1, 0},
+            new int[] {0, 1},
+            new int[] {0, -1}
+        };
+        
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1) {
+                    int index = i * n + j;
+                    foreach (var dir in directions) {
+                        int ni = i + dir[0];
+                        int nj = j + dir[1];
+                        
+                        if (ni >= 0 && ni < n && nj >= 0 && nj < n && grid[ni][nj] == 1) {
+                            Union(index, ni * n + nj);
+                        }
+                    }
+                    maxSize = Math.Max(maxSize, size[Find(index)]);
+                }
+            }
+        }
+        
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 0) {
+                    HashSet<int> connectedGroups = new HashSet<int>();
+                    int potentialSize = 1;  
+                    
+                    foreach (var dir in directions) {
+                        int ni = i + dir[0];
+                        int nj = j + dir[1];
+                        
+                        if (ni >= 0 && ni < n && nj >= 0 && nj < n && grid[ni][nj] == 1) {
+                            int root = Find(ni * n + nj);
+                            if (!connectedGroups.Contains(root)) {
+                                potentialSize += size[root];
+                                connectedGroups.Add(root);
+                            }
+                        }
+                    }
+                    maxSize = Math.Max(maxSize, potentialSize);
+                }
+            }
+        }
+        
+        return maxSize;
+    }
+    
+    private int Find(int x) {
+        if (parent[x] != x) {
+            parent[x] = Find(parent[x]);
+        }
+        return parent[x];
+    }
+    
+    private void Union(int x, int y) {
+        int rootX = Find(x);
+        int rootY = Find(y);
+        
+        if (rootX != rootY) {
+            parent[rootY] = rootX;
+            size[rootX] += size[rootY];
+        }
+    }
+}
