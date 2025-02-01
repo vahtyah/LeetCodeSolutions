@@ -76,9 +76,11 @@ while(n > 0) {
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
+[0136. Single Number](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0136.%20Single%20Number): Find the single number that appears only once in an array of integers.
+
 [0338. Counting Bits](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0338.%20Counting%20Bits): Count the number of 1 bits in the binary representation of each number from 0 to n.
 
-[0136. Single Number](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0136.%20Single%20Number): Find the single number that appears only once in an array of integers.
+[3151. Special Array I](/Bit%20Manipulation%2F3151.%20Special%20Array%20I): Find the minimum integer in an array such that the number of elements less than or equal to it is greater than or equal to the integer itself
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
@@ -91,4 +93,3 @@ while(n > 0) {
 [2657. Find the Prefix Common Array of Two Arrays](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays): Find the prefix common array of two arrays.
 
 [2683. Neighboring Bitwise XOR](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2683.%20Neighboring%20Bitwise%20XOR): Calculate the bitwise XOR of neighboring elements in an array.
-
