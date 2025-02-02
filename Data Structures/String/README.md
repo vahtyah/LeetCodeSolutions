@@ -124,6 +124,10 @@ str += "World"; // Creates a new string instance
 
 ## Solutions
 
+### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
+
+[0013. Roman to Integer](/Data%20Structures%2FString%2F0013.%20Roman%20to%20Integer): Convert Roman numeral string to an integer
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0012. Integer to Roman](/Data%20Structures%2FString%2F0012.%20Integer%20to%20Roman): Convert an integer into its Roman numeral representation
