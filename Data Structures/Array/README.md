@@ -63,6 +63,8 @@ public class ArrayExamples
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
+[0013. Roman to Integer](/Data%20Structures%2FArray%2F0013.%20Roman%20to%20Integer): Convert Roman numeral to integer representation
+
 [0121. Best Time to Buy and Sell Stock](/Data%20Structures%2FArray%2F0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock): Find the maximum profit that can be obtained by buying and selling a stock.
 
 [0169. Majority Element](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Array/0169.%20Majority%20Element): Find the majority element in an array, which appears more than `n / 2` times.
