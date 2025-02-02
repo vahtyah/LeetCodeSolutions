@@ -70,6 +70,8 @@ foreach (var pair in dict)
 
 [0001. Two Sum](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Hash%20Table/0001.%20Two%20Sum): Find two numbers that add up to a specific target.
 
+[1768. Merge Strings Alternately](/Data%20Structures%2FHash%20Table%2F1768.%20Merge%20Strings%20Alternately): Merge two strings alternately, character by character
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0380. Insert Delete GetRandom O(1)](/Data%20Structures%2FHash%20Table%2F0380.%20Insert%20Delete%20GetRandom%20O%281%29): Design a data structure that supports insert, delete, and getRandom operations in constant time.
