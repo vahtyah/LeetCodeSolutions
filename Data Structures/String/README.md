@@ -124,11 +124,6 @@ str += "World"; // Creates a new string instance
 
 ## Solutions
 
-[//]: # (![Easy]&#40;https://img.shields.io/badge/Easy-46c6c2&#41;)
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
-![Medium](https://img.shields.io/badge/Medium-fac31d)
-
-[0916. Word Subsets](https://github.com/vahtyah/LeetCodeSolutions/tree/main/String/0916.%20Word%20Subsets): Find all words from a list that are universal to a set of words.
-
-[3223. Minimum Length of String After Operations](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/String/3223.%20Minimum%20Length%20of%20String%20After%20Operations): Find the minimum length of a string after applying operations.
-
+[0012. Integer to Roman](/Data%20Structures%2FString%2F0012.%20Integer%20to%20Roman): Convert an integer into its Roman numeral representation
