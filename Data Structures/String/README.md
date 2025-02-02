@@ -128,6 +128,8 @@ str += "World"; // Creates a new string instance
 
 [0013. Roman to Integer](/Data%20Structures%2FString%2F0013.%20Roman%20to%20Integer): Convert Roman numeral string to an integer
 
+[0014. Longest Common Prefix](/Data%20Structures%2FString%2F0014.%20Longest%20Common%20Prefix): Find the longest common prefix shared among a set of strings
+
 [0058. Length of Last Word](/Data%20Structures%2FString%2F0058.%20Length%20of%20Last%20Word): Find length of last word in a string
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
@@ -137,5 +139,3 @@ str += "World"; // Creates a new string instance
 [0916. Word Subsets](/Data%20Structures%2FString%2F0916.%20Word%20Subsets): Find all words from `B` that are universal in `A`
 
 [3223. Minimum Length of String After Operations](/Data%20Structures%2FString%2F3223.%20Minimum%20Length%20of%20String%20After%20Operations): Find the minimum length of a string after applying operations
-
-
