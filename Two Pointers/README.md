@@ -39,3 +39,7 @@ public static void TwoPointersAlgorithm(int[] nums)
 [0443. String Compression](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0443.%20String%20Compression): Compress a string by replacing consecutive duplicate characters with the character followed by the number of occurrences.
 
 [2462. Total Cost to Hire K Workers](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/2462.%20Total%20Cost%20to%20Hire%20K%20Workers): Calculate the minimum total cost to hire `k` workers based on their quality and wage requirements.
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[0042. Trapping Rain Water](/Two%20Pointers%2F0042.%20Trapping%20Rain%20Water): Calculate the maximum amount of rainwater trapped between buildings
