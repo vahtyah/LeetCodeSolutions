@@ -234,3 +234,10 @@ public bool NaiveSearch(string pattern, string text) {
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
 [0028. Find the Index of the First Occurrence in a String](/String%20Matching%2F0028.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String): Find the first occurrence of a substring within a given string
+
+[1408. String Matching in an Array](/String%20Matching%2F1408.%20String%20Matching%20in%20an%20Array): Find all strings in an array that are substrings of another string
+
+[2185. Counting Words With a Given Prefix](/String%20Matching%2F2185.%20Counting%20Words%20With%20a%20Given%20Prefix): Count the number of words in a list that start with a given prefix
+
+[3042. Count Prefix and Suffix Pairs I](/String%20Matching%2F3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I): Count the number of pairs of words where the first word is a prefix of the second word
+
