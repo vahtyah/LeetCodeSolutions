@@ -134,6 +134,8 @@ str += "World"; // Creates a new string instance
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0006. Zigzag Conversion](/Data%20Structures%2FString%2F0006.%20Zigzag%20Conversion): Convert a string into a zigzag pattern
+
 [0012. Integer to Roman](/Data%20Structures%2FString%2F0012.%20Integer%20to%20Roman): Convert an integer into its Roman numeral representation
 
 [0151. Reverse Words in a String](/Data%20Structures%2FString%2F0151.%20Reverse%20Words%20in%20a%20String): Reverse the order of words in a string while preserving spaces
