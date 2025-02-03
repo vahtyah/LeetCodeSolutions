@@ -136,6 +136,8 @@ str += "World"; // Creates a new string instance
 
 [0012. Integer to Roman](/Data%20Structures%2FString%2F0012.%20Integer%20to%20Roman): Convert an integer into its Roman numeral representation
 
+[0151. Reverse Words in a String](/Data%20Structures%2FString%2F0151.%20Reverse%20Words%20in%20a%20String): Reverse the order of words in a string while preserving spaces
+
 [0916. Word Subsets](/Data%20Structures%2FString%2F0916.%20Word%20Subsets): Find all words from `B` that are universal in `A`
 
 [3223. Minimum Length of String After Operations](/Data%20Structures%2FString%2F3223.%20Minimum%20Length%20of%20String%20After%20Operations): Find the minimum length of a string after applying operations
