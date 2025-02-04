@@ -38,6 +38,8 @@ public static void TwoPointersAlgorithm(int[] nums)
 
 [0080. Remove Duplicates from Sorted Array II](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II): Remove duplicates from a sorted array in-place, allowing at most two duplicates.
 
+[0167. Two Sum II - Input Array Is Sorted](/Two%20Pointers%2F0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted): Find two numbers in sorted array that add up to a target
+
 [0443. String Compression](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0443.%20String%20Compression): Compress a string by replacing consecutive duplicate characters with the character followed by the number of occurrences.
 
 [2462. Total Cost to Hire K Workers](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/2462.%20Total%20Cost%20to%20Hire%20K%20Workers): Calculate the minimum total cost to hire `k` workers based on their quality and wage requirements.
