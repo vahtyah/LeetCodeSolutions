@@ -71,6 +71,8 @@ public class ArrayExamples
 
 [1752. Check if Array Is Sorted and Rotated](/Data%20Structures%2FArray%2F1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated): Determine if a rotated sorted array is still sorted
 
+[1800. Maximum Ascending Subarray Sum](/Data%20Structures%2FArray%2F1800.%20Maximum%20Ascending%20Subarray%20Sum): Find the maximum sum of a contiguous ascending subarray
+
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](/Data%20Structures%2FArray%2F3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray): Find longest contiguous strictly increasing or strictly decreasing subarray
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
