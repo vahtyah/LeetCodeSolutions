@@ -143,3 +143,7 @@ str += "World"; // Creates a new string instance
 [0916. Word Subsets](/Data%20Structures%2FString%2F0916.%20Word%20Subsets): Find all words from `B` that are universal in `A`
 
 [3223. Minimum Length of String After Operations](/Data%20Structures%2FString%2F3223.%20Minimum%20Length%20of%20String%20After%20Operations): Find the minimum length of a string after applying operations
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[0068. Text Justification](/Data%20Structures%2FString%2F0068.%20Text%20Justification): Left-justify, right-justify, or center-justify text with variable word spacing
