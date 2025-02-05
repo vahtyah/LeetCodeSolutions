@@ -132,6 +132,8 @@ str += "World"; // Creates a new string instance
 
 [0058. Length of Last Word](/Data%20Structures%2FString%2F0058.%20Length%20of%20Last%20Word): Find length of last word in a string
 
+[1790. Check if One String Swap Can Make Strings Equal](/Data%20Structures%2FString%2F1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal): Swap any two characters of one string to check if equal to another
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0006. Zigzag Conversion](/Data%20Structures%2FString%2F0006.%20Zigzag%20Conversion): Convert a string into a zigzag pattern
