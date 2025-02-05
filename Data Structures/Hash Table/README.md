@@ -70,6 +70,8 @@ foreach (var pair in dict)
 
 [0001. Two Sum](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Hash%20Table/0001.%20Two%20Sum): Find two numbers that add up to a specific target.
 
+[0383. Ransom Note](/Data%20Structures%2FHash%20Table%2F0383.%20Ransom%20Note): Can a ransom note be formed from a magazine?
+
 [1768. Merge Strings Alternately](/Data%20Structures%2FHash%20Table%2F1768.%20Merge%20Strings%20Alternately): Merge two strings alternately, character by character
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
