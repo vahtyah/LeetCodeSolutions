@@ -67,4 +67,6 @@ public static void SlidingWindowAlgorithm(int[] nums)
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0003. Longest Substring Without Repeating Characters](/Sliding%20Window%2F0003.%20Longest%20Substring%20Without%20Repeating%20Characters): Find the length of the longest substring without repeating characters
+
 [0209. Minimum Size Subarray Sum](/Sliding%20Window%2F0209.%20Minimum%20Size%20Subarray%20Sum): Find the smallest contiguous subarray with a sum greater than or equal to a given target
