@@ -46,9 +46,6 @@ public static void Backtrack(int[] nums, List<int> path, List<List<int>> result)
 ```
 ## Solutions
 
-### ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
-[0017. Letter Combinations of a Phone Number](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Backtracking/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number): Find all possible letter combinations that the number could represent.
-
-[0216. Combination Sum III](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Backtracking/0216.%20Combination%20Sum%20III): Find all valid combinations of `k` numbers that sum up to `n`.
-
+[0051. N-Queens](/Backtracking%2F0051.%20N-Queens): Place N queens on an NxN chessboard, ensuring no 2 queens attack each other
