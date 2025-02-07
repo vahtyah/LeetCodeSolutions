@@ -77,3 +77,5 @@ foreach (var pair in dict)
 [0380. Insert Delete GetRandom O(1)](/Data%20Structures%2FHash%20Table%2F0380.%20Insert%20Delete%20GetRandom%20O%281%29): Design a data structure that supports insert, delete, and getRandom operations in constant time.
 
 [1726. Tuple with Same Product](/Data%20Structures%2FHash%20Table%2F1726.%20Tuple%20with%20Same%20Product): Count tuples with same product in an array
+
+[3160. Find the Number of Distinct Colors Among the Balls](/Data%20Structures%2FHash%20Table%2F3160.%20Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls): Count the number of distinct colors of balls
