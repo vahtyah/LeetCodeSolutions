@@ -26,3 +26,23 @@ public class Solution {
         return maxLength;
     }
 }
+
+public class Solution {
+    public int LengthOfLongestSubstring(string s) {
+        var letters = new bool[128];
+        var left = 0;
+        var right = 0;
+        var answer = 0;
+        while(right < s.Length){
+            while(letters[s[right]]){
+                letters[s[left]] = false;
+                left++;
+            }
+            letters[s[right]] = true;
+            right++;
+            answer = Math.Max(answer, right - left);
+        }
+
+        return answer;
+    }
+}
