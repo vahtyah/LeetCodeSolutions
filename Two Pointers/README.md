@@ -30,6 +30,8 @@ public static void TwoPointersAlgorithm(int[] nums)
 
 [0125. Valid Palindrome](/Two%20Pointers%2F0125.%20Valid%20Palindrome): Determine if a given string is a palindrome
 
+[0202. Happy Number](/Two%20Pointers%2F0202.%20Happy%20Number): Determine if a number is happy after repeatedly squaring its digits and summing them until a fixed point is reached
+
 [0283. Move Zeroes](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0283.%20Move%20Zeroes): Move all zeroes to the end of an array while maintaining the relative order of non-zero elements.
 
 [0392. Is Subsequence](/Two%20Pointers%2F0392.%20Is%20Subsequence): Given two strings, determine if the second is a subsequence of the first
