@@ -6,6 +6,8 @@ namespace LeetCodeSolutions.DataStructures/Stack;
  * Submission Time: 2025-02-10 06:48:37
  * Created by vahtyah on 2025-02-10 06:54:39
 */
+
+//Faster https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/String/3174.%20Clear%20Digits
  
 public class Solution {
     public string ClearDigits(string s) {
