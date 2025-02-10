@@ -70,3 +70,7 @@ public static void SlidingWindowAlgorithm(int[] nums)
 [0003. Longest Substring Without Repeating Characters](/Sliding%20Window%2F0003.%20Longest%20Substring%20Without%20Repeating%20Characters): Find the length of the longest substring without repeating characters
 
 [0209. Minimum Size Subarray Sum](/Sliding%20Window%2F0209.%20Minimum%20Size%20Subarray%20Sum): Find the smallest contiguous subarray with a sum greater than or equal to a given target
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[0030. Substring with Concatenation of All Words](/Sliding%20Window%2F0030.%20Substring%20with%20Concatenation%20of%20All%20Words): Find substring containing concatenation of all words in a list
