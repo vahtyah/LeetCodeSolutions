@@ -134,6 +134,8 @@ str += "World"; // Creates a new string instance
 
 [1790. Check if One String Swap Can Make Strings Equal](/Data%20Structures%2FString%2F1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal): Swap any two characters of one string to check if equal to another
 
+[3174. Clear Digits](/Data%20Structures%2FString%2F3174.%20Clear%20Digits): Remove all digits from a given string
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0006. Zigzag Conversion](/Data%20Structures%2FString%2F0006.%20Zigzag%20Conversion): Convert a string into a zigzag pattern
