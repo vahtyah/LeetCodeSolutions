@@ -241,3 +241,6 @@ public bool NaiveSearch(string pattern, string text) {
 
 [3042. Count Prefix and Suffix Pairs I](/String%20Matching%2F3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I): Count the number of pairs of words where the first word is a prefix of the second word
 
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
+
+[1910. Remove All Occurrences of a Substring](/String%20Matching%2F1910.%20Remove%20All%20Occurrences%20of%20a%20Substring): Remove all instances of a given substring from a string
