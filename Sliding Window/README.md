@@ -74,3 +74,5 @@ public static void SlidingWindowAlgorithm(int[] nums)
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0030. Substring with Concatenation of All Words](/Sliding%20Window%2F0030.%20Substring%20with%20Concatenation%20of%20All%20Words): Find substring containing concatenation of all words in a list
+
+[0076. Minimum Window Substring](/Sliding%20Window%2F0076.%20Minimum%20Window%20Substring): Find the minimum-length substring containing all characters of another string
