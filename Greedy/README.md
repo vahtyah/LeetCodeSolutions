@@ -45,6 +45,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [2116. Check if a Parentheses String Can Be Valid](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid): Check if a parentheses string can be made valid by adding parentheses.
 
+[2342. Max Sum of a Pair With Equal Sum of Digits](/Greedy%2F2342.%20Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits): Find the pair with equal digit sums and maximum sum
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0135. Candy](/Greedy%2F0135.%20Candy): Distribute candies to children such that each child has at least one and adjacent children get different candies
