@@ -84,6 +84,8 @@ while(n > 0) {
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0036. Valid Sudoku](/Bit%20Manipulation%2F0036.%20Valid%20Sudoku): Determine if a Sudoku board is valid
+
 [1318. Minimum Flips to Make a OR b Equal to c](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c): Find the minimum number of flips to make `a | b` equal to `c`.
 
 [2425. Bitwise XOR of All Pairings](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2425.%20Bitwise%20XOR%20of%20All%20Pairings): Calculate the bitwise XOR of all possible pairings of an array.
