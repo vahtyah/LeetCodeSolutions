@@ -77,6 +77,8 @@ public class ArrayExamples
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0048. Rotate Image](/Data%20Structures%2FArray%2F0048.%20Rotate%20Image): Rotate a square matrix 90 degrees clockwise
+
 [0054. Spiral Matrix](/Data%20Structures%2FArray%2F0054.%20Spiral%20Matrix): Traverse a matrix in a spiral pattern
 
 [1267. Count Servers that Communicate](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures%2FArray%2F1267.%20Count%20Servers%20that%20Communicate): Count the number of servers that can communicate with at least one other server in a grid.
