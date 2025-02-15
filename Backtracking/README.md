@@ -52,6 +52,8 @@ public static void Backtrack(int[] nums, List<int> path, List<List<int>> result)
 
 [0216. Combination Sum III](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Backtracking/0216.%20Combination%20Sum%20III): Find all valid combinations of `k` numbers that sum up to `n`.
 
+[2698. Find the Punishment Number of an Integer](/Backtracking%2F2698.%20Find%20the%20Punishment%20Number%20of%20an%20Integer): Find the count of distinct prime factors of an integer
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0051. N-Queens](/Backtracking%2F0051.%20N-Queens): Place N queens on an NxN chessboard, ensuring no 2 queens attack each other
