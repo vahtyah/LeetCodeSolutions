@@ -1,3 +1,41 @@
+### Optimize
+
+- **AggressiveInlining** - This attribute tells the compiler to optimize the method for performance. It is useful when the method is small and called frequently.
+```csharp
+using System.Runtime.CompilerServices;
+
+public Solution {
+    [MethodImpl(MethodImplOptions.AggressiveInlining)]
+    public void Method() {
+        // Code here
+    }
+}
+```
+- Span<T> - Span<T> is a new type in C# that provides a way to work with contiguous regions of arbitrary memory in a safe and efficient manner. It is useful for avoiding unnecessary memory allocations and improving performance.
+```csharp
+using System;
+   
+public Solution {
+    public void Method() {
+        int[] array = new int[10];
+        Span<int> span = new Span<int>(array);
+        // Use the span here
+    }
+}
+```
+- **Memory<T>** - Memory<T> is another type that represents a contiguous region of memory, similar to Span<T>. It is read-only and can be used to avoid unnecessary memory allocations.
+```csharp
+using System;
+
+public Solution {
+    public void Method() {
+        int[] array = new int[10];
+        Memory<int> memory = new Memory<int>(array);
+        // Use the memory here
+    }
+}
+```
+
 ### Match
 ```csharp
 // Check odd or even using bitwise operator
@@ -53,48 +91,5 @@ int swapSign = ~num + 1;
 
 // Get the average of two numbers
 int average = (a & b) + ((a ^ b) >> 1);
-```
-### Bit Manipulation
-```csharp
-    
-// Set a bit at position i
-int setBit = num | (1 << i);
-
-// Clear a bit at position i
-int clearBit = num & ~(1 << i);
-
-// Toggle a bit at position i
-int toggleBit = num ^ (1 << i);
-
-// Check if a bit at position i is set
-bool isSet = (num & (1 << i)) != 0;
-
-// Get the rightmost set bit
-int rightmostSetBit = num & -num;
-
-// Count the number of set bits
-int countBits = 0;
-while(n > 0) {
-    countBits += n & 1;
-    n >>= 1;
-}
-```
-
-### GCD & LCM
-```csharp
-// GCD (Greatest Common Divisor)
-public int GCD(int a, int b) {
-    while(b != 0) {
-        int temp = b;
-        b = a % b;
-        a = temp;
-    }
-    return a;
-}
-
-// LCM (Least Common Multiple)
-public int LCM(int a, int b) {
-    return (a * b) / GCD(a, b);
-}
 ```
 
