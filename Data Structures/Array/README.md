@@ -83,6 +83,8 @@ public class ArrayExamples
 
 [0073. Set Matrix Zeroes](/Data%20Structures%2FArray%2F0073.%20Set%20Matrix%20Zeroes): Set zero if row or column has a zero
 
+[0289. Game of Life](/Data%20Structures%2FArray%2F0289.%20Game%20of%20Life): Determine the next state of a game board with living and dead cells
+
 [1267. Count Servers that Communicate](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures%2FArray%2F1267.%20Count%20Servers%20that%20Communicate): Count the number of servers that can communicate with at least one other server in a grid.
 
 [2364. Count Number of Bad Pairs](/Data%20Structures%2FArray%2F2364.%20Count%20Number%20of%20Bad%20Pairs): Count pairs of elements with bigger elements on right
