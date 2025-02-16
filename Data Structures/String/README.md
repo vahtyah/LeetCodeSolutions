@@ -134,6 +134,8 @@ str += "World"; // Creates a new string instance
 
 [0205. Isomorphic Strings](/Data%20Structures%2FString%2F0205.%20Isomorphic%20Strings): Determine if two strings are isomorphic by mapping characters
 
+[0242. Valid Anagram](/Data%20Structures%2FString%2F0242.%20Valid%20Anagram): Determine if two strings are anagrams of each other
+
 [1790. Check if One String Swap Can Make Strings Equal](/Data%20Structures%2FString%2F1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal): Swap any two characters of one string to check if equal to another
 
 [3174. Clear Digits](/Data%20Structures%2FString%2F3174.%20Clear%20Digits): Remove all digits from a given string
