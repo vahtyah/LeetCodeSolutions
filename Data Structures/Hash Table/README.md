@@ -70,6 +70,8 @@ foreach (var pair in dict)
 
 [0001. Two Sum](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Hash%20Table/0001.%20Two%20Sum): Find two numbers that add up to a specific target.
 
+[0217. Contains Duplicate](/Data%20Structures%2FHash%20Table%2F0217.%20Contains%20Duplicate): Find if any element appears at least twice in an array
+
 [0290. Word Pattern](/Data%20Structures%2FHash%20Table%2F0290.%20Word%20Pattern): Check if a pattern of letters maps to a pattern of words
 
 [0383. Ransom Note](/Data%20Structures%2FHash%20Table%2F0383.%20Ransom%20Note): Can a ransom note be formed from a magazine?
