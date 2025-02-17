@@ -54,6 +54,8 @@ public static void Backtrack(int[] nums, List<int> path, List<List<int>> result)
 
 [0216. Combination Sum III](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Backtracking/0216.%20Combination%20Sum%20III): Find all valid combinations of `k` numbers that sum up to `n`.
 
+[1079. Letter Tile Possibilities](/Backtracking%2F1079.%20Letter%20Tile%20Possibilities): Given a letter tile set, find the number of distinct letter combinations
+
 [1718. Construct the Lexicographically Largest Valid Sequence](/Backtracking%2F1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence): Construct the largest sequence by concatenating 1 to N numbers in a valid order
 
 [2698. Find the Punishment Number of an Integer](/Backtracking%2F2698.%20Find%20the%20Punishment%20Number%20of%20an%20Integer): Find the count of distinct prime factors of an integer
