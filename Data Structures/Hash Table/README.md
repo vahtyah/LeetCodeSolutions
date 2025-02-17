@@ -72,6 +72,8 @@ foreach (var pair in dict)
 
 [0217. Contains Duplicate](/Data%20Structures%2FHash%20Table%2F0217.%20Contains%20Duplicate): Find if any element appears at least twice in an array
 
+[0219. Contains Duplicate II](/Data%20Structures%2FHash%20Table%2F0219.%20Contains%20Duplicate%20II): Determine if any two elements in an array differ by at most k and are within range k
+
 [0290. Word Pattern](/Data%20Structures%2FHash%20Table%2F0290.%20Word%20Pattern): Check if a pattern of letters maps to a pattern of words
 
 [0383. Ransom Note](/Data%20Structures%2FHash%20Table%2F0383.%20Ransom%20Note): Can a ransom note be formed from a magazine?
