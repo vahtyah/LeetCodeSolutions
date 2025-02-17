@@ -50,6 +50,8 @@ public static void Backtrack(int[] nums, List<int> path, List<List<int>> result)
 
 [0017. Letter Combinations of a Phone Number](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Backtracking/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number): Find all possible letter combinations that the number could represent.
 
+[0046. Permutations](/Backtracking%2F0046.%20Permutations): Find all unique permutations of a given array
+
 [0216. Combination Sum III](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Backtracking/0216.%20Combination%20Sum%20III): Find all valid combinations of `k` numbers that sum up to `n`.
 
 [1718. Construct the Lexicographically Largest Valid Sequence](/Backtracking%2F1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence): Construct the largest sequence by concatenating 1 to N numbers in a valid order
