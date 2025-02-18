@@ -69,6 +69,8 @@ public class ArrayExamples
 
 [0169. Majority Element](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Array/0169.%20Majority%20Element): Find the majority element in an array, which appears more than `n / 2` times.
 
+[0228. Summary Ranges](/Data%20Structures%2FArray%2F0228.%20Summary%20Ranges): Merge overlapping intervals and summarize them as ranges
+
 [1752. Check if Array Is Sorted and Rotated](/Data%20Structures%2FArray%2F1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated): Determine if a rotated sorted array is still sorted
 
 [1800. Maximum Ascending Subarray Sum](/Data%20Structures%2FArray%2F1800.%20Maximum%20Ascending%20Subarray%20Sum): Find the maximum sum of a contiguous ascending subarray
