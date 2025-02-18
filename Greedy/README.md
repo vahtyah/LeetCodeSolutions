@@ -47,6 +47,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [2342. Max Sum of a Pair With Equal Sum of Digits](/Greedy%2F2342.%20Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits): Find the pair with equal digit sums and maximum sum
 
+[2375. Construct Smallest Number From DI String](/Greedy%2F2375.%20Construct%20Smallest%20Number%20From%20DI%20String): Construct smallest number from string of 'I' and 'D'
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0135. Candy](/Greedy%2F0135.%20Candy): Distribute candies to children such that each child has at least one and adjacent children get different candies
