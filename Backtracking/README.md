@@ -56,6 +56,8 @@ public static void Backtrack(int[] nums, List<int> path, List<List<int>> result)
 
 [1079. Letter Tile Possibilities](/Backtracking%2F1079.%20Letter%20Tile%20Possibilities): Given a letter tile set, find the number of distinct letter combinations
 
+[1415. The k-th Lexicographical String of All Happy Strings of Length n](/Backtracking%2F1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n): Find the k-th lexicographically smallest happy string of length n
+
 [1718. Construct the Lexicographically Largest Valid Sequence](/Backtracking%2F1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence): Construct the largest sequence by concatenating 1 to N numbers in a valid order
 
 [2375. Construct Smallest Number From DI String](/Backtracking%2F2375.%20Construct%20Smallest%20Number%20From%20DI%20String): Construct smallest number from digit string with "I" and "D" operations
