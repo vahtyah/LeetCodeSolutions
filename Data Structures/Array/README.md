@@ -83,6 +83,8 @@ public class ArrayExamples
 
 [0054. Spiral Matrix](/Data%20Structures%2FArray%2F0054.%20Spiral%20Matrix): Traverse a matrix in a spiral pattern
 
+[0056. Merge Intervals](/Data%20Structures%2FArray%2F0056.%20Merge%20Intervals): Merge overlapping intervals in an interval list
+
 [0073. Set Matrix Zeroes](/Data%20Structures%2FArray%2F0073.%20Set%20Matrix%20Zeroes): Set zero if row or column has a zero
 
 [0289. Game of Life](/Data%20Structures%2FArray%2F0289.%20Game%20of%20Life): Determine the next state of a game board with living and dead cells
