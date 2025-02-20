@@ -60,6 +60,8 @@ public static void Backtrack(int[] nums, List<int> path, List<List<int>> result)
 
 [1718. Construct the Lexicographically Largest Valid Sequence](/Backtracking%2F1718.%20Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence): Construct the largest sequence by concatenating 1 to N numbers in a valid order
 
+[1980. Find Unique Binary String](/Backtracking%2F1980.%20Find%20Unique%20Binary%20String): Find a unique binary string of length n with no repeated substrings of length m
+
 [2375. Construct Smallest Number From DI String](/Backtracking%2F2375.%20Construct%20Smallest%20Number%20From%20DI%20String): Construct smallest number from digit string with "I" and "D" operations
 
 [2698. Find the Punishment Number of an Integer](/Backtracking%2F2698.%20Find%20the%20Punishment%20Number%20of%20an%20Integer): Find the count of distinct prime factors of an integer
