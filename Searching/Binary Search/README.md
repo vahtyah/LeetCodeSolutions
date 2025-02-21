@@ -47,8 +47,8 @@ public static int BinarySearch(int[] nums, int target)
 }
 ```
 
-[//]: # (## Solutions)
+## Solutions
 
-[//]: # (### ![Easy]&#40;https://img.shields.io/badge/Easy-46c6c2&#41;)
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
-[//]: # (### ![Medium]&#40;https://img.shields.io/badge/Medium-fac31d&#41;)
+[0162. Find Peak Element](/Searching%2FBinary%20Search%2F0162.%20Find%20Peak%20Element): Find the peak element in an array
