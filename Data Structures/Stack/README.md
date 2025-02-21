@@ -91,3 +91,5 @@ public class Program
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0071. Simplify Path](/Data%20Structures%2FStack%2F0071.%20Simplify%20Path): Simplify a Unix-like file path
+
+[0155. Min Stack](/Data%20Structures%2FStack%2F0155.%20Min%20Stack): Design a stack that supports constant-time push, pop, and minimum retrieval
