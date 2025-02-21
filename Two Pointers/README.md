@@ -18,6 +18,30 @@ public static void TwoPointersAlgorithm(int[] nums)
     }
 }
 ```
+
+## Algorithms
+
+- Floyd's Tortoise and Hare (Cycle Detection)
+```csharp
+public static bool HasCycle(ListNode head)
+{
+    ListNode slow = head;
+    ListNode fast = head;
+
+    while (fast != null && fast.next != null)
+    {
+        slow = slow.next;
+        fast = fast.next.next;
+
+        if (slow == fast)
+        {
+            return true;
+        }
+    }
+
+    return false;
+}
+```
 ## Solutions
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
@@ -29,6 +53,8 @@ public static void TwoPointersAlgorithm(int[] nums)
 [0088. Merge Sorted Array](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0088.%20Merge%20Sorted%20Array): Merge two sorted arrays in-place.
 
 [0125. Valid Palindrome](/Two%20Pointers%2F0125.%20Valid%20Palindrome): Determine if a given string is a palindrome
+
+[0141. Linked List Cycle](/Two%20Pointers%2F0141.%20Linked%20List%20Cycle): Determine if a linked list contains a cycle
 
 [0202. Happy Number](/Two%20Pointers%2F0202.%20Happy%20Number): Determine if a number is happy after repeatedly squaring its digits and summing them until a fixed point is reached
 
