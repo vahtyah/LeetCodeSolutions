@@ -87,3 +87,7 @@ public class Program
 [0020. Valid Parentheses](/Data%20Structures%2FStack%2F0020.%20Valid%20Parentheses): Determine if a given string of parentheses is valid
 
 [3174. Clear Digits](/Data%20Structures%2FStack%2F3174.%20Clear%20Digits): Remove digits from a string to minimize the resulting integer
+
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
+
+[0071. Simplify Path](/Data%20Structures%2FStack%2F0071.%20Simplify%20Path): Simplify a Unix-like file path
