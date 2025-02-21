@@ -52,3 +52,5 @@ public static int BinarySearch(int[] nums, int target)
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0162. Find Peak Element](/Searching%2FBinary%20Search%2F0162.%20Find%20Peak%20Element): Find the peak element in an array
+
+[0875. Koko Eating Bananas](/Searching%2FBinary%20Search%2F0875.%20Koko%20Eating%20Bananas): Koko eats bananas at varying speeds; find the minimum speed to finish all
