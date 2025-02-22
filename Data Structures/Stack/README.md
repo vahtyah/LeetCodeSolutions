@@ -95,3 +95,7 @@ public class Program
 [0150. Evaluate Reverse Polish Notation](/Data%20Structures%2FStack%2F0150.%20Evaluate%20Reverse%20Polish%20Notation): Evaluate mathematical expression from postfix notation
 
 [0155. Min Stack](/Data%20Structures%2FStack%2F0155.%20Min%20Stack): Design a stack that supports constant-time push, pop, and minimum retrieval
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[1028. Recover a Tree From Preorder Traversal](/Data%20Structures%2FStack%2F1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal): Recover binary tree structure from preorder traversal
