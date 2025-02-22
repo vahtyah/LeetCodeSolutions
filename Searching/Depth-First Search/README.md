@@ -65,6 +65,6 @@ public class Graph
 
 [//]: # (## Solutions
 
-### ![Medium](https://img.shields.io/badge/Medium-fac31d)
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
-[2658. Maximum Number of Fish in a Grid](/Searching%2FDepth-First%20Search%2F2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid): Description not available
+[1028. Recover a Tree From Preorder Traversal](/Searching%2FDepth-First%20Search%2F1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal): Recover a binary tree from its preorder traversal string
