@@ -4,4 +4,6 @@
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0092. Reverse Linked List II](/Data%20Structures%2FLinked%20List%2F0092.%20Reverse%20Linked%20List%20II): Reverse a sublist of a linked list in place
+
 [0138. Copy List with Random Pointer](/Data%20Structures%2FLinked%20List%2F0138.%20Copy%20List%20with%20Random%20Pointer): Clone a linked list with random pointers
