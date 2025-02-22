@@ -68,6 +68,8 @@ public static bool HasCycle(ListNode head)
 
 [0015. 3Sum](/Two%20Pointers%2F0015.%203Sum): Find three numbers in an array that sum to zero
 
+[0019. Remove Nth Node From End of List](/Two%20Pointers%2F0019.%20Remove%20Nth%20Node%20From%20End%20of%20List): Remove the nth node from the end of a linked list
+
 [0080. Remove Duplicates from Sorted Array II](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II): Remove duplicates from a sorted array in-place, allowing at most two duplicates.
 
 [0167. Two Sum II - Input Array Is Sorted](/Two%20Pointers%2F0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted): Find two numbers in sorted array that add up to a target
