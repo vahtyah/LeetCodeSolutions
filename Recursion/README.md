@@ -12,4 +12,6 @@
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
+[0025. Reverse Nodes in k-Group](/Recursion%2F0025.%20Reverse%20Nodes%20in%20k-Group): Reverse every k nodes in a linked list
+
 [0224. Basic Calculator](/Recursion%2F0224.%20Basic%20Calculator): Evaluate a mathematical expression represented as a string
