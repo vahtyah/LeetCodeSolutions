@@ -63,8 +63,21 @@ public class Graph
 }
 ```
 
-[//]: # (## Solutions
+## Solutions
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
+[0100. Same Tree](/Searching%2FDepth-First%20Search%2F0100.%20Same%20Tree): Determine if two binary trees are structurally identical
+
 [0104. Maximum Depth of Binary Tree](/Searching%2FDepth-First%20Search%2F0104.%20Maximum%20Depth%20of%20Binary%20Tree): Find the maximum depth of a binary tree
+
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
+
+[0802. Find Eventual Safe States](/Searching%2FDepth-First%20Search%2F0802.%20Find%20Eventual%20Safe%20States): Find the eventual safe states of a directed graph
+
+[2658. Maximum Number of Fish in a Grid](/Searching%2FDepth-First%20Search%2F2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid): Find the maximum number of fish that can be caught in a grid
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[1028. Recover a Tree From Preorder Traversal](/Searching%2FDepth-First%20Search%2F1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal): Recover a binary tree from a preorder traversal sequence
+
