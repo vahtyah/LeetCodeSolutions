@@ -72,6 +72,8 @@ public static bool HasCycle(ListNode head)
 
 [0080. Remove Duplicates from Sorted Array II](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II): Remove duplicates from a sorted array in-place, allowing at most two duplicates.
 
+[0082. Remove Duplicates from Sorted List II](/Two%20Pointers%2F0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II): Remove duplicate adjacent elements from sorted linked list
+
 [0167. Two Sum II - Input Array Is Sorted](/Two%20Pointers%2F0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted): Find two numbers in sorted array that add up to a target
 
 [0443. String Compression](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/0443.%20String%20Compression): Compress a string by replacing consecutive duplicate characters with the character followed by the number of occurrences.
