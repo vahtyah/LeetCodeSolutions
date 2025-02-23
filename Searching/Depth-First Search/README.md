@@ -65,6 +65,6 @@ public class Graph
 
 [//]: # (## Solutions
 
-### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
-[1028. Recover a Tree From Preorder Traversal](/Searching%2FDepth-First%20Search%2F1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal): Recover a binary tree from its preorder traversal string
+[0104. Maximum Depth of Binary Tree](/Searching%2FDepth-First%20Search%2F0104.%20Maximum%20Depth%20of%20Binary%20Tree): Find the maximum depth of a binary tree
