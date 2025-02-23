@@ -69,6 +69,8 @@ public class Graph
 
 [0100. Same Tree](/Searching%2FDepth-First%20Search%2F0100.%20Same%20Tree): Determine if two binary trees are structurally identical
 
+[0101. Symmetric Tree](/Searching%2FDepth-First%20Search%2F0101.%20Symmetric%20Tree): Check if a binary tree is mirror-symmetrical
+
 [0104. Maximum Depth of Binary Tree](/Searching%2FDepth-First%20Search%2F0104.%20Maximum%20Depth%20of%20Binary%20Tree): Find the maximum depth of a binary tree
 
 [0226. Invert Binary Tree](/Searching%2FDepth-First%20Search%2F0226.%20Invert%20Binary%20Tree): Reverse left and right subtrees of each node in a binary tree
