@@ -71,6 +71,8 @@ public class Graph
 
 [0104. Maximum Depth of Binary Tree](/Searching%2FDepth-First%20Search%2F0104.%20Maximum%20Depth%20of%20Binary%20Tree): Find the maximum depth of a binary tree
 
+[0226. Invert Binary Tree](/Searching%2FDepth-First%20Search%2F0226.%20Invert%20Binary%20Tree): Reverse left and right subtrees of each node in a binary tree
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0802. Find Eventual Safe States](/Searching%2FDepth-First%20Search%2F0802.%20Find%20Eventual%20Safe%20States): Find the eventual safe states of a directed graph
@@ -80,4 +82,3 @@ public class Graph
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [1028. Recover a Tree From Preorder Traversal](/Searching%2FDepth-First%20Search%2F1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal): Recover a binary tree from a preorder traversal sequence
-
