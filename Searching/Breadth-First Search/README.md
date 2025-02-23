@@ -107,6 +107,10 @@ public class Program
 
 ## Solutions
 
+### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
+
+[0104. Maximum Depth of Binary Tree](/Searching%2FBreadth-First%20Search%2F0104.%20Maximum%20Depth%20of%20Binary%20Tree): Find the maximum depth of a given binary tree
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [1462. Course Schedule IV](/Searching%2FBreadth-First%20Search%2F1462.%20Course%20Schedule%20IV): Check if a course is a prerequisite of another course.
@@ -122,4 +126,3 @@ public class Program
 [2127. Maximum Employees to Be Invited to a Meeting](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FBreadth-First%20Search%2F2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting): Find the maximum number of employees to invite to a meeting.
 
 [2493. Divide Nodes Into the Maximum Number of Groups](/Searching%2FBreadth-First%20Search%2F2493.%20Divide%20Nodes%20Into%20the%20Maximum%20Number%20of%20Groups): Divide nodes into the maximum number of groups.
-
