@@ -109,6 +109,8 @@ public class Program
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
+[0100. Same Tree](/Searching%2FBreadth-First%20Search%2F0100.%20Same%20Tree): Are two binary trees structurally identical?
+
 [0104. Maximum Depth of Binary Tree](/Searching%2FBreadth-First%20Search%2F0104.%20Maximum%20Depth%20of%20Binary%20Tree): Find the maximum depth of a given binary tree
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
