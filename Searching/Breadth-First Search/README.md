@@ -113,6 +113,8 @@ public class Program
 
 [0104. Maximum Depth of Binary Tree](/Searching%2FBreadth-First%20Search%2F0104.%20Maximum%20Depth%20of%20Binary%20Tree): Find the maximum depth of a given binary tree
 
+[0226. Invert Binary Tree](/Searching%2FBreadth-First%20Search%2F0226.%20Invert%20Binary%20Tree): Flip every left and right subtree in a binary tree
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [1462. Course Schedule IV](/Searching%2FBreadth-First%20Search%2F1462.%20Course%20Schedule%20IV): Check if a course is a prerequisite of another course.
