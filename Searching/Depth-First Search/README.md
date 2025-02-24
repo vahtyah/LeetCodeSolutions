@@ -79,6 +79,8 @@ public class Graph
 
 [0802. Find Eventual Safe States](/Searching%2FDepth-First%20Search%2F0802.%20Find%20Eventual%20Safe%20States): Find the eventual safe states of a directed graph
 
+[2467. Most Profitable Path in a Tree](/Searching%2FDepth-First%20Search%2F2467.%20Most%20Profitable%20Path%20in%20a%20Tree): Find maximum profit path in a tree with edge profits
+
 [2658. Maximum Number of Fish in a Grid](/Searching%2FDepth-First%20Search%2F2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid): Find the maximum number of fish that can be caught in a grid
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
