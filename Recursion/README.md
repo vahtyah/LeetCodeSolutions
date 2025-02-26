@@ -121,6 +121,8 @@ public int[README.md](README.md) DivideAndConquer(int[] arr, int left, int right
 
 [0105. Construct Binary Tree from Preorder and Inorder Traversal](/Recursion%2F0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal): Given two arrays, preorder and inorder, reconstruct the original binary tree
 
+[0106. Construct Binary Tree from Inorder and Postorder Traversal](/Recursion%2F0106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal): Reconstruct binary tree given inorder and postorder traversals
+
 [0889. Construct Binary Tree from Preorder and Postorder Traversal](/Recursion%2F0889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal): Construct binary tree given preorder and postorder traversals
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
