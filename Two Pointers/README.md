@@ -21,7 +21,9 @@ public static void TwoPointersAlgorithm(int[] nums)
 
 ## Algorithms
 
-- Floyd's Tortoise and Hare (Cycle Detection)
+<details>
+<summary><strong>Floyd's Tortoise and Hare (Cycle Detection)</strong>: Detecting cycles in linked lists or arrays.</summary>
+
 ```csharp
 public static bool HasCycle(ListNode head)
 {
@@ -42,6 +44,8 @@ public static bool HasCycle(ListNode head)
     return false;
 }
 ```
+</details>
+
 ## Solutions
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)

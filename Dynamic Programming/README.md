@@ -13,9 +13,11 @@
    - Use memoization or tabulation to avoid redundant calculations.
    - Return the final solution.
 
-
 ## C# Example
-### 1D
+
+<details>
+<summary><strong>1D</strong></summary>
+
 ```csharp
 public static int DynamicProgrammingAlgorithm(int[] nums)
 {
@@ -33,7 +35,11 @@ public static int DynamicProgrammingAlgorithm(int[] nums)
     return dp[n - 1];
 }
 ```
-### Multi-Dimensional
+</details>
+
+<details>
+<summary><strong>Multi-Dimensional</strong></summary>
+
 ```csharp
 public static int DynamicProgrammingAlgorithm(int[,] matrix)
 {
@@ -95,7 +101,34 @@ public class Solution {
     }
 }
 ```
+</details>
 
+## Algorithms
+
+<details>
+<summary><strong>Kadane's Algorithm</strong>: Find the maximum sum of a subarray within an array.</summary>
+
+```csharp
+ public static int FindMaxSubarraySum(int[] arr)
+ {
+     if (arr == null || arr.Length == 0)
+         return 0;
+     
+     int maxSoFar = arr[0];
+     int maxEndingHere = arr[0];
+     
+     for (int i = 1; i < arr.Length; i++)
+     {
+         // Either extend the previous subarray or start a new one
+         maxEndingHere = Math.Max(arr[i], maxEndingHere + arr[i]);
+         // Update the maximum sum found so far
+         maxSoFar = Math.Max(maxSoFar, maxEndingHere);
+     }
+     
+     return maxSoFar;
+ }
+```
+</details>
 
 ## Solutions
 
@@ -109,10 +142,12 @@ public class Solution {
 
 [0072. Edit Distance](/Dynamic%20Programming%2F0072.%20Edit%20Distance): Find the minimum number of operations required to convert one word to another.
 
+[0122. Best Time to Buy and Sell Stock II](/Dynamic%20Programming%2F0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II): Find the maximum profit that can be obtained by buying and selling a stock multiple times.
+
 [0714. Best Time to Buy and Sell Stock with Transaction Fee](/Dynamic%20Programming%2F0714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee): Find the maximum profit that can be obtained by buying and selling a stock with a transaction fee.
 
 [0790. Domino and Tromino Tiling](/Dynamic%20Programming%2F0790.%20Domino%20and%20Tromino%20Tiling): Find the number of ways to tile a 2 x N board with dominoes and trominoes.
 
 [1143. Longest Common Subsequence](/Dynamic%20Programming%2F1143.%20Longest%20Common%20Subsequence): Find the length of the longest common subsequence between two strings.
 
-[0122. Best Time to Buy and Sell Stock II](/Dynamic%20Programming%2F0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II): Find the maximum profit that can be obtained by buying and selling a stock multiple times.
+[1749. Maximum Absolute Sum of Any Subarray](/Dynamic%20Programming%2F1749.%20Maximum%20Absolute%20Sum%20of%20Any%20Subarray): Find the maximum absolute sum of any subarray
