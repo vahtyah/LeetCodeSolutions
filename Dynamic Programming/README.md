@@ -148,6 +148,8 @@ public class Solution {
 
 [0790. Domino and Tromino Tiling](/Dynamic%20Programming%2F0790.%20Domino%20and%20Tromino%20Tiling): Find the number of ways to tile a 2 x N board with dominoes and trominoes.
 
+[0873. Length of Longest Fibonacci Subsequence](/Dynamic%20Programming%2F0873.%20Length%20of%20Longest%20Fibonacci%20Subsequence): Find the longest Fibonacci subsequence length in array
+
 [1143. Longest Common Subsequence](/Dynamic%20Programming%2F1143.%20Longest%20Common%20Subsequence): Find the length of the longest common subsequence between two strings.
 
 [1749. Maximum Absolute Sum of Any Subarray](/Dynamic%20Programming%2F1749.%20Maximum%20Absolute%20Sum%20of%20Any%20Subarray): Find the maximum absolute sum of any subarray
