@@ -79,6 +79,8 @@ public class Graph
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0129. Sum Root to Leaf Numbers](/Searching%2FDepth-First%20Search%2F0129.%20Sum%20Root%20to%20Leaf%20Numbers): Sum all root-to-leaf path numbers in a binary tree
+
 [0802. Find Eventual Safe States](/Searching%2FDepth-First%20Search%2F0802.%20Find%20Eventual%20Safe%20States): Find the eventual safe states of a directed graph
 
 [2467. Most Profitable Path in a Tree](/Searching%2FDepth-First%20Search%2F2467.%20Most%20Profitable%20Path%20in%20a%20Tree): Find maximum profit path in a tree with edge profits
