@@ -115,6 +115,8 @@ public class Program
 
 [0104. Maximum Depth of Binary Tree](/Searching%2FBreadth-First%20Search%2F0104.%20Maximum%20Depth%20of%20Binary%20Tree): Find the maximum depth of a given binary tree
 
+[0112. Path Sum](/Searching%2FBreadth-First%20Search%2F0112.%20Path%20Sum): Find if a root-to-leaf path sums to target
+
 [0226. Invert Binary Tree](/Searching%2FBreadth-First%20Search%2F0226.%20Invert%20Binary%20Tree): Flip every left and right subtree in a binary tree
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
