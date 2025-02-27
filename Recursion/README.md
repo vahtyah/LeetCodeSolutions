@@ -108,6 +108,39 @@ public int[README.md](README.md) DivideAndConquer(int[] arr, int left, int right
 ```
 </details>
 
+## Algorithms
+
+<details>
+<summary><strong>Morris Traversal</strong>: A tree traversal algorithm that uses threading to avoid using a stack or recursion.</summary>
+
+```csharp
+public void Flatten(TreeNode root) {
+    TreeNode current = root;
+    
+    while (current != null) {
+        // If there's a left subtree
+        if (current.left != null) {
+            // Find the rightmost node in the left subtree
+            TreeNode predecessor = current.left;
+            while (predecessor.right != null) {
+                predecessor = predecessor.right;
+            }
+            
+            // Connect the rightmost node to the current's right subtree
+            predecessor.right = current.right;
+            
+            // Move current's left subtree to its right
+            current.right = current.left;
+            current.left = null;
+        }
+        
+        // Move to the next node
+        current = current.right;
+    }
+}
+```
+</details>
+
 
 ## Solutions
 
@@ -122,6 +155,8 @@ public int[README.md](README.md) DivideAndConquer(int[] arr, int left, int right
 [0105. Construct Binary Tree from Preorder and Inorder Traversal](/Recursion%2F0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal): Given two arrays, preorder and inorder, reconstruct the original binary tree
 
 [0106. Construct Binary Tree from Inorder and Postorder Traversal](/Recursion%2F0106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal): Reconstruct binary tree given inorder and postorder traversals
+
+[0114. Flatten Binary Tree to Linked List](/Recursion%2F0114.%20Flatten%20Binary%20Tree%20to%20Linked%20List): Flatten a binary tree into a linked list in-place
 
 [0889. Construct Binary Tree from Preorder and Postorder Traversal](/Recursion%2F0889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal): Construct binary tree given preorder and postorder traversals
 
