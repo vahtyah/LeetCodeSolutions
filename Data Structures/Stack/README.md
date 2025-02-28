@@ -96,6 +96,8 @@ public class Program
 
 [0155. Min Stack](/Data%20Structures%2FStack%2F0155.%20Min%20Stack): Design a stack that supports constant-time push, pop, and minimum retrieval
 
+[0173. Binary Search Tree Iterator](/Data%20Structures%2FStack%2F0173.%20Binary%20Search%20Tree%20Iterator): Implement an in-order iterator for a binary search tree
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0224. Basic Calculator](/Data%20Structures%2FStack%2F0224.%20Basic%20Calculator): Evaluate a basic mathematical expression
