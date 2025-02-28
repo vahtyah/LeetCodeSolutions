@@ -75,6 +75,8 @@ public class Graph
 
 [0112. Path Sum](/Searching%2FDepth-First%20Search%2F0112.%20Path%20Sum): Determine if root-to-leaf path sums to target
 
+[0222. Count Complete Tree Nodes](/Searching%2FDepth-First%20Search%2F0222.%20Count%20Complete%20Tree%20Nodes): Count nodes in a complete binary tree
+
 [0226. Invert Binary Tree](/Searching%2FDepth-First%20Search%2F0226.%20Invert%20Binary%20Tree): Reverse left and right subtrees of each node in a binary tree
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
