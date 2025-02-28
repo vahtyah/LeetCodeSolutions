@@ -153,3 +153,7 @@ public class Solution {
 [1143. Longest Common Subsequence](/Dynamic%20Programming%2F1143.%20Longest%20Common%20Subsequence): Find the length of the longest common subsequence between two strings.
 
 [1749. Maximum Absolute Sum of Any Subarray](/Dynamic%20Programming%2F1749.%20Maximum%20Absolute%20Sum%20of%20Any%20Subarray): Find the maximum absolute sum of any subarray
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[1092. Shortest Common Supersequence ](/Dynamic%20Programming%2F1092.%20Shortest%20Common%20Supersequence%20): Find shortest string containing two given strings as subsequences
