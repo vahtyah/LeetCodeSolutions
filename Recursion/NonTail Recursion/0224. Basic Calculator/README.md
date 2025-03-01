@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/basic-calculator/?envType=study-plan-v2&envId=top-interview-150">0224. Basic Calculator</a></h1>
+<h1><a href="https://leetcode.com/problems/basic-calculator?envType=study-plan-v2&envId=top-interview-150">0224. Basic Calculator</a></h1>
 
 ![Difficulty: Hard](https://img.shields.io/badge/Hard-f8615c)
 
