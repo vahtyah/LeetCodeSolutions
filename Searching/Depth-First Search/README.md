@@ -79,6 +79,8 @@ public class Graph
 
 [0226. Invert Binary Tree](/Searching%2FDepth-First%20Search%2F0226.%20Invert%20Binary%20Tree): Reverse left and right subtrees of each node in a binary tree
 
+[0530. Minimum Absolute Difference in BST](/Searching%2FDepth-First%20Search%2F0530.%20Minimum%20Absolute%20Difference%20in%20BST): Find minimum absolute difference between any two BST nodes
+
 [0637. Average of Levels in Binary Tree](/Searching%2FDepth-First%20Search%2F0637.%20Average%20of%20Levels%20in%20Binary%20Tree): Calculate the average value of nodes at each level
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
