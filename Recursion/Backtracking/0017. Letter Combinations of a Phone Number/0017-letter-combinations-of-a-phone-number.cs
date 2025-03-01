@@ -1,4 +1,14 @@
+namespace LeetCodeSolutions.Recursion/Backtracking;
+
+/*
+ * 0017. Letter Combinations of a Phone Number
+ * Difficulty: Medium
+ * Submission Time: 2025-01-10 11:53:16
+ * Created by vahtyah on 2025-03-01 08:17:46
+*/
+ 
 public class Solution {
+
     private static readonly string[] digitToLetters = new string[] {
         "",     // 0
         "",     // 1
