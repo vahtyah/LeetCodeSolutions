@@ -1,10 +1,10 @@
-namespace LeetCodeSolutions.Backtracking;
+namespace LeetCodeSolutions.Recursion/Backtracking;
 
 /*
  * 1079. Letter Tile Possibilities
  * Difficulty: Medium
  * Submission Time: 2025-02-17 07:18:04
- * Created by vahtyah on 2025-02-17 07:18:46
+ * Created by vahtyah on 2025-03-01 08:25:59
 */
 
 public class Solution {
@@ -36,43 +36,6 @@ public class Solution {
         chars[i] ^= chars[j];
         chars[j] ^= chars[i];
         chars[i] ^= chars[j];
-    }
-}
-
-public class Solution {
-    public int NumTilePossibilities(string tiles) {
-        if (string.IsNullOrEmpty(tiles)) return 0;
-        if (tiles.Length == 1) return 1;
-        
-        // Count frequency of each character
-        var freq = new int[26];
-        foreach (char c in tiles) {
-            freq[c - 'A']++;
-        }
-        
-        // Use DFS to find all possible combinations
-        return DFS(freq);
-    }
-    
-    private int DFS(int[] freq) {
-        int sum = 0;
-        
-        // Try using each available character
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] == 0) continue;
-            
-            // Use this character
-            freq[i]--;
-            sum++;
-            
-            // Recursively find combinations using remaining characters
-            sum += DFS(freq);
-            
-            // Backtrack
-            freq[i]++;
-        }
-        
-        return sum;
     }
 }
  

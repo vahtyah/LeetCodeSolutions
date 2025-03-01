@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/letter-tile-possibilities/description/?envType=daily-question&envId=2025-02-17">1079. Letter Tile Possibilities</a></h1>
+<h1><a href="https://leetcode.com/problems/letter-tile-possibilities?envType=daily-question&envId=2025-02-17">1079. Letter Tile Possibilities</a></h1>
 
 ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 
