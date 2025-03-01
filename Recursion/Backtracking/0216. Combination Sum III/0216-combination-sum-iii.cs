@@ -1,3 +1,12 @@
+namespace LeetCodeSolutions.Recursion/Backtracking;
+
+/*
+ * 0216. Combination Sum III
+ * Difficulty: Medium
+ * Submission Time: 2025-01-10 19:33:58
+ * Created by vahtyah on 2025-03-01 08:24:22
+*/
+ 
 public class Solution {
     public IList<IList<int>> CombinationSum3(int k, int n) {
         List<IList<int>> result = new List<IList<int>>();
