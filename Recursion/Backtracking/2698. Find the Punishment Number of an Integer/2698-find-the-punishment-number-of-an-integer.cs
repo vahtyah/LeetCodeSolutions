@@ -1,10 +1,10 @@
-namespace LeetCodeSolutions.Backtracking;
+namespace LeetCodeSolutions.Recursion/Backtracking;
 
 /*
  * 2698. Find the Punishment Number of an Integer
  * Difficulty: Medium
  * Submission Time: 2025-02-15 08:46:22
- * Created by vahtyah on 2025-02-15 08:57:03
+ * Created by vahtyah on 2025-03-01 08:29:21
 */
  
 public class Solution {
