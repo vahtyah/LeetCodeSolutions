@@ -1,10 +1,10 @@
-namespace LeetCodeSolutions.Backtracking;
+namespace LeetCodeSolutions.Recursion/Backtracking;
 
 /*
  * 0046. Permutations
  * Difficulty: Medium
  * Submission Time: 2025-02-17 06:23:26
- * Created by vahtyah on 2025-02-17 06:24:42
+ * Created by vahtyah on 2025-03-01 08:22:40
 */
  
 public class Solution {

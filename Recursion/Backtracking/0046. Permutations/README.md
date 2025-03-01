@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/permutations/description/">0046. Permutations</a></h1>
+<h1><a href="https://leetcode.com/problems/permutations">0046. Permutations</a></h1>
 
 ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 
