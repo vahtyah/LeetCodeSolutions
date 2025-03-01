@@ -75,6 +75,8 @@ public class ArrayExamples
 
 [1800. Maximum Ascending Subarray Sum](/Data%20Structures%2FArray%2F1800.%20Maximum%20Ascending%20Subarray%20Sum): Find the maximum sum of a contiguous ascending subarray
 
+[2460. Apply Operations to an Array](/Data%20Structures%2FArray%2F2460.%20Apply%20Operations%20to%20an%20Array): Modify array: double equal adjacent, zero others, shift zeros
+
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](/Data%20Structures%2FArray%2F3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray): Find longest contiguous strictly increasing or strictly decreasing subarray
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
