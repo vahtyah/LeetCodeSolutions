@@ -1,10 +1,10 @@
-namespace LeetCodeSolutions.Recursion;
+namespace LeetCodeSolutions.Searching/Depth-FirstSearch;
 
 /*
  * 0114. Flatten Binary Tree to Linked List
  * Difficulty: Medium
  * Submission Time: 2025-02-27 20:23:13
- * Created by vahtyah on 2025-02-27 20:25:38
+ * Created by vahtyah on 2025-03-01 07:42:39
 */
  
 /**
