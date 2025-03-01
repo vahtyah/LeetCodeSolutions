@@ -85,6 +85,8 @@ public class Graph
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0098. Validate Binary Search Tree](/Searching%2FDepth-First%20Search%2F0098.%20Validate%20Binary%20Search%20Tree): Determine if a binary tree is a valid BST
+
 [0102. Binary Tree Level Order Traversal](/Searching%2FDepth-First%20Search%2F0102.%20Binary%20Tree%20Level%20Order%20Traversal): Traverse binary tree level by level
 
 [0103. Binary Tree Zigzag Level Order Traversal](/Searching%2FDepth-First%20Search%2F0103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal): Traverse a binary tree level by level, zigzagging direction
