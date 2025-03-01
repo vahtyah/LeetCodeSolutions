@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-interview-150">0025. Reverse Nodes in k-Group</a></h1>
+<h1><a href="https://leetcode.com/problems/reverse-nodes-in-k-group?envType=study-plan-v2&envId=top-interview-150">0025. Reverse Nodes in k-Group</a></h1>
 
 ![Difficulty: Hard](https://img.shields.io/badge/Hard-f8615c)
 
