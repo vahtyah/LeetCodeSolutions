@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/?envType=daily-question&envId=2025-02-19">1415. The k-th Lexicographical String of All Happy Strings of Length n</a></h1>
+<h1><a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n?envType=daily-question&envId=2025-02-19">1415. The k-th Lexicographical String of All Happy Strings of Length n</a></h1>
 
 ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 

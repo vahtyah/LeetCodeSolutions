@@ -1,10 +1,10 @@
-namespace LeetCodeSolutions.Backtracking;
+namespace LeetCodeSolutions.Recursion/Backtracking;
 
 /*
  * 1415. The k-th Lexicographical String of All Happy Strings of Length n
  * Difficulty: Medium
  * Submission Time: 2025-02-19 06:24:18
- * Created by vahtyah on 2025-02-19 06:27:24
+ * Created by vahtyah on 2025-03-01 08:27:04
 */
  
 public class Solution {
