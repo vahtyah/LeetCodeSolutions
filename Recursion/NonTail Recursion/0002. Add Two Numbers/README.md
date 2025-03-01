@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/add-two-numbers/?envType=study-plan-v2&envId=top-interview-150">0002. Add Two Numbers</a></h1>
+<h1><a href="https://leetcode.com/problems/add-two-numbers?envType=study-plan-v2&envId=top-interview-150">0002. Add Two Numbers</a></h1>
 
 ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 

@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150">0021. Merge Two Sorted Lists</a></h1>
+<h1><a href="https://leetcode.com/problems/merge-two-sorted-lists?envType=study-plan-v2&envId=top-interview-150">0021. Merge Two Sorted Lists</a></h1>
 
 ![Difficulty: Easy](https://img.shields.io/badge/Easy-46c6c2)
 
