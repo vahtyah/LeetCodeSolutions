@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/find-unique-binary-string/description/?envType=daily-question&envId=2025-02-20">1980. Find Unique Binary String</a></h1>
+<h1><a href="https://leetcode.com/problems/find-unique-binary-string?envType=daily-question&envId=2025-02-20">1980. Find Unique Binary String</a></h1>
 
 ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 

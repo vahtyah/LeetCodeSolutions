@@ -1,10 +1,10 @@
-namespace LeetCodeSolutions.Backtracking;
+namespace LeetCodeSolutions.Recursion/Backtracking;
 
 /*
  * 1980. Find Unique Binary String
  * Difficulty: Medium
  * Submission Time: 2025-02-20 05:53:17
- * Created by vahtyah on 2025-02-20 05:55:22
+ * Created by vahtyah on 2025-03-01 08:28:10
 */
  
 public class Solution {
