@@ -123,6 +123,8 @@ public class Program
 
 [0102. Binary Tree Level Order Traversal](/Searching%2FBreadth-First%20Search%2F0102.%20Binary%20Tree%20Level%20Order%20Traversal): Traverse a binary tree level by level
 
+[0103. Binary Tree Zigzag Level Order Traversal](/Searching%2FBreadth-First%20Search%2F0103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal): Traverse binary tree level order, alternating traversal direction
+
 [0117. Populating Next Right Pointers in Each Node II](/Searching%2FBreadth-First%20Search%2F0117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II): Connect nodes at each level using 'next' pointers
 
 [0199. Binary Tree Right Side View](/Searching%2FBreadth-First%20Search%2F0199.%20Binary%20Tree%20Right%20Side%20View): Return nodes visible from the right side of a tree
