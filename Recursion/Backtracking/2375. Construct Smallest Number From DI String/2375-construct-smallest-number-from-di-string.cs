@@ -1,10 +1,10 @@
-namespace LeetCodeSolutions.Backtracking;
+namespace LeetCodeSolutions.Recursion/Backtracking;
 
 /*
  * 2375. Construct Smallest Number From DI String
  * Difficulty: Medium
  * Submission Time: 2025-02-18 06:34:59
- * Created by vahtyah on 2025-02-18 06:35:25
+ * Created by vahtyah on 2025-03-01 08:28:48
 */
  
 public class Solution {

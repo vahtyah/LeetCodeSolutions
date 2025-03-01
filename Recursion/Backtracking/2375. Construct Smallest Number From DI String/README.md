@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/construct-smallest-number-from-di-string/submissions/1547081162/?envType=daily-question&envId=2025-02-18">2375. Construct Smallest Number From DI String</a></h1>
+<h1><a href="https://leetcode.com/problems/construct-smallest-number-from-di-string?envType=daily-question&envId=2025-02-18">2375. Construct Smallest Number From DI String</a></h1>
 
 ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 
