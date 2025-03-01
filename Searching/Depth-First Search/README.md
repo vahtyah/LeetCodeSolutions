@@ -79,6 +79,8 @@ public class Graph
 
 [0226. Invert Binary Tree](/Searching%2FDepth-First%20Search%2F0226.%20Invert%20Binary%20Tree): Reverse left and right subtrees of each node in a binary tree
 
+[0637. Average of Levels in Binary Tree](/Searching%2FDepth-First%20Search%2F0637.%20Average%20of%20Levels%20in%20Binary%20Tree): Calculate the average value of nodes at each level
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0129. Sum Root to Leaf Numbers](/Searching%2FDepth-First%20Search%2F0129.%20Sum%20Root%20to%20Leaf%20Numbers): Sum all root-to-leaf path numbers in a binary tree
