@@ -1,10 +1,10 @@
-namespace LeetCodeSolutions.Backtracking;
+namespace LeetCodeSolutions.Recursion/Backtracking;
 
 /*
  * 0051. N-Queens
  * Difficulty: Hard
  * Submission Time: 2025-02-07 19:46:21
- * Created by vahtyah on 2025-02-07 19:46:41
+ * Created by vahtyah on 2025-03-01 08:23:33
 */
  
 public class Solution {

@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/n-queens/description/">0051. N-Queens</a></h1>
+<h1><a href="https://leetcode.com/problems/n-queens">0051. N-Queens</a></h1>
 
 ![Difficulty: Hard](https://img.shields.io/badge/Hard-f8615c)
 
