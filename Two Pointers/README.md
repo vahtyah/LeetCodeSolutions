@@ -66,6 +66,8 @@ public static bool HasCycle(ListNode head)
 
 [0392. Is Subsequence](/Two%20Pointers%2F0392.%20Is%20Subsequence): Given two strings, determine if the second is a subsequence of the first
 
+[2570. Merge Two 2D Arrays by Summing Values](/Two%20Pointers%2F2570.%20Merge%20Two%202D%20Arrays%20by%20Summing%20Values): Merge arrays; sum values for identical keys
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0011. Container With Most Water](/Two%20Pointers%2F0011.%20Container%20With%20Most%20Water): Maximize the area of water contained between vertical lines
