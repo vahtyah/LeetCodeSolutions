@@ -122,6 +122,8 @@ public class Program
 
 [0128. Longest Consecutive Sequence](/Data%20Structures%2FUnion%20Find%2F0128.%20Longest%20Consecutive%20Sequence): Find the longest consecutive sequence within an unsorted array
 
+[0200. Number of Islands](/Data%20Structures%2FUnion%20Find%2F0200.%20Number%20of%20Islands): Count connected land components in a 2D grid
+
 [0684. Redundant Connection](/Data%20Structures%2FUnion%20Find%2F0684.%20Redundant%20Connection): Find the redundant connection in a graph using union-find.
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
