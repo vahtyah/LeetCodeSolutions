@@ -95,6 +95,8 @@ public class Graph
 
 [0129. Sum Root to Leaf Numbers](/Searching%2FDepth-First%20Search%2F0129.%20Sum%20Root%20to%20Leaf%20Numbers): Sum all root-to-leaf path numbers in a binary tree
 
+[0130. Surrounded Regions](/Searching%2FDepth-First%20Search%2F0130.%20Surrounded%20Regions): Capture 'O's surrounded by 'X's; flip captured 'O's
+
 [0199. Binary Tree Right Side View](/Searching%2FDepth-First%20Search%2F0199.%20Binary%20Tree%20Right%20Side%20View): Return nodes visible from the right side of a tree
 
 [0200. Number of Islands](/Searching%2FDepth-First%20Search%2F0200.%20Number%20of%20Islands): Count connected land components in a grid
