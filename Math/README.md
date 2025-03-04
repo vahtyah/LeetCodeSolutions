@@ -1,0 +1,7 @@
+# Math
+
+## Solutions
+
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
+
+[1780. Check if Number is a Sum of Powers of Three](/Math%2F1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three): Check if `n` is a sum of distinct powers of 3
