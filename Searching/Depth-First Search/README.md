@@ -107,6 +107,8 @@ public class Graph
 
 [0236. Lowest Common Ancestor of a Binary Tree](/Searching%2FDepth-First%20Search%2F0236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree): Find the deepest common ancestor of two nodes
 
+[0399. Evaluate Division](/Searching%2FDepth-First%20Search%2F0399.%20Evaluate%20Division): Find equation values given variable divisions and queries
+
 [0802. Find Eventual Safe States](/Searching%2FDepth-First%20Search%2F0802.%20Find%20Eventual%20Safe%20States): Find the eventual safe states of a directed graph
 
 [2467. Most Profitable Path in a Tree](/Searching%2FDepth-First%20Search%2F2467.%20Most%20Profitable%20Path%20in%20a%20Tree): Find maximum profit path in a tree with edge profits
