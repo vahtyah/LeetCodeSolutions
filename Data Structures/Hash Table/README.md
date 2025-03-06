@@ -78,6 +78,8 @@ foreach (var pair in dict)
 
 [0383. Ransom Note](/Data%20Structures%2FHash%20Table%2F0383.%20Ransom%20Note): Can a ransom note be formed from a magazine?
 
+[2965. Find Missing and Repeated Values](/Data%20Structures%2FHash%20Table%2F2965.%20Find%20Missing%20and%20Repeated%20Values): Find the duplicate and missing numbers in a matrix
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0049. Group Anagrams](/Data%20Structures%2FHash%20Table%2F0049.%20Group%20Anagrams): Group strings with anagrams together
