@@ -65,6 +65,10 @@ public static void SlidingWindowAlgorithm(int[] nums)
 
 ## Solutions
 
+### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
+
+[2379. Minimum Recolors to Get K Consecutive Black Blocks](/Sliding%20Window%2F2379.%20Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks): Find minimum white blocks to recolor for `k` black
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0003. Longest Substring Without Repeating Characters](/Sliding%20Window%2F0003.%20Longest%20Substring%20Without%20Repeating%20Characters): Find the length of the longest substring without repeating characters
