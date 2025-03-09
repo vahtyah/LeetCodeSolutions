@@ -75,6 +75,8 @@ public static void SlidingWindowAlgorithm(int[] nums)
 
 [0209. Minimum Size Subarray Sum](/Sliding%20Window%2F0209.%20Minimum%20Size%20Subarray%20Sum): Find the smallest contiguous subarray with a sum greater than or equal to a given target
 
+[3208. Alternating Groups II](/Sliding%20Window%2F3208.%20Alternating%20Groups%20II): Find longest substring with alternating adjacent group sizes
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0030. Substring with Concatenation of All Words](/Sliding%20Window%2F0030.%20Substring%20with%20Concatenation%20of%20All%20Words): Find substring containing concatenation of all words in a list
