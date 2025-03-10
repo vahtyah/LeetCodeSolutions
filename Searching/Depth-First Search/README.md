@@ -103,6 +103,8 @@ public class Graph
 
 [0200. Number of Islands](/Searching%2FDepth-First%20Search%2F0200.%20Number%20of%20Islands): Count connected land components in a grid
 
+[0207. Course Schedule](/Searching%2FDepth-First%20Search%2F0207.%20Course%20Schedule): Determine if all courses can be finished given prerequisites
+
 [0230. Kth Smallest Element in a BST](/Searching%2FDepth-First%20Search%2F0230.%20Kth%20Smallest%20Element%20in%20a%20BST): Find the kth smallest element in a binary search tree
 
 [0236. Lowest Common Ancestor of a Binary Tree](/Searching%2FDepth-First%20Search%2F0236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree): Find the deepest common ancestor of two nodes
