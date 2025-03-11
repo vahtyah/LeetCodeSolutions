@@ -75,6 +75,8 @@ public static void SlidingWindowAlgorithm(int[] nums)
 
 [0209. Minimum Size Subarray Sum](/Sliding%20Window%2F0209.%20Minimum%20Size%20Subarray%20Sum): Find the smallest contiguous subarray with a sum greater than or equal to a given target
 
+[1358. Number of Substrings Containing All Three Characters](/Sliding%20Window%2F1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters): Count substrings containing 'a', 'b', and 'c'
+
 [3208. Alternating Groups II](/Sliding%20Window%2F3208.%20Alternating%20Groups%20II): Find longest substring with alternating adjacent group sizes
 
 [3306. Count of Substrings Containing Every Vowel and K Consonants II](/Sliding%20Window%2F3306.%20Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20II): Count substrings with all vowels and K consonants
