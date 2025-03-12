@@ -49,6 +49,10 @@ public static int BinarySearch(int[] nums, int target)
 
 ## Solutions
 
+### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
+
+[2529. Maximum Count of Positive Integer and Negative Integer](/Searching%2FBinary%20Search%2F2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer): Find the max count of positive/negative numbers in array
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0057. Insert Interval](/Searching%2FBinary%20Search%2F0057.%20Insert%20Interval): Merge non-overlapping intervals after inserting a new interval
