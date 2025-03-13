@@ -150,3 +150,5 @@ public static int[] CalculatePrefixSum(int[] input)
 [2381. Shifting Letters II](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2381.%20Shifting%20Letters%20II): Shift the letters of a string by a given number of positions.
 
 [2559. Count Vowel Strings in Ranges](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2559.%20Count%20Vowel%20Strings%20in%20Ranges): Count the number of strings that consist of vowels only in a given range.
+
+[3356. Zero Array Transformation II](/Prefix%20Sum%2F3356.%20Zero%20Array%20Transformation%20II): Transform array `a` to zero array using given operations
