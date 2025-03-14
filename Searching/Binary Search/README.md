@@ -61,4 +61,6 @@ public static int BinarySearch(int[] nums, int target)
 
 [0875. Koko Eating Bananas](/Searching%2FBinary%20Search%2F0875.%20Koko%20Eating%20Bananas): Koko eats bananas at varying speeds; find the minimum speed to finish all
 
+[2226. Maximum Candies Allocated to K Children](/Searching%2FBinary%20Search%2F2226.%20Maximum%20Candies%20Allocated%20to%20K%20Children): Maximize equal candy piles distributed to K children
+
 [2300. Successful Pairs of Spells and Potions](/Searching%2FBinary%20Search%2F2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions): Maximize the number of potions that can be made with given spells and ingredients
