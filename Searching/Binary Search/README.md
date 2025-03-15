@@ -64,3 +64,5 @@ public static int BinarySearch(int[] nums, int target)
 [2226. Maximum Candies Allocated to K Children](/Searching%2FBinary%20Search%2F2226.%20Maximum%20Candies%20Allocated%20to%20K%20Children): Maximize equal candy piles distributed to K children
 
 [2300. Successful Pairs of Spells and Potions](/Searching%2FBinary%20Search%2F2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions): Maximize the number of potions that can be made with given spells and ingredients
+
+[2560. House Robber IV](/Searching%2FBinary%20Search%2F2560.%20House%20Robber%20IV): Find the minimum capacity to rob **k** houses
