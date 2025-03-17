@@ -80,6 +80,8 @@ while(n > 0) {
 
 [0338. Counting Bits](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0338.%20Counting%20Bits): Count the number of 1 bits in the binary representation of each number from 0 to n.
 
+[2206. Divide Array Into Equal Pairs](/Bit%20Manipulation%2F2206.%20Divide%20Array%20Into%20Equal%20Pairs): Check if array elements can form equal pairs
+
 [3151. Special Array I](/Bit%20Manipulation%2F3151.%20Special%20Array%20I): Find the minimum integer in an array such that the number of elements less than or equal to it is greater than or equal to the integer itself
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
