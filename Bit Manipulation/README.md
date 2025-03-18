@@ -92,6 +92,8 @@ while(n > 0) {
 
 [1318. Minimum Flips to Make a OR b Equal to c](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c): Find the minimum number of flips to make `a | b` equal to `c`.
 
+[2401. Longest Nice Subarray](/Bit%20Manipulation%2F2401.%20Longest%20Nice%20Subarray): Find the longest subarray with pairwise bitwise AND zero
+
 [2425. Bitwise XOR of All Pairings](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2425.%20Bitwise%20XOR%20of%20All%20Pairings): Calculate the bitwise XOR of all possible pairings of an array.
 
 [2429. Minimize XOR](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2429.%20Minimize%20XOR): Minimize the XOR of two numbers by setting a bit.
