@@ -21,6 +21,56 @@ The **Breath-First Search (BFS)** algorithm is a graph traversal technique that 
    - Return the shortest path from the start node to the goal node.
 4. Time complexity: O(V + E), where V is the number of vertices and E is the number of edges in the graph.
 
+## Algorithms
+
+<details>
+<summary><strong>Topological Sort</strong>: A linear ordering of vertices such that for every directed edge u -> v, vertex u comes before v in the ordering.</summary>
+
+```csharp
+public class TopologicalSort
+{
+    public static List<int> Sort(int[,] graph)
+    {
+        int rows = graph.GetLength(0);
+        int cols = graph.GetLength(1);
+        List<int> result = new List<int>();
+        bool[] visited = new bool[rows];
+        Stack<int> stack = new Stack<int>();
+
+        for (int i = 0; i < rows; i++)
+        {
+            if (!visited[i])
+            {
+                TopologicalSortUtil(graph, i, visited, stack);
+            }
+        }
+
+        while (stack.Count > 0)
+        {
+            result.Add(stack.Pop());
+        }
+
+        return result;
+    }
+
+    private static void TopologicalSortUtil(int[,] graph, int v, bool[] visited, Stack<int> stack)
+    {
+        visited[v] = true;
+
+        for (int i = 0; i < graph.GetLength(1); i++)
+        {
+            if (graph[v, i] == 1 && !visited[i])
+            {
+                TopologicalSortUtil(graph, i, visited, stack);
+            }
+        }
+
+        stack.Push(v);
+    }
+}
+```
+</details>
+
 ## C# Implementation
 
 ```csharp
@@ -134,6 +184,8 @@ public class Program
 [1462. Course Schedule IV](/Searching%2FBreadth-First%20Search%2F1462.%20Course%20Schedule%20IV): Check if a course is a prerequisite of another course.
 
 [1765. Map of Highest Peak](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FBreadth-First%20Search%2F1765.%20Map%20of%20Highest%20Peak): Find the highest peak on a map.
+
+[2115. Find All Possible Recipes from Given Supplies](/Searching%2FBreadth-First%20Search%2F2115.%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies): Find all recipes constructible from given supplies and ingredients
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
