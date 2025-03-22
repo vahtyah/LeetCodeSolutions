@@ -126,6 +126,8 @@ public class Program
 
 [0684. Redundant Connection](/Data%20Structures%2FUnion%20Find%2F0684.%20Redundant%20Connection): Find the redundant connection in a graph using union-find.
 
+[2685. Count the Number of Complete Components](/Data%20Structures%2FUnion%20Find%2F2685.%20Count%20the%20Number%20of%20Complete%20Components): Find number of complete subgraphs in a given graph
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0827. Making A Large Island](/Data%20Structures%2FUnion%20Find%2F0827.%20Making%20A%20Large%20Island): Find the size of the largest island that can be created by changing at most
