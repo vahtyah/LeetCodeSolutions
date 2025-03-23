@@ -58,8 +58,8 @@ public class Dijkstra
 }
 ```
 
-[//]: # (## Solutions)
+## Solutions
 
-[//]: # (### ![Easy]&#40;https://img.shields.io/badge/Easy-46c6c2&#41;)
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
-[//]: # (### ![Medium]&#40;https://img.shields.io/badge/Medium-fac31d&#41;)
+[1976. Number of Ways to Arrive at Destination](/Pathfinding%2FDijkstra%27s%20Algorithm%2F1976.%20Number%20of%20Ways%20to%20Arrive%20at%20Destination): Find the number of shortest paths to destination node
