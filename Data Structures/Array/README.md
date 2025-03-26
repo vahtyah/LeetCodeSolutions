@@ -93,6 +93,8 @@ public class ArrayExamples
 
 [1267. Count Servers that Communicate](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures%2FArray%2F1267.%20Count%20Servers%20that%20Communicate): Count the number of servers that can communicate with at least one other server in a grid.
 
+[2033. Minimum Operations to Make a Uni-Value Grid](/Data%20Structures%2FArray%2F2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid): Minimize operations to make all grid values equal
+
 [2364. Count Number of Bad Pairs](/Data%20Structures%2FArray%2F2364.%20Count%20Number%20of%20Bad%20Pairs): Count pairs of elements with bigger elements on right
 
 [2661. First Completely Painted Row or Column](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Array/2661.%20First%20Completely%20Painted%20Row%20or%20Column): Determine the first row or column that is completely painted in a 2D grid.
