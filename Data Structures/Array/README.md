@@ -99,6 +99,8 @@ public class ArrayExamples
 
 [2661. First Completely Painted Row or Column](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Array/2661.%20First%20Completely%20Painted%20Row%20or%20Column): Determine the first row or column that is completely painted in a 2D grid.
 
+[2780. Minimum Index of a Valid Split](/Data%20Structures%2FArray%2F2780.%20Minimum%20Index%20of%20a%20Valid%20Split): Find earliest split index where halves have equal dominant element
+
 [2948. Make Lexicographically Smallest Array by Swapping Elements](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures%2FArray%2F2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements): Make an array lexicographically smallest by swapping elements at most `k` times.
 
 [3169. Count Days Without Meetings](/Data%20Structures%2FArray%2F3169.%20Count%20Days%20Without%20Meetings): Calculate days without meetings given meeting intervals
