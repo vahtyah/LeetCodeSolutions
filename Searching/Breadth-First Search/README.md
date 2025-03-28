@@ -196,3 +196,5 @@ public class Program
 [2127. Maximum Employees to Be Invited to a Meeting](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FBreadth-First%20Search%2F2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting): Find the maximum number of employees to invite to a meeting.
 
 [2493. Divide Nodes Into the Maximum Number of Groups](/Searching%2FBreadth-First%20Search%2F2493.%20Divide%20Nodes%20Into%20the%20Maximum%20Number%20of%20Groups): Divide nodes into the maximum number of groups.
+
+[2503. Maximum Number of Points From Grid Queries](/Searching%2FBreadth-First%20Search%2F2503.%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries): Find max points reachable within query limits in a grid
