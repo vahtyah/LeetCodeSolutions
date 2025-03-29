@@ -94,12 +94,12 @@ public class Program
 ```
 ## Solutions
 
-[//]: # (### ![Easy]&#40;https://img.shields.io/badge/Easy-46c6c2&#41;)
-
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0739. Daily Temperatures](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Monotonic%20Stack/0739.%20Daily%20Temperatures): Find the number of days you would have to wait until a warmer temperature.
 
 [0901. Online Stock Span](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Monotonic%20Stack/0901.%20Online%20Stock%20Span): Design a class that supports the stock span problem.
 
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
+[2818. Apply Operations to Maximize Score](/Data%20Structures%2FMonotonic%20Stack%2F2818.%20Apply%20Operations%20to%20Maximize%20Score): Maximize score by prime factor operations on array elements
