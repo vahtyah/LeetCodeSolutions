@@ -41,6 +41,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [0452. Minimum Number of Arrows to Burst Balloons](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/0452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons): Find the minimum number of arrows to burst balloons.
 
+[0763. Partition Labels](/Greedy%2F0763.%20Partition%20Labels): Divide a string into maximal partitions with unique characters
+
 [1400. Construct K Palindrome Strings](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/1400.%20Construct%20K%20Palindrome%20Strings): Determine if it is possible to construct `k` palindrome strings from a given string.
 
 [2116. Check if a Parentheses String Can Be Valid](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid): Check if a parentheses string can be made valid by adding parentheses.
