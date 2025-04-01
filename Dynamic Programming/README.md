@@ -154,6 +154,8 @@ public class Solution {
 
 [1749. Maximum Absolute Sum of Any Subarray](/Dynamic%20Programming%2F1749.%20Maximum%20Absolute%20Sum%20of%20Any%20Subarray): Find the maximum absolute sum of any subarray
 
+[2140. Solving Questions With Brainpower](/Dynamic%20Programming%2F2140.%20Solving%20Questions%20With%20Brainpower): Maximize points solving questions, skipping some based on brainpower
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [1092. Shortest Common Supersequence ](/Dynamic%20Programming%2F1092.%20Shortest%20Common%20Supersequence%20): Find shortest string containing two given strings as subsequences
