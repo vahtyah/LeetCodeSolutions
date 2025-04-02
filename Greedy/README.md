@@ -27,6 +27,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [1422. Maximum Score After Splitting a String](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/1422.%20Maximum%20Score%20After%20Splitting%20a%20String): Find the maximum score after splitting a string into two non-empty substrings.
 
+[2873. Maximum Value of an Ordered Triplet I](/Greedy%2F2873.%20Maximum%20Value%20of%20an%20Ordered%20Triplet%20I): Find max (nums[i] - nums[j]) * nums[k] where i<j<k
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0045. Jump Game II](/Greedy%2F0045.%20Jump%20Game%20II): Find the minimum number of jumps to reach the last index in an array.
