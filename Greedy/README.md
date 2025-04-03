@@ -53,6 +53,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [2375. Construct Smallest Number From DI String](/Greedy%2F2375.%20Construct%20Smallest%20Number%20From%20DI%20String): Construct smallest number from string of 'I' and 'D'
 
+[2874. Maximum Value of an Ordered Triplet II](/Greedy%2F2874.%20Maximum%20Value%20of%20an%20Ordered%20Triplet%20II): Find the maximum (nums[i] - nums[j]) * nums[k] for i<j<k
+
 [3191. Minimum Operations to Make Binary Array Elements Equal to One I](/Greedy%2F3191.%20Minimum%20Operations%20to%20Make%20Binary%20Array%20Elements%20Equal%20to%20One%20I): Minimize flips to make all binary array elements one
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
