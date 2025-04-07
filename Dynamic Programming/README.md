@@ -146,6 +146,8 @@ public class Solution {
 
 [0368. Largest Divisible Subset](/Dynamic%20Programming%2F0368.%20Largest%20Divisible%20Subset): Find the largest subset where each element divides the next
 
+[0416. Partition Equal Subset Sum](/Dynamic%20Programming%2F0416.%20Partition%20Equal%20Subset%20Sum): Determine if array can be split into two equal sums
+
 [0714. Best Time to Buy and Sell Stock with Transaction Fee](/Dynamic%20Programming%2F0714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee): Find the maximum profit that can be obtained by buying and selling a stock with a transaction fee.
 
 [0790. Domino and Tromino Tiling](/Dynamic%20Programming%2F0790.%20Domino%20and%20Tromino%20Tiling): Find the number of ways to tile a 2 x N board with dominoes and trominoes.
