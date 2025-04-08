@@ -80,6 +80,8 @@ foreach (var pair in dict)
 
 [2965. Find Missing and Repeated Values](/Data%20Structures%2FHash%20Table%2F2965.%20Find%20Missing%20and%20Repeated%20Values): Find the duplicate and missing numbers in a matrix
 
+[3396. Minimum Number of Operations to Make Elements in Array Distinct](/Data%20Structures%2FHash%20Table%2F3396.%20Minimum%20Number%20of%20Operations%20to%20Make%20Elements%20in%20Array%20Distinct): Increment array elements to make all values distinct
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0049. Group Anagrams](/Data%20Structures%2FHash%20Table%2F0049.%20Group%20Anagrams): Group strings with anagrams together
