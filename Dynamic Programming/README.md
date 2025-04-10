@@ -163,3 +163,5 @@ public class Solution {
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [1092. Shortest Common Supersequence ](/Dynamic%20Programming%2F1092.%20Shortest%20Common%20Supersequence%20): Find shortest string containing two given strings as subsequences
+
+[2999. Count the Number of Powerful Integers](/Dynamic%20Programming%2F2999.%20Count%20the%20Number%20of%20Powerful%20Integers): Count integers within range ending with `suffix` pattern
