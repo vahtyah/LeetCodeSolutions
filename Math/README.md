@@ -1,10 +1,19 @@
 # Math
 
+```#csharp
+
+int digitCount = (int)Math.Log10(num) + 1;
+
+```
+
+
 ## Solutions
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
 [0009. Palindrome Number](/Math%2F0009.%20Palindrome%20Number): Determine if an integer is a palindrome
+
+[2843. Count Symmetric Integers](/Math%2F2843.%20Count%20Symmetric%20Integers): Count integers within range that are symmetric
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
