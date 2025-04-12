@@ -22,3 +22,7 @@ int digitCount = (int)Math.Log10(num) + 1;
 [2523. Closest Prime Numbers in Range](/Math%2F2523.%20Closest%20Prime%20Numbers%20in%20Range): Find closest prime number pair within given range
 
 [2579. Count Total Number of Colored Cells](/Math%2F2579.%20Count%20Total%20Number%20of%20Colored%20Cells): Find the number of colored cells in an n-th layer
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[3272. Find the Count of Good Integers](/Math%2F3272.%20Find%20the%20Count%20of%20Good%20Integers): Count n-digit numbers rearranged into divisible palindromes without leading zeros
