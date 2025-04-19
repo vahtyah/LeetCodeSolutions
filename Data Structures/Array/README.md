@@ -101,6 +101,8 @@ public class ArrayExamples
 
 [2364. Count Number of Bad Pairs](/Data%20Structures%2FArray%2F2364.%20Count%20Number%20of%20Bad%20Pairs): Count pairs of elements with bigger elements on right
 
+[2563. Count the Number of Fair Pairs](/Data%20Structures%2FArray%2F2563.%20Count%20the%20Number%20of%20Fair%20Pairs): Count pairs within range [lower, upper] in an array
+
 [2661. First Completely Painted Row or Column](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Array/2661.%20First%20Completely%20Painted%20Row%20or%20Column): Determine the first row or column that is completely painted in a 2D grid.
 
 [2780. Minimum Index of a Valid Split](/Data%20Structures%2FArray%2F2780.%20Minimum%20Index%20of%20a%20Valid%20Split): Find earliest split index where halves have equal dominant element
