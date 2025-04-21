@@ -143,6 +143,8 @@ public static int[] CalculatePrefixSum(int[] input)
 
 [2017. Grid Game](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2017.%20Grid%20Game): Find the minimum sum of the maximum values of two paths in a grid.
 
+[2145. Count the Hidden Sequences](/Prefix%20Sum%2F2145.%20Count%20the%20Hidden%20Sequences): Determine how many valid hidden sequences exist
+
 [2270. Number of Ways to Split Array](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2270.%20Number%20of%20Ways%20to%20Split%20Array): Find the number of ways to split an array into three non-empty subarrays such that the sum of elements in each subarray is the same.
 
 [2300. Successful Pairs of Spells and Potions](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions): Find the number of successful pairs of spells and potions that can be created.
