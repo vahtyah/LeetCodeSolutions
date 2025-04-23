@@ -78,6 +78,8 @@ foreach (var pair in dict)
 
 [0383. Ransom Note](/Data%20Structures%2FHash%20Table%2F0383.%20Ransom%20Note): Can a ransom note be formed from a magazine?
 
+[1399. Count Largest Group](/Data%20Structures%2FHash%20Table%2F1399.%20Count%20Largest%20Group): Group integers by digit sum, count largest group size
+
 [2965. Find Missing and Repeated Values](/Data%20Structures%2FHash%20Table%2F2965.%20Find%20Missing%20and%20Repeated%20Values): Find the duplicate and missing numbers in a matrix
 
 [3375. Minimum Operations to Make Array Values Equal to K](/Data%20Structures%2FHash%20Table%2F3375.%20Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K): Minimize operations to make array elements equal to K
