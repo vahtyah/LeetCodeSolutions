@@ -153,4 +153,6 @@ public static int[] CalculatePrefixSum(int[] input)
 
 [2559. Count Vowel Strings in Ranges](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2559.%20Count%20Vowel%20Strings%20in%20Ranges): Count the number of strings that consist of vowels only in a given range.
 
+[2845. Count of Interesting Subarrays](/Prefix%20Sum%2F2845.%20Count%20of%20Interesting%20Subarrays): Count subarrays with a specified count of "interesting" elements
+
 [3356. Zero Array Transformation II](/Prefix%20Sum%2F3356.%20Zero%20Array%20Transformation%20II): Transform array `a` to zero array using given operations
