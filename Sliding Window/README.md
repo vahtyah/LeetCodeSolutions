@@ -92,3 +92,5 @@ public static void SlidingWindowAlgorithm(int[] nums)
 [0030. Substring with Concatenation of All Words](/Sliding%20Window%2F0030.%20Substring%20with%20Concatenation%20of%20All%20Words): Find substring containing concatenation of all words in a list
 
 [0076. Minimum Window Substring](/Sliding%20Window%2F0076.%20Minimum%20Window%20Substring): Find the minimum-length substring containing all characters of another string
+
+[2444. Count Subarrays With Fixed Bounds](/Sliding%20Window%2F2444.%20Count%20Subarrays%20With%20Fixed%20Bounds): Count subarrays where min=minK and max=maxK
