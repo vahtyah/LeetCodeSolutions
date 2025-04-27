@@ -83,6 +83,8 @@ public class ArrayExamples
 
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](/Data%20Structures%2FArray%2F3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray): Find longest contiguous strictly increasing or strictly decreasing subarray
 
+[3392. Count Subarrays of Length Three With a Condition](/Data%20Structures%2FArray%2F3392.%20Count%20Subarrays%20of%20Length%20Three%20With%20a%20Condition): Count length-three subarrays meeting absolute difference criteria
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0048. Rotate Image](/Data%20Structures%2FArray%2F0048.%20Rotate%20Image): Rotate a square matrix 90 degrees clockwise
