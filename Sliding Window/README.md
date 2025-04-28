@@ -93,4 +93,6 @@ public static void SlidingWindowAlgorithm(int[] nums)
 
 [0076. Minimum Window Substring](/Sliding%20Window%2F0076.%20Minimum%20Window%20Substring): Find the minimum-length substring containing all characters of another string
 
+[2302. Count Subarrays With Score Less Than K](/Sliding%20Window%2F2302.%20Count%20Subarrays%20With%20Score%20Less%20Than%20K): Count subarrays where sum times length is less than K
+
 [2444. Count Subarrays With Fixed Bounds](/Sliding%20Window%2F2444.%20Count%20Subarrays%20With%20Fixed%20Bounds): Count subarrays where min=minK and max=maxK
