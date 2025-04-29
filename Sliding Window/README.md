@@ -83,6 +83,8 @@ public static void SlidingWindowAlgorithm(int[] nums)
 
 [2799. Count Complete Subarrays in an Array](/Sliding%20Window%2F2799.%20Count%20Complete%20Subarrays%20in%20an%20Array): Count subarrays containing all distinct array values
 
+[2962. Count Subarrays Where Max Element Appears at Least K Times](/Sliding%20Window%2F2962.%20Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times): Count subarrays with at least K occurrences of max
+
 [3208. Alternating Groups II](/Sliding%20Window%2F3208.%20Alternating%20Groups%20II): Find longest substring with alternating adjacent group sizes
 
 [3306. Count of Substrings Containing Every Vowel and K Consonants II](/Sliding%20Window%2F3306.%20Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20II): Count substrings with all vowels and K consonants
