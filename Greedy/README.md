@@ -63,6 +63,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [0135. Candy](/Greedy%2F0135.%20Candy): Distribute candies to children such that each child has at least one and adjacent children get different candies
 
+[2071. Maximum Number of Tasks You Can Assign](/Greedy%2F2071.%20Maximum%20Number%20of%20Tasks%20You%20Can%20Assign): Maximize assigned tasks given worker strength and task difficulty
+
 [2551. Put Marbles in Bags](/Greedy%2F2551.%20Put%20Marbles%20in%20Bags): Minimize/maximize marble bag scores by optimally splitting them
 
 [2818. Apply Operations to Maximize Score](/Greedy%2F2818.%20Apply%20Operations%20to%20Maximize%20Score): Maximize score: apply operations, prime factor boosts allowed
