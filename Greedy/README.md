@@ -47,6 +47,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [0781. Rabbits in Forest](/Greedy%2F0781.%20Rabbits%20in%20Forest): Find the minimum rabbits needed based on reported counts
 
+[1007. Minimum Domino Rotations For Equal Row](/Greedy%2F1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row): Minimize domino rotations to make a row equal
+
 [1400. Construct K Palindrome Strings](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/1400.%20Construct%20K%20Palindrome%20Strings): Determine if it is possible to construct `k` palindrome strings from a given string.
 
 [2116. Check if a Parentheses String Can Be Valid](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid): Check if a parentheses string can be made valid by adding parentheses.
