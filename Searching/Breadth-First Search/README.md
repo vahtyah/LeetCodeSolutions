@@ -181,6 +181,8 @@ public class Program
 
 [0200. Number of Islands](/Searching%2FBreadth-First%20Search%2F0200.%20Number%20of%20Islands): Count connected land components in a 2D grid
 
+[0433. Minimum Genetic Mutation](/Searching%2FBreadth-First%20Search%2F0433.%20Minimum%20Genetic%20Mutation): Find shortest mutation path between start and end genes
+
 [0909. Snakes and Ladders](/Searching%2FBreadth-First%20Search%2F0909.%20Snakes%20and%20Ladders): Find shortest path on a board with snakes/ladders
 
 [1462. Course Schedule IV](/Searching%2FBreadth-First%20Search%2F1462.%20Course%20Schedule%20IV): Check if a course is a prerequisite of another course.
