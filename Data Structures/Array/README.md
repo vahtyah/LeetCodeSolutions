@@ -77,6 +77,8 @@ public class ArrayExamples
 
 [1800. Maximum Ascending Subarray Sum](/Data%20Structures%2FArray%2F1800.%20Maximum%20Ascending%20Subarray%20Sum): Find the maximum sum of a contiguous ascending subarray
 
+[1920. Build Array from Permutation](/Data%20Structures%2FArray%2F1920.%20Build%20Array%20from%20Permutation): Reorder array elements based on given index mapping
+
 [2176. Count Equal and Divisible Pairs in an Array](/Data%20Structures%2FArray%2F2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array): Count pairs where nums[i] == nums[j] and (i*j) % k == 0
 
 [2460. Apply Operations to an Array](/Data%20Structures%2FArray%2F2460.%20Apply%20Operations%20to%20an%20Array): Modify array: double equal adjacent, zero others, shift zeros
