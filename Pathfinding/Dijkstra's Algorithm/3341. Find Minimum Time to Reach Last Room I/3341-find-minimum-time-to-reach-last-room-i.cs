@@ -3,8 +3,8 @@ namespace LeetCodeSolutions.Pathfinding/Dijkstra'sAlgorithm;
 /*
  * 3341. Find Minimum Time to Reach Last Room I
  * Difficulty: Medium
- * Submission Time: 2025-05-07 06:56:22
- * Created by vahtyah on 2025-05-07 06:57:18
+ * Submission Time: 2025-05-07 07:10:01
+ * Created by vahtyah on 2025-05-07 07:10:29
 */
  
 public class Solution {
@@ -36,9 +36,6 @@ public class Solution {
         while(pq.Count > 0){
             var (row, col) = pq.Dequeue();
 
-            if(visited[row, col]) continue;
-            visited[row, col] = true;
-
             if(row == m - 1 && col == n - 1) return distance[row, col];
 
             foreach(var dir in directions){
@@ -52,6 +49,7 @@ public class Solution {
                     distance[newRow, newCol] = newDist;
                     pq.Enqueue((newRow, newCol), newDist);
                 }
+                visited[newRow, newCol] = true;
             }
         }
 
