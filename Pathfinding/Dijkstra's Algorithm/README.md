@@ -65,3 +65,5 @@ public class Dijkstra
 [1976. Number of Ways to Arrive at Destination](/Pathfinding%2FDijkstra%27s%20Algorithm%2F1976.%20Number%20of%20Ways%20to%20Arrive%20at%20Destination): Find the number of shortest paths to destination node
 
 [3341. Find Minimum Time to Reach Last Room I](/Pathfinding%2FDijkstra%27s%20Algorithm%2F3341.%20Find%20Minimum%20Time%20to%20Reach%20Last%20Room%20I): Minimize time to visit rooms sequentially with delay
+
+[3342. Find Minimum Time to Reach Last Room II](/Pathfinding%2FDijkstra%27s%20Algorithm%2F3342.%20Find%20Minimum%20Time%20to%20Reach%20Last%20Room%20II): Minimize time to visit rooms sequentially with delay
