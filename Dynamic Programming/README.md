@@ -167,3 +167,5 @@ public class Solution {
 [2338. Count the Number of Ideal Arrays](/Dynamic%20Programming%2F2338.%20Count%20the%20Number%20of%20Ideal%20Arrays): Count arrays where each element divides the next
 
 [2999. Count the Number of Powerful Integers](/Dynamic%20Programming%2F2999.%20Count%20the%20Number%20of%20Powerful%20Integers): Count integers within range ending with `suffix` pattern
+
+[3343. Count Number of Balanced Permutations](/Dynamic%20Programming%2F3343.%20Count%20Number%20of%20Balanced%20Permutations): Count permutations with balanced adjacent sum parity
