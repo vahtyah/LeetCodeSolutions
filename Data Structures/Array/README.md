@@ -111,6 +111,8 @@ public class ArrayExamples
 
 [2780. Minimum Index of a Valid Split](/Data%20Structures%2FArray%2F2780.%20Minimum%20Index%20of%20a%20Valid%20Split): Find earliest split index where halves have equal dominant element
 
+[2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](/Data%20Structures%2FArray%2F2918.%20Minimum%20Equal%20Sum%20of%20Two%20Arrays%20After%20Replacing%20Zeros): Minimize equal array sums by replacing zeros with positive integers
+
 [2948. Make Lexicographically Smallest Array by Swapping Elements](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures%2FArray%2F2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements): Make an array lexicographically smallest by swapping elements at most `k` times.
 
 [3169. Count Days Without Meetings](/Data%20Structures%2FArray%2F3169.%20Count%20Days%20Without%20Meetings): Calculate days without meetings given meeting intervals
