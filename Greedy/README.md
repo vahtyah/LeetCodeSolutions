@@ -29,6 +29,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [2873. Maximum Value of an Ordered Triplet I](/Greedy%2F2873.%20Maximum%20Value%20of%20an%20Ordered%20Triplet%20I): Find max (nums[i] - nums[j]) * nums[k] where i<j<k
 
+[2900. Longest Unequal Adjacent Groups Subsequence I](/Greedy%2F2900.%20Longest%20Unequal%20Adjacent%20Groups%20Subsequence%20I): Find the longest subsequence with adjacent elements from different groups
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0045. Jump Game II](/Greedy%2F0045.%20Jump%20Game%20II): Find the minimum number of jumps to reach the last index in an array.
