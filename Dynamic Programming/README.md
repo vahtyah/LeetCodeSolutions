@@ -160,6 +160,8 @@ public class Solution {
 
 [2140. Solving Questions With Brainpower](/Dynamic%20Programming%2F2140.%20Solving%20Questions%20With%20Brainpower): Maximize points solving questions, skipping some based on brainpower
 
+[2901. Longest Unequal Adjacent Groups Subsequence II](/Dynamic%20Programming%2F2901.%20Longest%20Unequal%20Adjacent%20Groups%20Subsequence%20II): Find longest subsequence where adjacent groups differ
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [1092. Shortest Common Supersequence ](/Dynamic%20Programming%2F1092.%20Shortest%20Common%20Supersequence%20): Find shortest string containing two given strings as subsequences
