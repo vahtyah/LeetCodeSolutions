@@ -17,6 +17,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [2843. Count Symmetric Integers](/Math%2F2843.%20Count%20Symmetric%20Integers): Count integers within range that are symmetric
 
+[3024. Type of Triangle](/Math%2F3024.%20Type%20of%20Triangle): Determine the triangle type given three side lengths
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [1780. Check if Number is a Sum of Powers of Three](/Math%2F1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three): Check if `n` is a sum of distinct powers of 3
