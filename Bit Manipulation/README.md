@@ -76,6 +76,8 @@ while(n > 0) {
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
+[0067. Add Binary](/Bit%20Manipulation%2F0067.%20Add%20Binary): Sum two binary strings, return their binary sum
+
 [0136. Single Number](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0136.%20Single%20Number): Find the single number that appears only once in an array of integers.
 
 [0338. Counting Bits](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0338.%20Counting%20Bits): Count the number of 1 bits in the binary representation of each number from 0 to n.
