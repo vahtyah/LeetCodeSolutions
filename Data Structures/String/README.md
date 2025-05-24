@@ -138,6 +138,8 @@ str += "World"; // Creates a new string instance
 
 [1790. Check if One String Swap Can Make Strings Equal](/Data%20Structures%2FString%2F1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal): Swap any two characters of one string to check if equal to another
 
+[2942. Find Words Containing Character](/Data%20Structures%2FString%2F2942.%20Find%20Words%20Containing%20Character): Find words containing a given character
+
 [3174. Clear Digits](/Data%20Structures%2FString%2F3174.%20Clear%20Digits): Remove all digits from a given string
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
