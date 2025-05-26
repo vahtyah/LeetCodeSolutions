@@ -166,6 +166,8 @@ public class Solution {
 
 [1092. Shortest Common Supersequence ](/Dynamic%20Programming%2F1092.%20Shortest%20Common%20Supersequence%20): Find shortest string containing two given strings as subsequences
 
+[1857. Largest Color Value in a Directed Graph](/Dynamic%20Programming%2F1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph): Find max color value in directed graph, avoiding cycles
+
 [1931. Painting a Grid With Three Different Colors](/Dynamic%20Programming%2F1931.%20Painting%20a%20Grid%20With%20Three%20Different%20Colors): Count valid grid colorings with three colors
 
 [2338. Count the Number of Ideal Arrays](/Dynamic%20Programming%2F2338.%20Count%20the%20Number%20of%20Ideal%20Arrays): Count arrays where each element divides the next
