@@ -126,3 +126,7 @@ class Program
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0210. Course Schedule II](/Sorting%2FTopological%20Sort%2F0210.%20Course%20Schedule%20II): Find a valid course order given prerequisites
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[1857. Largest Color Value in a Directed Graph](/Sorting%2FTopological%20Sort%2F1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph): Find maximum color value in directed graph with cycles
