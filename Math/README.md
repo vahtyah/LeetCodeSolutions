@@ -17,6 +17,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [2843. Count Symmetric Integers](/Math%2F2843.%20Count%20Symmetric%20Integers): Count integers within range that are symmetric
 
+[2894. Divisible and Non-divisible Sums Difference](/Math%2F2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference): Sum divisible numbers, subtract sum of non-divisible numbers
+
 [3024. Type of Triangle](/Math%2F3024.%20Type%20of%20Triangle): Determine the triangle type given three side lengths
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
