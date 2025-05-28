@@ -191,6 +191,8 @@ public class Program
 
 [2115. Find All Possible Recipes from Given Supplies](/Searching%2FBreadth-First%20Search%2F2115.%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies): Find all recipes constructible from given supplies and ingredients
 
+[3372. Maximize the Number of Target Nodes After Connecting Trees I](/Searching%2FBreadth-First%20Search%2F3372.%20Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20I): Connect tree roots to maximize target nodes
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0407. Trapping Rain Water II](https://github.com/vahtyah/LeetCodeSolutions/blob/4f3480ea41349717ca90419670dfb22804f1f587/Searching/Breadth-First%20Search/0407.%20Trapping%20Rain%20Water%20II): Calculate the amount of water that can be trapped after raining.
