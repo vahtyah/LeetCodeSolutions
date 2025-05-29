@@ -3,8 +3,8 @@ namespace LeetCodeSolutions.Searching/Breadth-FirstSearch;
 /*
  * 3372. Maximize the Number of Target Nodes After Connecting Trees I
  * Difficulty: Medium
- * Submission Time: 2025-05-28 04:37:18
- * Created by vahtyah on 2025-05-28 04:38:35
+ * Submission Time: 2025-05-29 06:36:40
+ * Created by vahtyah on 2025-05-29 06:37:11
 */
  
 public class Solution {
@@ -15,24 +15,14 @@ public class Solution {
         var graph1 = BuildGraph(edges1, n);
         var graph2 = BuildGraph(edges2, m);
         
-        var tree1Targets = new int[n];
-        for (int i = 0; i < n; i++) {
-            tree1Targets[i] = CountTargets(graph1, i, k);
-        }
-        
-        var tree2Targets = new int[m];
-        for (int i = 0; i < m; i++) {
-            tree2Targets[i] = CountTargets(graph2, i, k - 1);
-        }
-        
         int maxTree2Targets = 0;
-        foreach (int targets in tree2Targets) {
-            maxTree2Targets = Math.Max(maxTree2Targets, targets);
+        for (int i = 0; i < m; i++) {
+            maxTree2Targets = Math.Max(maxTree2Targets, CountTargets(graph2, i, k - 1));
         }
-        
+
         var result = new int[n];
         for (int i = 0; i < n; i++) {
-            result[i] = tree1Targets[i] + maxTree2Targets;
+            result[i] = CountTargets(graph1, i, k) + maxTree2Targets;
         }
         
         return result;
