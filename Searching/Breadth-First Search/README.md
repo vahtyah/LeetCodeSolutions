@@ -204,3 +204,5 @@ public class Program
 [2493. Divide Nodes Into the Maximum Number of Groups](/Searching%2FBreadth-First%20Search%2F2493.%20Divide%20Nodes%20Into%20the%20Maximum%20Number%20of%20Groups): Divide nodes into the maximum number of groups.
 
 [2503. Maximum Number of Points From Grid Queries](/Searching%2FBreadth-First%20Search%2F2503.%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries): Find max points reachable within query limits in a grid
+
+[3373. Maximize the Number of Target Nodes After Connecting Trees II](/Searching%2FBreadth-First%20Search%2F3373.%20Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20II): Connect trees to maximize target nodes reachable
