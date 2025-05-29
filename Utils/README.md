@@ -2,94 +2,127 @@
 
 - **AggressiveInlining** - This attribute tells the compiler to optimize the method for performance. It is useful when the method is small and called frequently.
 ```csharp
-using System.Runtime.CompilerServices;
-
-public Solution {
-    [MethodImpl(MethodImplOptions.AggressiveInlining)]
+public class Solution {
+    [System.Runtime.CompilerServices.MethodImpl(System.Runtime.CompilerServices.MethodImplOptions.AggressiveInlining)]
     public void Method() {
         // Code here
     }
 }
 ```
-- Span<T> - Span<T> is a new type in C# that provides a way to work with contiguous regions of arbitrary memory in a safe and efficient manner. It is useful for avoiding unnecessary memory allocations and improving performance.
+
+- **Unsafe code** - This allows you to perform low-level memory operations, which can be useful for performance-critical applications. Use with caution as it bypasses type safety.
 ```csharp
-using System;
-   
-public Solution {
-    public void Method() {
-        int[] array = new int[10];
-        Span<int> span = new Span<int>(array);
-        // Use the span here
+public static void UnsafeOperations()
+{
+    unsafe
+    {
+        int* ptr = stackalloc int[10]; // Allocate memory on the stack
+        for (int i = 0; i < 10; i++)
+        {
+            ptr[i] = i; // Directly manipulate memory
+        }
     }
+    
+    // Use when: Performance critical, low-level memory access, interop with native code
+    
+    int[] array = { 1, 2, 3, 4, 5 };
+    fixed (int* p = array) // Pin the array in memory
+    {
+        for (int i = 0; i < array.Length; i++)
+        {
+            Console.WriteLine(p[i]); // Access elements directly
+        }
+    }
+    
+    // Use when: Interop with native libraries, performance critical scenarios
 }
 ```
-- **Memory<T>** - Memory<T> is another type that represents a contiguous region of memory, similar to Span<T>. It is read-only and can be used to avoid unnecessary memory allocations.
-```csharp
-using System;
 
-public Solution {
-    public void Method() {
-        int[] array = new int[10];
-        Memory<int> memory = new Memory<int>(array);
-        // Use the memory here
-    }
+- **Span** and **Memory** are types that allow you to work with slices of arrays or other memory regions without copying data. They are useful for high-performance scenarios where you want to avoid unnecessary allocations.
+
+```csharp
+//1. Using Span<T> to manipulate an array
+public static void SpanFromArray()
+{
+    int[] array = new int[5] { 1, 2, 3, 4, 5 };
+    Span<int> span = array; // Implicit conversion from array to Span<int>
+    span[0] = 10; // Modify original array
+    // Use when: Have existing array, need to modify data, large datasets
 }
+
+//2. Span<T> from stackalloc - Use for temporary buffers, high performance
+public static void SpanFromStackalloc()
+{
+    Span<int> span = stackalloc int[5]; // Allocates a span on the stack
+    span.Fill(0); // Initialize all elements to 0
+    // Use when: Buffer < 1KB, temporary calculations, high performance
+}
+
+// 3. ReadOnlySpan from String - Use for string processing
+public static void ReadOnlySpanFromString()
+{
+    string str = "Hello, World!";
+    ReadOnlySpan<char> readOnlySpan = str.AsSpan(); // Convert string to ReadOnlySpan<char>
+    ReadOnlySpan<char> hello = span[..5]; // No allocation
+    // Use when: Parse string, slice text, avoid allocations
+}
+
+// 4. Span Slicing - Use when need part of data
+public static void SpanSlicing()
+{
+    int[] data = new int[100];
+    Span<int> full = data;
+    Span<int> first = full[..50];    // First half
+    Span<int> last = full[50..];     // Second half
+    // Use when: Process chunks, regions, avoid copying data
+}
+
+// 5. Unsafe Span - Use for interop, performance critical
+public static unsafe void UnsafeSpan()
+{
+    int* ptr = stackalloc int[10];
+    Span<int> span = new Span<int>(ptr, 10);
+    // Use when: Interop, native libraries, custom memory management
+}
+
+// 6. Memory<T> - Use for async operations
+public static async Task MemoryForAsync()
+{
+    Memory<int> memory = new int[100];
+    await ProcessAsync(memory); // Can await
+    Span<int> span = memory.Span; // Convert when needed
+    // Use when: Async/await, store in fields, long-lived buffers
+}
+
+// 7. MemoryMarshal - Advanced operations
+public static void MemoryMarshalOps()
+{
+    Span<int> ints = stackalloc int[4];
+    Span<byte> bytes = MemoryMarshal.AsBytes(ints); // Reinterpret
+    // Use when: Type casting, binary protocols, performance critical
+}
+
+// 8. Empty Span - Use for edge cases
+public static void EmptySpan()
+{
+    Span<int> empty = Span<int>.Empty;
+    if (!empty.IsEmpty) { /* process */ }
+    // Use when: Default values, safety checks
+}
+
+private static async Task ProcessAsync(Memory<int> memory)
+{
+    await Task.Delay(1);
+}
+
+// CHEAT SHEET:
+// • Span<T>: Synchronous, high performance, stack only
+// • Memory<T>: Async, storage, heap/stack
+// • ReadOnlySpan<T>: No modification, string processing
+// • stackalloc: < 1KB, temporary
+// • Array: Large data, long-lived
+// • Unsafe: Interop, extreme performance
 ```
 
-### Match
-```csharp
-// Check odd or even using bitwise operator
-bool isOdd = (num & 1) == 1;
-bool isEven = (num & 1) == 0;
 
-// Swap two numbers without using a temporary variable
-a ^= b;
-b ^= a;
-a ^= b;
-
-// Check if a number is a power of two
-bool isPowerOfTwo = (num & (num - 1)) == 0;
-
-// Round up/down to multiple of k
-int roundUp = (num + k - 1) / k * k; // 1.2 -> 2, 1.7 -> 2
-int roundDown = num / k * k; // 1.2 -> 1, 1.7 -> 1
-
-// Calculate mid without overflow
-int mid = left + (right - left) / 2;
-int mid = left + (right - left) >> 1; // Faster alternative
-
-// Ensure a number is within the range [low, high]
-num = Math.Max(num, low);
-num = Math.Min(num, high);
-
-//Ensure positive modulo [0, k)
-int mod = ((num % k) + k) % k;
-
-// Toggle a bit at position i
-num ^= (1 << i);
-
-// Check if a number is negative
-bool isNegative = (num >> 31) == -1;
-
-// Get the absolute value of a number
-int abs = (num ^ (num >> 31)) - (num >> 31);
-
-// Get the maximum of two numbers
-int max = b ^ ((a ^ b) & -Convert.ToInt32(a > b));
-
-// Get the minimum of two numbers
-int min = a ^ ((a ^ b) & -Convert.ToInt32(a < b));
-
-// Check if two numbers have the same sign
-bool sameSign = (a ^ b) >= 0;
-
-// Get the sign of a number
-int sign = (num >> 31) | Convert.ToInt32(num == 0);
-
-// Swap the sign of a number
-int swapSign = ~num + 1;
-
-// Get the average of two numbers
-int average = (a & b) + ((a ^ b) >> 1);
-```
 
