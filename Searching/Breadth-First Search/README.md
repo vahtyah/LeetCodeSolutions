@@ -191,6 +191,8 @@ public class Program
 
 [2115. Find All Possible Recipes from Given Supplies](/Searching%2FBreadth-First%20Search%2F2115.%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies): Find all recipes constructible from given supplies and ingredients
 
+[2359. Find Closest Node to Given Two Nodes](/Searching%2FBreadth-First%20Search%2F2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes): Find node reachable from two given nodes with shortest distance
+
 [3372. Maximize the Number of Target Nodes After Connecting Trees I](/Searching%2FBreadth-First%20Search%2F3372.%20Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20I): Connect trees to maximize target nodes reachable within k edges
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
@@ -206,4 +208,3 @@ public class Program
 [2503. Maximum Number of Points From Grid Queries](/Searching%2FBreadth-First%20Search%2F2503.%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries): Find max points reachable within query limits in a grid
 
 [3373. Maximize the Number of Target Nodes After Connecting Trees II](/Searching%2FBreadth-First%20Search%2F3373.%20Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20II): Connect trees to maximize target nodes at even distances.
-
