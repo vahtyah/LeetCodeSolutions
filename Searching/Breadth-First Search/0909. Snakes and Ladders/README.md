@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/snakes-and-ladders?envType=study-plan-v2&envId=top-interview-150">0909. Snakes and Ladders</a></h1>
+<h1><a href="https://leetcode.com/problems/snakes-and-ladders?envType=daily-question&envId=2025-05-31">0909. Snakes and Ladders</a></h1>
 
 ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 
@@ -8,16 +8,11 @@
 
 <p>You start on square <code>1</code> of the board. In each move, starting from square <code>curr</code>, do the following:</p>
 
-<ul>
-	<li>Choose a destination square <code>next</code> with a label in the range <code>[curr + 1, min(curr + 6, n<sup>2</sup>)]</code>.
+- Choose a destination square <code>next</code> with a label in the range <code>[curr + 1, min(curr + 6, n<sup>2</sup>)]</code>.
 
-	<ul>
-		<li>This choice simulates the result of a standard <strong>6-sided die roll</strong>: i.e., there are always at most 6 destinations, regardless of the size of the board.</li>
-	</ul>
-	</li>
-	<li>If <code>next</code> has a snake or ladder, you <strong>must</strong> move to the destination of that snake or ladder. Otherwise, you move to <code>next</code>.</li>
-	<li>The game ends when you reach the square <code>n<sup>2</sup></code>.</li>
-</ul>
+- This choice simulates the result of a standard <strong>6-sided die roll</strong>: i.e., there are always at most 6 destinations, regardless of the size of the board.
+- <code>next</code> has a snake or ladder, you <strong>must</strong> move to the destination of that snake or ladder. Otherwise, you move to <code>next</code>.
+- The game ends when you reach the square <code>n<sup>2</sup></code>.
 
 <p>A board square on row <code>r</code> and column <code>c</code> has a snake or ladder if <code>board[r][c] != -1</code>. The destination of that snake or ladder is <code>board[r][c]</code>. Squares <code>1</code> and <code>n<sup>2</sup></code> are not the starting points of any snake or ladder.</p>
 
