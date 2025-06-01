@@ -134,6 +134,8 @@ public class Solution {
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
+[0070. Climbing Stairs](/Dynamic%20Programming%2F0070.%20Climbing%20Stairs): Find the number of ways to climb n stairs
+
 [0509. Fibonacci Number](/Dynamic%20Programming%2F0509.%20Fibonacci%20Number): Find the n-th number in the Fibonacci sequence
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
