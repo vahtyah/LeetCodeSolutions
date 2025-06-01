@@ -29,6 +29,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [2579. Count Total Number of Colored Cells](/Math%2F2579.%20Count%20Total%20Number%20of%20Colored%20Cells): Find the number of colored cells in an n-th layer
 
+[2929. Distribute Candies Among Children II](/Math%2F2929.%20Distribute%20Candies%20Among%20Children%20II): Distribute candies to children respecting given limits
+
 [3335. Total Characters in String After Transformations I](/Math%2F3335.%20Total%20Characters%20in%20String%20After%20Transformations%20I): Count remaining characters after consecutive duplicates removal
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
