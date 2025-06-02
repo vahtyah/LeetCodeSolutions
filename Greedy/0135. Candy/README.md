@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150">0135. Candy</a></h1>
+<h1><a href="https://leetcode.com/problems/candy?envType=daily-question&envId=2025-06-02">0135. Candy</a></h1>
 
 ![Difficulty: Hard](https://img.shields.io/badge/Hard-f8615c)
 
