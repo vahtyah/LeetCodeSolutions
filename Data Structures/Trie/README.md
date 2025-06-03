@@ -141,9 +141,6 @@ public class Trie{
 
 ## Solutions
 
-### ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
-[0208. Implement Trie (Prefix Tree)](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Trie/0208.%20Implement%20Trie%20(Prefix%20Tree)): Implement a trie with `insert`, `search`, and `startsWith` methods.
-
-[1268. Search Suggestions System](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures/Trie/1268.%20Search%20Suggestions%20System): Implement a search suggestion system using a trie.
-
+[0211. Design Add and Search Words Data Structure](/Data%20Structures%2FTrie%2F0211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure): Implement add and search for words, supporting '.' wildcard
