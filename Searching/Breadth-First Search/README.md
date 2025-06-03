@@ -201,6 +201,8 @@ public class Program
 
 [0407. Trapping Rain Water II](https://github.com/vahtyah/LeetCodeSolutions/blob/4f3480ea41349717ca90419670dfb22804f1f587/Searching/Breadth-First%20Search/0407.%20Trapping%20Rain%20Water%20II): Calculate the amount of water that can be trapped after raining.
 
+[1298. Maximum Candies You Can Get from Boxes](/Searching%2FBreadth-First%20Search%2F1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes): Maximize candies collected from boxes, considering keys and dependencies
+
 [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://github.com/vahtyah/LeetCodeSolutions/blob/a1262282d89eae186573e94513b8cfe03a01fca7/Searching/Breadth-First%20Search/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid): Find the minimum cost to make at least one valid path in a grid.
 
 [2127. Maximum Employees to Be Invited to a Meeting](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Searching%2FBreadth-First%20Search%2F2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting): Find the maximum number of employees to invite to a meeting.
