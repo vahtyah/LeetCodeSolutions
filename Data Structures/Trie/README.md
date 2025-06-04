@@ -144,3 +144,7 @@ public class Trie{
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0211. Design Add and Search Words Data Structure](/Data%20Structures%2FTrie%2F0211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure): Implement add and search for words, supporting '.' wildcard
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[0212. Word Search II](/Data%20Structures%2FTrie%2F0212.%20Word%20Search%20II): Find all words from a list present in a board
