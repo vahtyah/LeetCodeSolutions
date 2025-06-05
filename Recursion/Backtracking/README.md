@@ -50,6 +50,8 @@ public static void Backtrack(int[] nums, List<int> path, List<List<int>> result)
 
 [0017. Letter Combinations of a Phone Number](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Backtracking/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number): Find all possible letter combinations that the number could represent.
 
+[0039. Combination Sum](/Recursion%2FBacktracking%2F0039.%20Combination%20Sum): Find all combinations summing to target from given candidates
+
 [0046. Permutations](/Backtracking%2F0046.%20Permutations): Find all unique permutations of a given array
 
 [0077. Combinations](/Recursion%2FBacktracking%2F0077.%20Combinations): Return all combinations of k elements from a set of n
