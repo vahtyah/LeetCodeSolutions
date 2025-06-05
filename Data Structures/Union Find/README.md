@@ -126,6 +126,8 @@ public class Program
 
 [0684. Redundant Connection](/Data%20Structures%2FUnion%20Find%2F0684.%20Redundant%20Connection): Find the redundant connection in a graph using union-find.
 
+[1061. Lexicographically Smallest Equivalent String](/Data%20Structures%2FUnion%20Find%2F1061.%20Lexicographically%20Smallest%20Equivalent%20String): Merge equivalent characters to find lexicographically smallest string
+
 [2685. Count the Number of Complete Components](/Data%20Structures%2FUnion%20Find%2F2685.%20Count%20the%20Number%20of%20Complete%20Components): Find number of complete subgraphs in a given graph
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
