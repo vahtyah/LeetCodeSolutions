@@ -49,6 +49,10 @@ to optimize solutions and perform bitwise operations efficiently.
 
 ### Formulas and Techniques
 ```csharp
+// Get the rightmost set bit of x
+x & -x // gives the rightmost set bit of x 
+1100 & -1100 = 0100 (which is 4 in decimal)
+
 // Set a bit at position i
 int setBit = num | (1 << i);
 
@@ -107,3 +111,7 @@ while(n > 0) {
 [2657. Find the Prefix Common Array of Two Arrays](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays): Find the prefix common array of two arrays.
 
 [2683. Neighboring Bitwise XOR](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2683.%20Neighboring%20Bitwise%20XOR): Calculate the bitwise XOR of neighboring elements in an array.
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[0052. N-Queens II](/Bit%20Manipulation%2F0052.%20N-Queens%20II): Count the number of valid N-Queens placements
