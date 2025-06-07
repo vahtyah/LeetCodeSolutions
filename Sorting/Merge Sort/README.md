@@ -41,10 +41,35 @@ public static void MergeSort(int[] nums)
     MergeSort(right);
     Merge(nums, left, right);
 }
+
+private static void Merge(int[] nums, int[] left, int[] right)
+{
+    int i = 0, j = 0, k = 0;
+
+    while (i < left.Length && j < right.Length)
+    {
+        if (left[i] <= right[j])
+        {
+            nums[k++] = left[i++];
+        }
+        else
+        {
+            nums[k++] = right[j++];
+        }
+    }
+
+    while (i < left.Length)
+    {
+        nums[k++] = left[i++];
+    }
+
+    while (j < right.Length)
+    {
+        nums[k++] = right[j++];
+    }
+}
 ```
 
-[//]: # (## Solutions)
+### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
-[//]: # (### ![Easy]&#40;https://img.shields.io/badge/Easy-46c6c2&#41;)
-
-[//]: # (### ![Medium]&#40;https://img.shields.io/badge/Medium-fac31d&#41;)
+[0148. Sort List](/Sorting%2FMerge%20Sort%2F0148.%20Sort%20List): Sort a linked list in ascending order
