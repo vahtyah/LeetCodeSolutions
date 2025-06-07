@@ -98,6 +98,8 @@ public class Program
 
 [0173. Binary Search Tree Iterator](/Data%20Structures%2FStack%2F0173.%20Binary%20Search%20Tree%20Iterator): Implement an in-order iterator for a binary search tree
 
+[3170. Lexicographically Minimum String After Removing Stars](/Data%20Structures%2FStack%2F3170.%20Lexicographically%20Minimum%20String%20After%20Removing%20Stars): Remove characters starred out, minimizing string lexicographically
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0224. Basic Calculator](/Data%20Structures%2FStack%2F0224.%20Basic%20Calculator): Evaluate a basic mathematical expression
