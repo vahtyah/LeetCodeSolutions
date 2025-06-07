@@ -58,6 +58,8 @@ public static void Backtrack(int[] nums, List<int> path, List<List<int>> result)
 
 [0077. Combinations](/Recursion%2FBacktracking%2F0077.%20Combinations): Return all combinations of k elements from a set of n
 
+[0079. Word Search](/Recursion%2FBacktracking%2F0079.%20Word%20Search): Find if a word exists in a grid of letters
+
 [0216. Combination Sum III](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Backtracking/0216.%20Combination%20Sum%20III): Find all valid combinations of `k` numbers that sum up to `n`.
 
 [1079. Letter Tile Possibilities](/Backtracking%2F1079.%20Letter%20Tile%20Possibilities): Given a letter tile set, find the number of distinct letter combinations
