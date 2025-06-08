@@ -12,4 +12,6 @@
 
 [0106. Construct Binary Tree from Inorder and Postorder Traversal](/Recursion%2FDivide%20and%20Conquer%2F0106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal): Reconstruct binary tree from inorder and postorder traversals
 
+[0427. Construct Quad Tree](/Recursion%2FDivide%20and%20Conquer%2F0427.%20Construct%20Quad%20Tree): Recursively divide matrix; create quadtree nodes based values
+
 [0889. Construct Binary Tree from Preorder and Postorder Traversal](/Recursion%2FDivide%20and%20Conquer%2F0889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal): Reconstruct a binary tree given preorder and postorder traversals
