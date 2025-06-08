@@ -3,8 +3,8 @@ namespace LeetCodeSolutions.Recursion/DivideandConquer;
 /*
  * 0427. Construct Quad Tree
  * Difficulty: Medium
- * Submission Time: 2025-06-08 06:34:39
- * Created by vahtyah on 2025-06-08 06:34:59
+ * Submission Time: 2025-06-08 06:52:03
+ * Created by vahtyah on 2025-06-08 06:52:45
 */
  
 public class Solution {
