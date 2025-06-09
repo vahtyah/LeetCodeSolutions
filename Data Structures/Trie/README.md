@@ -148,3 +148,5 @@ public class Trie{
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0212. Word Search II](/Data%20Structures%2FTrie%2F0212.%20Word%20Search%20II): Find all words from a list present in a board
+
+[0440. K-th Smallest in Lexicographical Order](/Data%20Structures%2FTrie%2F0440.%20K-th%20Smallest%20in%20Lexicographical%20Order): Find the k-th smallest number lexicographically in [1, n]
