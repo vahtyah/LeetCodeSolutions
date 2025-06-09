@@ -143,6 +143,8 @@ public class Trie{
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0208. Implement Trie (Prefix Tree)](/Data%20Structures%2FTrie%2F0208.%20Implement%20Trie%20(Prefix%20Tree)): Implement a trie with insert, search, and startsWith methods
+
 [0211. Design Add and Search Words Data Structure](/Data%20Structures%2FTrie%2F0211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure): Implement add and search for words, supporting '.' wildcard
 
 [1268. Search Suggestions System](/Data%20Structures%2FTrie%2F1268.%20Search%20Suggestions%20System): Suggest products based on a search word with prefix matching
