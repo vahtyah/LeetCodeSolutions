@@ -88,6 +88,8 @@ foreach (var pair in dict)
 
 [3396. Minimum Number of Operations to Make Elements in Array Distinct](/Data%20Structures%2FHash%20Table%2F3396.%20Minimum%20Number%20of%20Operations%20to%20Make%20Elements%20in%20Array%20Distinct): Increment array elements to make all values distinct
 
+[3442. Maximum Difference Between Even and Odd Frequency I](/Data%20Structures%2FHash%20Table%2F3442.%20Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20I): Find max difference: (even count) - (odd count)
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0049. Group Anagrams](/Data%20Structures%2FHash%20Table%2F0049.%20Group%20Anagrams): Group strings with anagrams together
