@@ -98,3 +98,5 @@ public static void SlidingWindowAlgorithm(int[] nums)
 [2302. Count Subarrays With Score Less Than K](/Sliding%20Window%2F2302.%20Count%20Subarrays%20With%20Score%20Less%20Than%20K): Count subarrays where sum times length is less than K
 
 [2444. Count Subarrays With Fixed Bounds](/Sliding%20Window%2F2444.%20Count%20Subarrays%20With%20Fixed%20Bounds): Count subarrays where min=minK and max=maxK
+
+[3445. Maximum Difference Between Even and Odd Frequency II](/Sliding%20Window%2F3445.%20Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20II): Maximize (even frequency sum) - (odd frequency sum)
