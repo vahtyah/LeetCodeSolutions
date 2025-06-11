@@ -140,6 +140,8 @@ public class Solution {
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0053. Maximum Subarray](/Dynamic%20Programming%2F0053.%20Maximum%20Subarray): Find the contiguous subarray with the largest sum
+
 [0062. Unique Paths](/Dynamic%20Programming%2F0062.%20Unique%20Paths): Find the number of unique paths from the top-left corner to the bottom-right corner of a grid.
 
 [0072. Edit Distance](/Dynamic%20Programming%2F0072.%20Edit%20Distance): Find the minimum number of operations required to convert one word to another.
