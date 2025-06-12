@@ -158,6 +158,8 @@ public class Solution {
 
 [0873. Length of Longest Fibonacci Subsequence](/Dynamic%20Programming%2F0873.%20Length%20of%20Longest%20Fibonacci%20Subsequence): Find the longest Fibonacci subsequence length in array
 
+[0918. Maximum Sum Circular Subarray](/Dynamic%20Programming%2F0918.%20Maximum%20Sum%20Circular%20Subarray): Find max subarray sum, considering circular wrap-around
+
 [1143. Longest Common Subsequence](/Dynamic%20Programming%2F1143.%20Longest%20Common%20Subsequence): Find the length of the longest common subsequence between two strings.
 
 [1749. Maximum Absolute Sum of Any Subarray](/Dynamic%20Programming%2F1749.%20Maximum%20Absolute%20Sum%20of%20Any%20Subarray): Find the maximum absolute sum of any subarray
