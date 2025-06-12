@@ -27,7 +27,7 @@ public static int BinarySearch(int[] nums, int target)
     while (left <= right)
     {
         int mid = left + (right - left) / 2;
-        //int mid = left + (right - left) >> 1; // Alternative faster way to calculate mid
+        //int mid = left + ((right - left) >> 1); // Alternative faster way to calculate mid
 
         if (nums[mid] == target)
         {
@@ -58,6 +58,8 @@ public static int BinarySearch(int[] nums, int target)
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0033. Search in Rotated Sorted Array](/Searching%2FBinary%20Search%2F0033.%20Search%20in%20Rotated%20Sorted%20Array): Find target in a rotated sorted array
+
+[0034. Find First and Last Position of Element in Sorted Array](/Searching%2FBinary%20Search%2F0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array): Find first and last index of target in sorted array
 
 [0057. Insert Interval](/Searching%2FBinary%20Search%2F0057.%20Insert%20Interval): Merge non-overlapping intervals after inserting a new interval
 
