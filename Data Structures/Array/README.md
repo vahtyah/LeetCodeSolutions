@@ -89,6 +89,8 @@ public class ArrayExamples
 
 [3392. Count Subarrays of Length Three With a Condition](/Data%20Structures%2FArray%2F3392.%20Count%20Subarrays%20of%20Length%20Three%20With%20a%20Condition): Count length-three subarrays meeting absolute difference criteria
 
+[3423. Maximum Difference Between Adjacent Elements in a Circular Array](/Data%20Structures%2FArray%2F3423.%20Maximum%20Difference%20Between%20Adjacent%20Elements%20in%20a%20Circular%20Array): Find max difference between circular array neighbors
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0048. Rotate Image](/Data%20Structures%2FArray%2F0048.%20Rotate%20Image): Rotate a square matrix 90 degrees clockwise
