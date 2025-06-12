@@ -57,6 +57,8 @@ public static int BinarySearch(int[] nums, int target)
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
+[0033. Search in Rotated Sorted Array](/Searching%2FBinary%20Search%2F0033.%20Search%20in%20Rotated%20Sorted%20Array): Find target in a rotated sorted array
+
 [0057. Insert Interval](/Searching%2FBinary%20Search%2F0057.%20Insert%20Interval): Merge non-overlapping intervals after inserting a new interval
 
 [0074. Search a 2D Matrix](/Searching%2FBinary%20Search%2F0074.%20Search%20a%202D%20Matrix): Find if a target exists in a sorted 2D matrix
