@@ -4,7 +4,7 @@ namespace LeetCodeSolutions.Greedy;
  * 2016. Maximum Difference Between Increasing Elements
  * Difficulty: Easy
  * Submission Time: 2025-06-16 06:02:18
- * Created by vahtyah on 2025-06-16 06:03:44
+ * Created by vahtyah on 2025-06-16 06:44:30
 */
  
 public class Solution {
