@@ -27,6 +27,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [1422. Maximum Score After Splitting a String](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/1422.%20Maximum%20Score%20After%20Splitting%20a%20String): Find the maximum score after splitting a string into two non-empty substrings.
 
+[2016. Maximum Difference Between Increasing Elements](/Greedy%2F2016.%20Maximum%20Difference%20Between%20Increasing%20Elements): Find maximum nums[j] - nums[i] where i < j and nums[i] < nums[j]
+
 [2566. Maximum Difference by Remapping a Digit](/Greedy%2F2566.%20Maximum%20Difference%20by%20Remapping%20a%20Digit): Find maximum difference by remapping a digit
 
 [2873. Maximum Value of an Ordered Triplet I](/Greedy%2F2873.%20Maximum%20Value%20of%20an%20Ordered%20Triplet%20I): Find max (nums[i] - nums[j]) * nums[k] where i<j<k
