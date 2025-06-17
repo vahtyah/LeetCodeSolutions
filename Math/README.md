@@ -38,3 +38,5 @@ int digitCount = (int)Math.Log10(num) + 1;
 [3272. Find the Count of Good Integers](/Math%2F3272.%20Find%20the%20Count%20of%20Good%20Integers): Count n-digit numbers rearranged into divisible palindromes without leading zeros
 
 [3337. Total Characters in String After Transformations II](/Math%2F3337.%20Total%20Characters%20in%20String%20After%20Transformations%20II): Calculate total characters remaining after repeated adjacent same-character removals
+
+[3405. Count the Number of Arrays with K Matching Adjacent Elements](/Math%2F3405.%20Count%20the%20Number%20of%20Arrays%20with%20K%20Matching%20Adjacent%20Elements): Count arrays of length n with exactly k adjacent matches
