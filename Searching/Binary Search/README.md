@@ -80,3 +80,7 @@ public static int BinarySearch(int[] nums, int target)
 [2594. Minimum Time to Repair Cars](/Searching%2FBinary%20Search%2F2594.%20Minimum%20Time%20to%20Repair%20Cars): Find min time to repair all cars with given ranks
 
 [2616. Minimize the Maximum Difference of Pairs](/Searching%2FBinary%20Search%2F2616.%20Minimize%20the%20Maximum%20Difference%20of%20Pairs): Find minimum max-difference, forming p pairs
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[0004. Median of Two Sorted Arrays](/Searching%2FBinary%20Search%2F0004.%20Median%20of%20Two%20Sorted%20Arrays): Find median of two sorted arrays merged implicitly
