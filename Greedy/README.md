@@ -63,6 +63,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [2131. Longest Palindrome by Concatenating Two Letter Words](/Greedy%2F2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words): Find the longest palindrome from concatenated two-letter words
 
+[2294. Partition Array Such That Maximum Difference Is K](/Greedy%2F2294.%20Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K): Partition array into subsequences where max diff <= k
+
 [2342. Max Sum of a Pair With Equal Sum of Digits](/Greedy%2F2342.%20Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits): Find the pair with equal digit sums and maximum sum
 
 [2375. Construct Smallest Number From DI String](/Greedy%2F2375.%20Construct%20Smallest%20Number%20From%20DI%20String): Construct smallest number from string of 'I' and 'D'
