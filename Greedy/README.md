@@ -77,6 +77,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [3191. Minimum Operations to Make Binary Array Elements Equal to One I](/Greedy%2F3191.%20Minimum%20Operations%20to%20Make%20Binary%20Array%20Elements%20Equal%20to%20One%20I): Minimize flips to make all binary array elements one
 
+[3443. Maximum Manhattan Distance After K Changes](/Greedy%2F3443.%20Maximum%20Manhattan%20Distance%20After%20K%20Changes): Maximize Manhattan distance with up to K coordinate changes
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0135. Candy](/Greedy%2F0135.%20Candy): Distribute candies to children such that each child has at least one and adjacent children get different candies
