@@ -75,6 +75,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [2966. Divide Array Into Arrays With Max Difference](/Greedy%2F2966.%20Divide%20Array%20Into%20Arrays%20With%20Max%20Difference): Divide sorted array into subarrays, max difference <= k
 
+[3085. Minimum Deletions to Make String K-Special](/Greedy%2F3085.%20Minimum%20Deletions%20to%20Make%20String%20K-Special): Minimize deletions to make each character appear k times
+
 [3191. Minimum Operations to Make Binary Array Elements Equal to One I](/Greedy%2F3191.%20Minimum%20Operations%20to%20Make%20Binary%20Array%20Elements%20Equal%20to%20One%20I): Minimize flips to make all binary array elements one
 
 [3443. Maximum Manhattan Distance After K Changes](/Greedy%2F3443.%20Maximum%20Manhattan%20Distance%20After%20K%20Changes): Maximize Manhattan distance with up to K coordinate changes
