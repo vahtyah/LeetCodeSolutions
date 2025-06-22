@@ -138,6 +138,8 @@ str += "World"; // Creates a new string instance
 
 [1790. Check if One String Swap Can Make Strings Equal](/Data%20Structures%2FString%2F1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal): Swap any two characters of one string to check if equal to another
 
+[2138. Divide a String Into Groups of Size k](/Data%20Structures%2FString%2F2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k): Divide string into k-sized groups; pad if needed
+
 [2942. Find Words Containing Character](/Data%20Structures%2FString%2F2942.%20Find%20Words%20Containing%20Character): Find words containing a given character
 
 [3174. Clear Digits](/Data%20Structures%2FString%2F3174.%20Clear%20Digits): Remove all digits from a given string
