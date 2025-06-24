@@ -66,6 +66,8 @@ public static bool HasCycle(ListNode head)
 
 [0392. Is Subsequence](/Two%20Pointers%2F0392.%20Is%20Subsequence): Given two strings, determine if the second is a subsequence of the first
 
+[2200. Find All K-Distant Indices in an Array](/Two%20Pointers%2F2200.%20Find%20All%20K-Distant%20Indices%20in%20an%20Array): Find indices within distance `k` of target element indices
+
 [2570. Merge Two 2D Arrays by Summing Values](/Two%20Pointers%2F2570.%20Merge%20Two%202D%20Arrays%20by%20Summing%20Values): Merge arrays; sum values for identical keys
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
