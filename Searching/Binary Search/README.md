@@ -84,3 +84,5 @@ public static int BinarySearch(int[] nums, int target)
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0004. Median of Two Sorted Arrays](/Searching%2FBinary%20Search%2F0004.%20Median%20of%20Two%20Sorted%20Arrays): Find median of two sorted arrays merged implicitly
+
+[2040. Kth Smallest Product of Two Sorted Arrays](/Searching%2FBinary%20Search%2F2040.%20Kth%20Smallest%20Product%20of%20Two%20Sorted%20Arrays): Find the kth smallest product from two sorted arrays
