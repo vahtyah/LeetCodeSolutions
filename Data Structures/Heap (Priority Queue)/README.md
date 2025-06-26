@@ -195,3 +195,7 @@ public unsafe class UnsafePriorityQueue<TElement, TPriority> : IDisposable
 [3066. Minimum Operations to Exceed Threshold Value II](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II): Minimize operations needed to reach threshold by adding numbers
 
 [3362. Zero Array Transformation III](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F3362.%20Zero%20Array%20Transformation%20III): Make target array all zeros by element transfers
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[0502. IPO](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F0502.%20IPO): Maximize capital by strategically investing in projects
