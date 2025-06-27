@@ -84,6 +84,8 @@ while(n > 0) {
 
 [0136. Single Number](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0136.%20Single%20Number): Find the single number that appears only once in an array of integers.
 
+[0190. Reverse Bits](/Bit%20Manipulation%2F0190.%20Reverse%20Bits): Reverse the bits of a 32-bit unsigned integer
+
 [0338. Counting Bits](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0338.%20Counting%20Bits): Count the number of 1 bits in the binary representation of each number from 0 to n.
 
 [1550. Three Consecutive Odds](/Bit%20Manipulation%2F1550.%20Three%20Consecutive%20Odds): Check for three consecutive odd numbers in array
