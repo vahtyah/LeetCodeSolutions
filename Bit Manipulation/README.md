@@ -86,6 +86,8 @@ while(n > 0) {
 
 [0190. Reverse Bits](/Bit%20Manipulation%2F0190.%20Reverse%20Bits): Reverse the bits of a 32-bit unsigned integer
 
+[0191. Number of 1 Bits](/Bit%20Manipulation%2F0191.%20Number%20of%201%20Bits): Count the number of set bits in an integer
+
 [0338. Counting Bits](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0338.%20Counting%20Bits): Count the number of 1 bits in the binary representation of each number from 0 to n.
 
 [1550. Three Consecutive Odds](/Bit%20Manipulation%2F1550.%20Three%20Consecutive%20Odds): Check for three consecutive odd numbers in array
