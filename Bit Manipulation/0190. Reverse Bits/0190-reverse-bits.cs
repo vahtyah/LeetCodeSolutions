@@ -3,11 +3,12 @@ namespace LeetCodeSolutions.BitManipulation;
 /*
  * 0190. Reverse Bits
  * Difficulty: Easy
- * Submission Time: 2025-06-27 12:26:03
- * Created by vahtyah on 2025-06-27 12:38:58
+ * Submission Time: 2025-06-27 12:42:43
+ * Created by vahtyah on 2025-06-27 12:43:07
 */
  
 public class Solution {
+    [System.Runtime.CompilerServices.MethodImpl(System.Runtime.CompilerServices.MethodImplOptions.AggressiveInlining)]
     public uint reverseBits(uint n) {
         uint result = 0;
 
