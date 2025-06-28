@@ -81,6 +81,8 @@ public class ArrayExamples
 
 [2094. Finding 3-Digit Even Numbers](/Data%20Structures%2FArray%2F2094.%20Finding%203-Digit%20Even%20Numbers): Find all distinct 3-digit even numbers from given digits
 
+[2099. Find Subsequence of Length K With the Largest Sum](/Data%20Structures%2FArray%2F2099.%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum): Find k elements from array with maximum sum
+
 [2176. Count Equal and Divisible Pairs in an Array](/Data%20Structures%2FArray%2F2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array): Count pairs where nums[i] == nums[j] and (i*j) % k == 0
 
 [2460. Apply Operations to an Array](/Data%20Structures%2FArray%2F2460.%20Apply%20Operations%20to%20an%20Array): Modify array: double equal adjacent, zero others, shift zeros
