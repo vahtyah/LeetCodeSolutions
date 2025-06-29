@@ -90,6 +90,8 @@ public static bool HasCycle(ListNode head)
 
 [0838. Push Dominoes](/Two%20Pointers%2F0838.%20Push%20Dominoes): Simulate domino falls; determine final state of dominoes
 
+[1498. Number of Subsequences That Satisfy the Given Sum Condition](/Two%20Pointers%2F1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition): Count subsequences where min + max <= target
+
 [2161. Partition Array According to Given Pivot](/Two%20Pointers%2F2161.%20Partition%20Array%20According%20to%20Given%20Pivot): Reorder array so elements less/equal/greater pivot are grouped
 
 [2462. Total Cost to Hire K Workers](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/2462.%20Total%20Cost%20to%20Hire%20K%20Workers): Calculate the minimum total cost to hire `k` workers based on their quality and wage requirements.
