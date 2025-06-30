@@ -78,6 +78,8 @@ foreach (var pair in dict)
 
 [0383. Ransom Note](/Data%20Structures%2FHash%20Table%2F0383.%20Ransom%20Note): Can a ransom note be formed from a magazine?
 
+[0594. Longest Harmonious Subsequence](/Data%20Structures%2FHash%20Table%2F0594.%20Longest%20Harmonious%20Subsequence): Find the longest subsequence with max-min difference of 1
+
 [1128. Number of Equivalent Domino Pairs](/Data%20Structures%2FHash%20Table%2F1128.%20Number%20of%20Equivalent%20Domino%20Pairs): Count domino pairs with equivalent numbers
 
 [1399. Count Largest Group](/Data%20Structures%2FHash%20Table%2F1399.%20Count%20Largest%20Group): Group integers by digit sum, count largest group size
