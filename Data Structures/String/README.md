@@ -144,6 +144,8 @@ str += "World"; // Creates a new string instance
 
 [3174. Clear Digits](/Data%20Structures%2FString%2F3174.%20Clear%20Digits): Remove all digits from a given string
 
+[3330. Find the Original Typed String I](/Data%20Structures%2FString%2F3330.%20Find%20the%20Original%20Typed%20String%20I): Reconstruct original string after duplicate characters are added
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0006. Zigzag Conversion](/Data%20Structures%2FString%2F0006.%20Zigzag%20Conversion): Convert a string into a zigzag pattern
