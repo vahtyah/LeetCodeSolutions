@@ -104,6 +104,8 @@ while(n > 0) {
 
 [0137. Single Number II](/Bit%20Manipulation%2F0137.%20Single%20Number%20II): Find the unique number that appears only once
 
+[0201. Bitwise AND of Numbers Range](/Bit%20Manipulation%2F0201.%20Bitwise%20AND%20of%20Numbers%20Range): Find bitwise AND of all numbers in range [m, n]
+
 [1261. Find Elements in a Contaminated Binary Tree](/Bit%20Manipulation%2F1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree): Find nodes matching a given set of values in a contaminated binary tree
 
 [1318. Minimum Flips to Make a OR b Equal to c](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c): Find the minimum number of flips to make `a | b` equal to `c`.
