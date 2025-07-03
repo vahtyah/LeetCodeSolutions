@@ -98,6 +98,8 @@ while(n > 0) {
 
 [3151. Special Array I](/Bit%20Manipulation%2F3151.%20Special%20Array%20I): Find the minimum integer in an array such that the number of elements less than or equal to it is greater than or equal to the integer itself
 
+[3304. Find the K-th Character in String Game I](/Bit%20Manipulation%2F3304.%20Find%20the%20K-th%20Character%20in%20String%20Game%20I): Find the k-th character after repeated string transformations
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0036. Valid Sudoku](/Bit%20Manipulation%2F0036.%20Valid%20Sudoku): Determine if a Sudoku board is valid
