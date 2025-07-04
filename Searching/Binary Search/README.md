@@ -53,6 +53,8 @@ public static int BinarySearch(int[] nums, int target)
 
 [0035. Search Insert Position](/Searching%2FBinary%20Search%2F0035.%20Search%20Insert%20Position): Find index to insert target in sorted array
 
+[0069. Sqrt(x)](/Searching%2FBinary%20Search%2F0069.%20Sqrt%28x%29): Find the integer square root of a nonnegative integer
+
 [2529. Maximum Count of Positive Integer and Negative Integer](/Searching%2FBinary%20Search%2F2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer): Find the max count of positive/negative numbers in array
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
