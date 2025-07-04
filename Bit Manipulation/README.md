@@ -125,3 +125,5 @@ while(n > 0) {
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0052. N-Queens II](/Bit%20Manipulation%2F0052.%20N-Queens%20II): Count the number of valid N-Queens placements
+
+[3307. Find the K-th Character in String Game II](/Bit%20Manipulation%2F3307.%20Find%20the%20K-th%20Character%20in%20String%20Game%20II): Find the k-th character in infinitely expanding string
