@@ -192,6 +192,8 @@ public unsafe class UnsafePriorityQueue<TElement, TPriority> : IDisposable
 
 [0215. Kth Largest Element in an Array](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F0215.%20Kth%20Largest%20Element%20in%20an%20Array): Find the kth largest element in an array
 
+[1353. Maximum Number of Events That Can Be Attended](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F1353.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended): Maximize attending events with deadlines, one event per day
+
 [3066. Minimum Operations to Exceed Threshold Value II](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II): Minimize operations needed to reach threshold by adding numbers
 
 [3362. Zero Array Transformation III](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F3362.%20Zero%20Array%20Transformation%20III): Make target array all zeros by element transfers
