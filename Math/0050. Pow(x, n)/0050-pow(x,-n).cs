@@ -4,7 +4,7 @@ namespace LeetCodeSolutions.Math;
  * 0050. Pow(x, n)
  * Difficulty: Medium
  * Submission Time: 2025-07-07 14:22:07
- * Created by vahtyah on 2025-07-07 14:22:50
+ * Created by vahtyah on 2025-07-07 14:24:35
 */
  
 public class Solution {
