@@ -138,6 +138,8 @@ public class Solution {
 
 [0118. Pascal's Triangle](/Dynamic%20Programming%2F0118.%20Pascal%27s%20Triangle): Generate Pascal's Triangle up to `numRows`
 
+[0119. Pascal's Triangle II](/Dynamic%20Programming%2F0119.%20Pascal%27s%20Triangle%20II): Return the rowIndex-th row of Pascal's Triangle
+
 [0509. Fibonacci Number](/Dynamic%20Programming%2F0509.%20Fibonacci%20Number): Find the n-th number in the Fibonacci sequence
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
