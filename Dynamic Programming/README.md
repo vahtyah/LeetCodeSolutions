@@ -172,6 +172,8 @@ public class Solution {
 
 [1092. Shortest Common Supersequence ](/Dynamic%20Programming%2F1092.%20Shortest%20Common%20Supersequence%20): Find shortest string containing two given strings as subsequences
 
+[1751. Maximum Number of Events That Can Be Attended II](/Dynamic%20Programming%2F1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II): Maximize attended events within k limits, earning total value
+
 [1857. Largest Color Value in a Directed Graph](/Dynamic%20Programming%2F1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph): Find max color value in directed graph, avoiding cycles
 
 [1931. Painting a Grid With Three Different Colors](/Dynamic%20Programming%2F1931.%20Painting%20a%20Grid%20With%20Three%20Different%20Colors): Count valid grid colorings with three colors
