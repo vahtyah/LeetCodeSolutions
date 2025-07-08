@@ -136,6 +136,8 @@ public class Solution {
 
 [0070. Climbing Stairs](/Dynamic%20Programming%2F0070.%20Climbing%20Stairs): Find the number of ways to climb n stairs
 
+[0118. Pascal's Triangle](/Dynamic%20Programming%2F0118.%20Pascal%27s%20Triangle): Generate Pascal's Triangle up to `numRows`
+
 [0509. Fibonacci Number](/Dynamic%20Programming%2F0509.%20Fibonacci%20Number): Find the n-th number in the Fibonacci sequence
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
