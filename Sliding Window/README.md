@@ -89,6 +89,8 @@ public static void SlidingWindowAlgorithm(int[] nums)
 
 [3306. Count of Substrings Containing Every Vowel and K Consonants II](/Sliding%20Window%2F3306.%20Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20II): Count substrings with all vowels and K consonants
 
+[3439. Reschedule Meetings for Maximum Free Time I](/Sliding%20Window%2F3439.%20Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20I): Maximize free time by optimally rescheduling meeting intervals
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0030. Substring with Concatenation of All Words](/Sliding%20Window%2F0030.%20Substring%20with%20Concatenation%20of%20All%20Words): Find substring containing concatenation of all words in a list
