@@ -201,3 +201,5 @@ public unsafe class UnsafePriorityQueue<TElement, TPriority> : IDisposable
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0502. IPO](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F0502.%20IPO): Maximize capital by strategically investing in projects
+
+[2402. Meeting Rooms III](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F2402.%20Meeting%20Rooms%20III): Maximize meeting attendance across multiple rooms
