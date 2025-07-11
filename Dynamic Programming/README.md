@@ -152,6 +152,8 @@ public class Solution {
 
 [0122. Best Time to Buy and Sell Stock II](/Dynamic%20Programming%2F0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II): Find the maximum profit that can be obtained by buying and selling a stock multiple times.
 
+[0139. Word Break](/Dynamic%20Programming%2F0139.%20Word%20Break): Determine if a string can be segmented into dictionary words
+
 [0198. House Robber](/Dynamic%20Programming%2F0198.%20House%20Robber): Maximize loot robbing non-adjacent houses
 
 [0368. Largest Divisible Subset](/Dynamic%20Programming%2F0368.%20Largest%20Divisible%20Subset): Find the largest subset where each element divides the next
