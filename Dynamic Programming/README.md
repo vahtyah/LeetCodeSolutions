@@ -184,6 +184,8 @@ public class Solution {
 
 [1857. Largest Color Value in a Directed Graph](/Dynamic%20Programming%2F1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph): Find max color value in directed graph, avoiding cycles
 
+[1900. The Earliest and Latest Rounds Where Players Compete](/Dynamic%20Programming%2F1900.%20The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete): Find min/max rounds until one player wins competition
+
 [1931. Painting a Grid With Three Different Colors](/Dynamic%20Programming%2F1931.%20Painting%20a%20Grid%20With%20Three%20Different%20Colors): Count valid grid colorings with three colors
 
 [2338. Count the Number of Ideal Arrays](/Dynamic%20Programming%2F2338.%20Count%20the%20Number%20of%20Ideal%20Arrays): Count arrays where each element divides the next
