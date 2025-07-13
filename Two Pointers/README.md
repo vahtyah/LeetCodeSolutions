@@ -94,6 +94,8 @@ public static bool HasCycle(ListNode head)
 
 [2161. Partition Array According to Given Pivot](/Two%20Pointers%2F2161.%20Partition%20Array%20According%20to%20Given%20Pivot): Reorder array so elements less/equal/greater pivot are grouped
 
+[2410. Maximum Matching of Players With Trainers](/Two%20Pointers%2F2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers): Maximize player-trainer matches given player and trainer skill levels
+
 [2462. Total Cost to Hire K Workers](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Two%20Pointers/2462.%20Total%20Cost%20to%20Hire%20K%20Workers): Calculate the minimum total cost to hire `k` workers based on their quality and wage requirements.
 
 [3403. Find the Lexicographically Largest String From the Box I](/Two%20Pointers%2F3403.%20Find%20the%20Lexicographically%20Largest%20String%20From%20the%20Box%20I): Find the lexicographically largest string from the given strings
