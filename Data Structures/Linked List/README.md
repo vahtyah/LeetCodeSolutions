@@ -36,6 +36,10 @@ A **linked list** is a linear data structure where elements are stored in nodes.
 
 ## Solutions
 
+### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
+
+[1290. Convert Binary Number in a Linked List to Integer](/Data%20Structures%2FLinked%20List%2F1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer): Convert a binary linked list to its integer value
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0061. Rotate List](/Data%20Structures%2FLinked%20List%2F0061.%20Rotate%20List): Rotate a linked list by a given number of steps
