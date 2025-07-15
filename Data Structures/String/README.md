@@ -142,6 +142,8 @@ str += "World"; // Creates a new string instance
 
 [2942. Find Words Containing Character](/Data%20Structures%2FString%2F2942.%20Find%20Words%20Containing%20Character): Find words containing a given character
 
+[3136. Valid Word](/Data%20Structures%2FString%2F3136.%20Valid%20Word): Determine if a word follows given capitalization rules
+
 [3174. Clear Digits](/Data%20Structures%2FString%2F3174.%20Clear%20Digits): Remove all digits from a given string
 
 [3330. Find the Original Typed String I](/Data%20Structures%2FString%2F3330.%20Find%20the%20Original%20Typed%20String%20I): Reconstruct original string after duplicate characters are added
