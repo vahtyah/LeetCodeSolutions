@@ -160,6 +160,8 @@ str += "World"; // Creates a new string instance
 
 [0916. Word Subsets](/Data%20Structures%2FString%2F0916.%20Word%20Subsets): Find all words from `B` that are universal in `A`
 
+[1233. Remove Sub-Folders from the Filesystem](/Data%20Structures%2FString%2F1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem): Find and remove redundant sub-folders in a file system
+
 [3223. Minimum Length of String After Operations](/Data%20Structures%2FString%2F3223.%20Minimum%20Length%20of%20String%20After%20Operations): Find the minimum length of a string after applying operations
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
