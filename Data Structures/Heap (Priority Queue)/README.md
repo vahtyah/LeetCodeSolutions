@@ -202,4 +202,6 @@ public unsafe class UnsafePriorityQueue<TElement, TPriority> : IDisposable
 
 [0502. IPO](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F0502.%20IPO): Maximize capital by strategically investing in projects
 
+[2163. Minimum Difference in Sums After Removal of Elements](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F2163.%20Minimum%20Difference%20in%20Sums%20After%20Removal%20of%20Elements): Minimize difference between two sub-arrays after removing n elements
+
 [2402. Meeting Rooms III](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F2402.%20Meeting%20Rooms%20III): Maximize meeting attendance across multiple rooms
