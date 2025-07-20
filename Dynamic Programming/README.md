@@ -156,6 +156,8 @@ public class Solution {
 
 [0198. House Robber](/Dynamic%20Programming%2F0198.%20House%20Robber): Maximize loot robbing non-adjacent houses
 
+[0322. Coin Change](/Dynamic%20Programming%2F0322.%20Coin%20Change): Find fewest coins to reach target sum
+
 [0368. Largest Divisible Subset](/Dynamic%20Programming%2F0368.%20Largest%20Divisible%20Subset): Find the largest subset where each element divides the next
 
 [0416. Partition Equal Subset Sum](/Dynamic%20Programming%2F0416.%20Partition%20Equal%20Subset%20Sum): Determine if array can be split into two equal sums
