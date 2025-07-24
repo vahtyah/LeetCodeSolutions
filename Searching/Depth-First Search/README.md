@@ -124,3 +124,5 @@ public class Graph
 [0124. Binary Tree Maximum Path Sum](/Searching%2FDepth-First%20Search%2F0124.%20Binary%20Tree%20Maximum%20Path%20Sum): Find the maximum sum path in a binary tree
 
 [1028. Recover a Tree From Preorder Traversal](/Searching%2FDepth-First%20Search%2F1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal): Recover a binary tree from a preorder traversal sequence
+
+[2322. Minimum Score After Removals on a Tree](/Searching%2FDepth-First%20Search%2F2322.%20Minimum%20Score%20After%20Removals%20on%20a%20Tree): Minimize score by removing edges on a tree
