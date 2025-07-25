@@ -71,6 +71,8 @@ public static int BinarySearch(int[] nums, int target)
 
 [0162. Find Peak Element](/Searching%2FBinary%20Search%2F0162.%20Find%20Peak%20Element): Find the peak element in an array
 
+[0300. Longest Increasing Subsequence](/Searching%2FBinary%20Search%2F0300.%20Longest%20Increasing%20Subsequence): Find the length of the longest increasing subsequence
+
 [0373. Find K Pairs with Smallest Sums](/Searching%2FBinary%20Search%2F0373.%20Find%20K%20Pairs%20with%20Smallest%20Sums): Find k pairs with smallest sums from two arrays
 
 [0875. Koko Eating Bananas](/Searching%2FBinary%20Search%2F0875.%20Koko%20Eating%20Bananas): Koko eats bananas at varying speeds; find the minimum speed to finish all
