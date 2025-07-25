@@ -35,6 +35,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [2900. Longest Unequal Adjacent Groups Subsequence I](/Greedy%2F2900.%20Longest%20Unequal%20Adjacent%20Groups%20Subsequence%20I): Find the longest subsequence with adjacent elements from different groups
 
+[3487. Maximum Unique Subarray Sum After Deletion](/Greedy%2F3487.%20Maximum%20Unique%20Subarray%20Sum%20After%20Deletion): Find maximum subarray sum with unique elements, deleting duplicates
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0045. Jump Game II](/Greedy%2F0045.%20Jump%20Game%20II): Find the minimum number of jumps to reach the last index in an array.
