@@ -100,3 +100,5 @@ public static int GreedyAlgorithm(int[] nums)
 [2818. Apply Operations to Maximize Score](/Greedy%2F2818.%20Apply%20Operations%20to%20Maximize%20Score): Maximize score: apply operations, prime factor boosts allowed
 
 [3068. Find the Maximum Sum of Node Values](/Greedy%2F3068.%20Find%20the%20Maximum%20Sum%20of%20Node%20Values): Maximize sum of node values, selecting independent sets
+
+[3480. Maximize Subarrays After Removing One Conflicting Pair](/Greedy%2F3480.%20Maximize%20Subarrays%20After%20Removing%20One%20Conflicting%20Pair): Remove one overlapping interval to maximize non-overlapping intervals
