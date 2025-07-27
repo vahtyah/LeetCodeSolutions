@@ -85,6 +85,8 @@ public class ArrayExamples
 
 [2176. Count Equal and Divisible Pairs in an Array](/Data%20Structures%2FArray%2F2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array): Count pairs where nums[i] == nums[j] and (i*j) % k == 0
 
+[2210. Count Hills and Valleys in an Array](/Data%20Structures%2FArray%2F2210.%20Count%20Hills%20and%20Valleys%20in%20an%20Array): Count local peaks/troughs in an integer array
+
 [2460. Apply Operations to an Array](/Data%20Structures%2FArray%2F2460.%20Apply%20Operations%20to%20an%20Array): Modify array: double equal adjacent, zero others, shift zeros
 
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](/Data%20Structures%2FArray%2F3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray): Find longest contiguous strictly increasing or strictly decreasing subarray
