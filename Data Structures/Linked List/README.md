@@ -38,6 +38,8 @@ A **linked list** is a linear data structure where elements are stored in nodes.
 
 ### ![Easy](https://img.shields.io/badge/Easy-46c6c2)
 
+[0083. Remove Duplicates from Sorted List](/Data%20Structures%2FLinked%20List%2F0083.%20Remove%20Duplicates%20from%20Sorted%20List): Remove consecutive duplicate nodes from a sorted list
+
 [1290. Convert Binary Number in a Linked List to Integer](/Data%20Structures%2FLinked%20List%2F1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer): Convert a binary linked list to its integer value
 
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
