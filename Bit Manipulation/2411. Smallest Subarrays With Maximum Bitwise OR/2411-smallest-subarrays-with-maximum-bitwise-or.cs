@@ -4,7 +4,7 @@ namespace LeetCodeSolutions.BitManipulation;
  * 2411. Smallest Subarrays With Maximum Bitwise OR
  * Difficulty: Medium
  * Submission Time: 2025-07-29 14:04:38
- * Created by vahtyah on 2025-07-29 15:04:04
+ * Created by vahtyah on 2025-07-29 15:04:19
 */
  
 public class Solution {
