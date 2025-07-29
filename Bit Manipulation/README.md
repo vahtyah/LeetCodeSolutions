@@ -114,6 +114,8 @@ while(n > 0) {
 
 [2401. Longest Nice Subarray](/Bit%20Manipulation%2F2401.%20Longest%20Nice%20Subarray): Find the longest subarray with pairwise bitwise AND zero
 
+[2411. Smallest Subarrays With Maximum Bitwise OR](/Bit%20Manipulation%2F2411.%20Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR): Find shortest subarrays with maximum bitwise OR value
+
 [2425. Bitwise XOR of All Pairings](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2425.%20Bitwise%20XOR%20of%20All%20Pairings): Calculate the bitwise XOR of all possible pairings of an array.
 
 [2429. Minimize XOR](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/2429.%20Minimize%20XOR): Minimize the XOR of two numbers by setting a bit.
