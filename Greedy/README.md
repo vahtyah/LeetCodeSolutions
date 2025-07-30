@@ -75,6 +75,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [2375. Construct Smallest Number From DI String](/Greedy%2F2375.%20Construct%20Smallest%20Number%20From%20DI%20String): Construct smallest number from string of 'I' and 'D'
 
+[2419. Longest Subarray With Maximum Bitwise AND](/Greedy%2F2419.%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND): Find the longest subarray with maximum bitwise AND value
+
 [2434. Using a Robot to Print the Lexicographically Smallest String](/Greedy%2F2434.%20Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String): Lexicographically smallest string after robot operations on given string
 
 [2874. Maximum Value of an Ordered Triplet II](/Greedy%2F2874.%20Maximum%20Value%20of%20an%20Ordered%20Triplet%20II): Find the maximum (nums[i] - nums[j]) * nums[k] for i<j<k
