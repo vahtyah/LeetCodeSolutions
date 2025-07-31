@@ -100,6 +100,8 @@ foreach (var pair in dict)
 
 [0380. Insert Delete GetRandom O(1)](/Data%20Structures%2FHash%20Table%2F0380.%20Insert%20Delete%20GetRandom%20O%281%29): Design a data structure that supports insert, delete, and getRandom operations in constant time.
 
+[0898. Bitwise ORs of Subarrays](/Data%20Structures%2FHash%20Table%2F0898.%20Bitwise%20ORs%20of%20Subarrays): Find unique bitwise OR results of all subarrays
+
 [1726. Tuple with Same Product](/Data%20Structures%2FHash%20Table%2F1726.%20Tuple%20with%20Same%20Product): Count tuples with same product in an array
 
 [1865. Finding Pairs With a Certain Sum](/Data%20Structures%2FHash%20Table%2F1865.%20Finding%20Pairs%20With%20a%20Certain%20Sum): Find how many pairs sum to a given value
