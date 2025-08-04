@@ -75,6 +75,8 @@ public static void SlidingWindowAlgorithm(int[] nums)
 
 [0209. Minimum Size Subarray Sum](/Sliding%20Window%2F0209.%20Minimum%20Size%20Subarray%20Sum): Find the smallest contiguous subarray with a sum greater than or equal to a given target
 
+[0904. Fruit Into Baskets](/Sliding%20Window%2F0904.%20Fruit%20Into%20Baskets): Maximize fruit picked with at most two fruit types
+
 [1358. Number of Substrings Containing All Three Characters](/Sliding%20Window%2F1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters): Count substrings containing 'a', 'b', and 'c'
 
 [1695. Maximum Erasure Value](/Sliding%20Window%2F1695.%20Maximum%20Erasure%20Value): Find max subarray sum with unique elements
