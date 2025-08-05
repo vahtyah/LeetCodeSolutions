@@ -95,6 +95,8 @@ public class ArrayExamples
 
 [3423. Maximum Difference Between Adjacent Elements in a Circular Array](/Data%20Structures%2FArray%2F3423.%20Maximum%20Difference%20Between%20Adjacent%20Elements%20in%20a%20Circular%20Array): Find max difference between circular array neighbors
 
+[3477. Fruits Into Baskets II](/Data%20Structures%2FArray%2F3477.%20Fruits%20Into%20Baskets%20II): Maximize fruit count with at most two fruit types
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0048. Rotate Image](/Data%20Structures%2FArray%2F0048.%20Rotate%20Image): Rotate a square matrix 90 degrees clockwise
