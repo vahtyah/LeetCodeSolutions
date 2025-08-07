@@ -197,3 +197,5 @@ public class Solution {
 [2999. Count the Number of Powerful Integers](/Dynamic%20Programming%2F2999.%20Count%20the%20Number%20of%20Powerful%20Integers): Count integers within range ending with `suffix` pattern
 
 [3343. Count Number of Balanced Permutations](/Dynamic%20Programming%2F3343.%20Count%20Number%20of%20Balanced%20Permutations): Count permutations with balanced adjacent sum parity
+
+[3363. Find the Maximum Number of Fruits Collected](/Dynamic%20Programming%2F3363.%20Find%20the%20Maximum%20Number%20of%20Fruits%20Collected): Maximize collected fruits within a limited sliding window
