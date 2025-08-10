@@ -148,6 +148,8 @@ public class Solution {
 
 [0062. Unique Paths](/Dynamic%20Programming%2F0062.%20Unique%20Paths): Find the number of unique paths from the top-left corner to the bottom-right corner of a grid.
 
+[0063. Unique Paths II](/Dynamic%20Programming%2F0063.%20Unique%20Paths%20II): Count unique paths to reach bottom-right with obstacles
+
 [0064. Minimum Path Sum](/Dynamic%20Programming%2F0064.%20Minimum%20Path%20Sum): Find minimum sum path from top-left to bottom-right
 
 [0072. Edit Distance](/Dynamic%20Programming%2F0072.%20Edit%20Distance): Find the minimum number of operations required to convert one word to another.
