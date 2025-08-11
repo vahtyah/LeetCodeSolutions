@@ -151,6 +151,8 @@ public static int[] CalculatePrefixSum(int[] input)
 
 [2381. Shifting Letters II](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2381.%20Shifting%20Letters%20II): Shift the letters of a string by a given number of positions.
 
+[2438. Range Product Queries of Powers](/Prefix%20Sum%2F2438.%20Range%20Product%20Queries%20of%20Powers): Find product of powers in prime factorization ranges
+
 [2559. Count Vowel Strings in Ranges](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/2559.%20Count%20Vowel%20Strings%20in%20Ranges): Count the number of strings that consist of vowels only in a given range.
 
 [2845. Count of Interesting Subarrays](/Prefix%20Sum%2F2845.%20Count%20of%20Interesting%20Subarrays): Count subarrays with a specified count of "interesting" elements
