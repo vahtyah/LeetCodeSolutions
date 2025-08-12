@@ -180,6 +180,8 @@ public class Solution {
 
 [2140. Solving Questions With Brainpower](/Dynamic%20Programming%2F2140.%20Solving%20Questions%20With%20Brainpower): Maximize points solving questions, skipping some based on brainpower
 
+[2787. Ways to Express an Integer as Sum of Powers](/Dynamic%20Programming%2F2787.%20Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers): Find the number of ways to sum powers to n
+
 [2901. Longest Unequal Adjacent Groups Subsequence II](/Dynamic%20Programming%2F2901.%20Longest%20Unequal%20Adjacent%20Groups%20Subsequence%20II): Find longest subsequence where adjacent groups differ
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
