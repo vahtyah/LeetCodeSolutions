@@ -15,6 +15,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [0066. Plus One](/Math%2F0066.%20Plus%20One): Increment a non-negative integer represented by an array
 
+[0326. Power of Three](/Math%2F0326.%20Power%20of%20Three): Determine if a number is a power of three
+
 [1295. Find Numbers with Even Number of Digits](/Math%2F1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits): Count integers with an even number of digits
 
 [2843. Count Symmetric Integers](/Math%2F2843.%20Count%20Symmetric%20Integers): Count integers within range that are symmetric
