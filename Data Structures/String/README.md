@@ -142,6 +142,8 @@ str += "World"; // Creates a new string instance
 
 [2138. Divide a String Into Groups of Size k](/Data%20Structures%2FString%2F2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k): Divide string into k-sized groups; pad if needed
 
+[2264. Largest 3-Same-Digit Number in String](/Data%20Structures%2FString%2F2264.%20Largest%203-Same-Digit%20Number%20in%20String): Find the largest "XXX" substring within a string
+
 [2942. Find Words Containing Character](/Data%20Structures%2FString%2F2942.%20Find%20Words%20Containing%20Character): Find words containing a given character
 
 [3136. Valid Word](/Data%20Structures%2FString%2F3136.%20Valid%20Word): Determine if a word follows given capitalization rules
