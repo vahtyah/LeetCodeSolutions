@@ -92,6 +92,8 @@ while(n > 0) {
 
 [0338. Counting Bits](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/0338.%20Counting%20Bits): Count the number of 1 bits in the binary representation of each number from 0 to n.
 
+[0342. Power of Four](/Bit%20Manipulation%2F0342.%20Power%20of%20Four): Determine if an integer is a power of four
+
 [1550. Three Consecutive Odds](/Bit%20Manipulation%2F1550.%20Three%20Consecutive%20Odds): Check for three consecutive odd numbers in array
 
 [1863. Sum of All Subset XOR Totals](/Bit%20Manipulation%2F1863.%20Sum%20of%20All%20Subset%20XOR%20Totals): Calculate XOR sum of all subsets' XOR totals
