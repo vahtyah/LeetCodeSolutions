@@ -19,6 +19,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [1295. Find Numbers with Even Number of Digits](/Math%2F1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits): Count integers with an even number of digits
 
+[1323. Maximum 69 Number](/Math%2F1323.%20Maximum%2069%20Number): Find the largest possible number by changing one 6 to 9
+
 [2843. Count Symmetric Integers](/Math%2F2843.%20Count%20Symmetric%20Integers): Count integers within range that are symmetric
 
 [2894. Divisible and Non-divisible Sums Difference](/Math%2F2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference): Sum divisible numbers, subtract sum of non-divisible numbers
