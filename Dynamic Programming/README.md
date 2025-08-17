@@ -170,6 +170,8 @@ public class Solution {
 
 [0808. Soup Servings](/Dynamic%20Programming%2F0808.%20Soup%20Servings): Calculate probability of A emptying first in soup servings
 
+[0837. New 21 Game](/Dynamic%20Programming%2F0837.%20New%2021%20Game): Calculate probability of score <= K before exceeding N
+
 [0873. Length of Longest Fibonacci Subsequence](/Dynamic%20Programming%2F0873.%20Length%20of%20Longest%20Fibonacci%20Subsequence): Find the longest Fibonacci subsequence length in array
 
 [0918. Maximum Sum Circular Subarray](/Dynamic%20Programming%2F0918.%20Maximum%20Sum%20Circular%20Subarray): Find max subarray sum, considering circular wrap-around
