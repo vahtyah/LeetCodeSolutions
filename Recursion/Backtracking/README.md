@@ -82,4 +82,6 @@ public static void Backtrack(int[] nums, List<int> path, List<List<int>> result)
 
 [0052. N-Queens II](/Recursion%2FBacktracking%2F0052.%20N-Queens%20II): Count all distinct N-Queens solutions on an N x N board
 
+[0679. 24 Game](/Recursion%2FBacktracking%2F0679.%2024%20Game): Determine if four numbers can make 24 using operations
+
 [2014. Longest Subsequence Repeated k Times](/Recursion%2FBacktracking%2F2014.%20Longest%20Subsequence%20Repeated%20k%20Times): Find the longest subsequence repeated k times
