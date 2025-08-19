@@ -113,6 +113,8 @@ public class ArrayExamples
 
 [2033. Minimum Operations to Make a Uni-Value Grid](/Data%20Structures%2FArray%2F2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid): Minimize operations to make all grid values equal
 
+[2348. Number of Zero-Filled Subarrays](/Data%20Structures%2FArray%2F2348.%20Number%20of%20Zero-Filled%20Subarrays): Count zero-filled contiguous subarrays within an array
+
 [2364. Count Number of Bad Pairs](/Data%20Structures%2FArray%2F2364.%20Count%20Number%20of%20Bad%20Pairs): Count pairs of elements with bigger elements on right
 
 [2563. Count the Number of Fair Pairs](/Data%20Structures%2FArray%2F2563.%20Count%20the%20Number%20of%20Fair%20Pairs): Count pairs within range [lower, upper] in an array
