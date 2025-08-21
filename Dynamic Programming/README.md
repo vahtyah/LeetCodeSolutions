@@ -180,6 +180,8 @@ public class Solution {
 
 [1277. Count Square Submatrices with All Ones](/Dynamic%20Programming%2F1277.%20Count%20Square%20Submatrices%20with%20All%20Ones): Count all square submatrices filled entirely with ones
 
+[1504. Count Submatrices With All Ones](/Dynamic%20Programming%2F1504.%20Count%20Submatrices%20With%20All%20Ones): Count submatrices in a binary matrix that contain only ones
+
 [1749. Maximum Absolute Sum of Any Subarray](/Dynamic%20Programming%2F1749.%20Maximum%20Absolute%20Sum%20of%20Any%20Subarray): Find the maximum absolute sum of any subarray
 
 [2140. Solving Questions With Brainpower](/Dynamic%20Programming%2F2140.%20Solving%20Questions%20With%20Brainpower): Maximize points solving questions, skipping some based on brainpower
