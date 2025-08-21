@@ -3,8 +3,8 @@ namespace LeetCodeSolutions.DynamicProgramming;
 /*
  * 1504. Count Submatrices With All Ones
  * Difficulty: Medium
- * Submission Time: 2025-08-21 12:24:26
- * Created by vahtyah on 2025-08-21 12:24:49
+ * Submission Time: 2025-08-21 12:25:32
+ * Created by vahtyah on 2025-08-21 12:26:01
 */
  
 public class Solution {
@@ -33,6 +33,5 @@ public class Solution {
         }
 
         return total;
-        
     }
 }
