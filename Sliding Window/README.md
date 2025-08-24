@@ -79,6 +79,8 @@ public static void SlidingWindowAlgorithm(int[] nums)
 
 [1358. Number of Substrings Containing All Three Characters](/Sliding%20Window%2F1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters): Count substrings containing 'a', 'b', and 'c'
 
+[1493. Longest Subarray of 1's After Deleting One Element](/Sliding%20Window%2F1493.%20Longest%20Subarray%20of%201%27s%20After%20Deleting%20One%20Element): Find longest subarray of 1s after deleting one element
+
 [1695. Maximum Erasure Value](/Sliding%20Window%2F1695.%20Maximum%20Erasure%20Value): Find max subarray sum with unique elements
 
 [2401. Longest Nice Subarray](/Sliding%20Window%2F2401.%20Longest%20Nice%20Subarray): Find the longest subarray with pairwise bitwise AND zero
