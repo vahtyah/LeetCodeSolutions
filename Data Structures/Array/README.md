@@ -71,6 +71,8 @@ public class ArrayExamples
 
 [0228. Summary Ranges](/Data%20Structures%2FArray%2F0228.%20Summary%20Ranges): Merge overlapping intervals and summarize them as ranges
 
+[0485. Max Consecutive Ones](/Data%20Structures%2FArray%2F0485.%20Max%20Consecutive%20Ones): Find maximum consecutive ones in binary array
+
 [0717. 1-bit and 2-bit Characters](/Data%20Structures%2FArray%2F0717.%201-bit%20and%202-bit%20Characters): Determine if the last character is 1-bit
 
 [1304. Find N Unique Integers Sum up to Zero](/Data%20Structures%2FArray%2F1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero): Return N unique integers that sum to zero
