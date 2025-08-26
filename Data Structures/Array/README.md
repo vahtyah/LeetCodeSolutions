@@ -89,6 +89,8 @@ public class ArrayExamples
 
 [2460. Apply Operations to an Array](/Data%20Structures%2FArray%2F2460.%20Apply%20Operations%20to%20an%20Array): Modify array: double equal adjacent, zero others, shift zeros
 
+[3000. Maximum Area of Longest Diagonal Rectangle](/Data%20Structures%2FArray%2F3000.%20Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle): Find the largest area of rectangles with maximum diagonal
+
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](/Data%20Structures%2FArray%2F3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray): Find longest contiguous strictly increasing or strictly decreasing subarray
 
 [3392. Count Subarrays of Length Three With a Condition](/Data%20Structures%2FArray%2F3392.%20Count%20Subarrays%20of%20Length%20Three%20With%20a%20Condition): Count length-three subarrays meeting absolute difference criteria
