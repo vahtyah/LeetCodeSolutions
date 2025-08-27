@@ -73,6 +73,8 @@ public class ArrayExamples
 
 [0485. Max Consecutive Ones](/Data%20Structures%2FArray%2F0485.%20Max%20Consecutive%20Ones): Find maximum consecutive ones in binary array
 
+[0645. Set Mismatch](/Data%20Structures%2FArray%2F0645.%20Set%20Mismatch): Find duplicated and missing numbers from 1 to N
+
 [0717. 1-bit and 2-bit Characters](/Data%20Structures%2FArray%2F0717.%201-bit%20and%202-bit%20Characters): Determine if the last character is 1-bit
 
 [1304. Find N Unique Integers Sum up to Zero](/Data%20Structures%2FArray%2F1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero): Return N unique integers that sum to zero
