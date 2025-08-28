@@ -132,3 +132,5 @@ public class ArrayExamples
 [3169. Count Days Without Meetings](/Data%20Structures%2FArray%2F3169.%20Count%20Days%20Without%20Meetings): Calculate days without meetings given meeting intervals
 
 [3394. Check if Grid can be Cut into Sections](/Data%20Structures%2FArray%2F3394.%20Check%20if%20Grid%20can%20be%20Cut%20into%20Sections): Determine if a grid can be fully divided into 2 sections
+
+[3446. Sort Matrix by Diagonals](/Data%20Structures%2FArray%2F3446.%20Sort%20Matrix%20by%20Diagonals): Sort each diagonal of the matrix independently
