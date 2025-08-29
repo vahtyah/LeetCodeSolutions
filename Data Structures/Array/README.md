@@ -170,3 +170,5 @@ public class ArrayExamples
 [3446. Sort Matrix by Diagonals](/Data%20Structures%2FArray%2F3446.%20Sort%20Matrix%20by%20Diagonals): Sort each diagonal of the matrix independently
 
 [3531. Count Covered Buildings](/Data%20Structures%2FArray%2F3531.%20Count%20Covered%20Buildings): Count buildings not covered by any other
+
+[3689. Maximum Total Subarray Value I](/Data%20Structures%2FArray%2F3689.%20Maximum%20Total%20Subarray%20Value%20I): Maximize total value of partitioned subarrays
