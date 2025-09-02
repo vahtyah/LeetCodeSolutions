@@ -121,6 +121,8 @@ public class ArrayExamples
 
 [3477. Fruits Into Baskets II](/Data%20Structures%2FArray%2F3477.%20Fruits%20Into%20Baskets%20II): Maximize fruit count with at most two fruit types
 
+[3838. Weighted Word Mapping](/Data%20Structures%2FArray%2F3838.%20Weighted%20Word%20Mapping): Map words to weights and retrieve their cumulative values
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0048. Rotate Image](/Data%20Structures%2FArray%2F0048.%20Rotate%20Image): Rotate a square matrix 90 degrees clockwise
