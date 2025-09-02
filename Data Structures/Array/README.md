@@ -129,6 +129,8 @@ public class ArrayExamples
 
 [2948. Make Lexicographically Smallest Array by Swapping Elements](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures%2FArray%2F2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements): Make an array lexicographically smallest by swapping elements at most `k` times.
 
+[3025. Find the Number of Ways to Place People I](/Data%20Structures%2FArray%2F3025.%20Find%20the%20Number%20of%20Ways%20to%20Place%20People%20I): Count people pairs where x1 <= x2 and y1 <= y2
+
 [3169. Count Days Without Meetings](/Data%20Structures%2FArray%2F3169.%20Count%20Days%20Without%20Meetings): Calculate days without meetings given meeting intervals
 
 [3394. Check if Grid can be Cut into Sections](/Data%20Structures%2FArray%2F3394.%20Check%20if%20Grid%20can%20be%20Cut%20into%20Sections): Determine if a grid can be fully divided into 2 sections
