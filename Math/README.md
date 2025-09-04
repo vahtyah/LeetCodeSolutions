@@ -27,6 +27,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [3024. Type of Triangle](/Math%2F3024.%20Type%20of%20Triangle): Determine the triangle type given three side lengths
 
+[3516. Find Closest Person](/Math%2F3516.%20Find%20Closest%20Person): Find the minimum distance to a value in a list
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0050. Pow(x, n)](/Math%2F0050.%20Pow%28x%2C%20n%29): Description not available
