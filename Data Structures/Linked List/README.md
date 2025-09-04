@@ -51,3 +51,5 @@ A **linked list** is a linear data structure where elements are stored in nodes.
 [0138. Copy List with Random Pointer](/Data%20Structures%2FLinked%20List%2F0138.%20Copy%20List%20with%20Random%20Pointer): Clone a linked list with random pointers
 
 [0146. LRU Cache](/Data%20Structures%2FLinked%20List%2F0146.%20LRU%20Cache): Design a cache system that evicts least recently used items
+
+[2130. Maximum Twin Sum of a Linked List](/Data%20Structures%2FLinked%20List%2F2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List): Find maximum symmetric pair sum in a linked list
