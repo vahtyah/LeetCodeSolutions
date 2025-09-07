@@ -71,6 +71,8 @@ public class ArrayExamples
 
 [0228. Summary Ranges](/Data%20Structures%2FArray%2F0228.%20Summary%20Ranges): Merge overlapping intervals and summarize them as ranges
 
+[1304. Find N Unique Integers Sum up to Zero](/Data%20Structures%2FArray%2F1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero): Return N unique integers that sum to zero
+
 [1534. Count Good Triplets](/Data%20Structures%2FArray%2F1534.%20Count%20Good%20Triplets): Count triplets in array meeting absolute difference constraints
 
 [1752. Check if Array Is Sorted and Rotated](/Data%20Structures%2FArray%2F1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated): Determine if a rotated sorted array is still sorted
