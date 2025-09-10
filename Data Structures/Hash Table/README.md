@@ -104,6 +104,8 @@ foreach (var pair in dict)
 
 [1726. Tuple with Same Product](/Data%20Structures%2FHash%20Table%2F1726.%20Tuple%20with%20Same%20Product): Count tuples with same product in an array
 
+[1733. Minimum Number of People to Teach](/Data%20Structures%2FHash%20Table%2F1733.%20Minimum%20Number%20of%20People%20to%20Teach): Find min teachers so all students understand all languages
+
 [1865. Finding Pairs With a Certain Sum](/Data%20Structures%2FHash%20Table%2F1865.%20Finding%20Pairs%20With%20a%20Certain%20Sum): Find how many pairs sum to a given value
 
 [2349. Design a Number Container System](/Data%20Structures%2FHash%20Table%2F2349.%20Design%20a%20Number%20Container%20System): Design a system to store numbers and retrieve them based on intervals
