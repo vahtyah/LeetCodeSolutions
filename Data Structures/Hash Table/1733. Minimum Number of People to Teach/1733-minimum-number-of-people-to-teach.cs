@@ -4,7 +4,7 @@ namespace LeetCodeSolutions.DataStructures/HashTable;
  * 1733. Minimum Number of People to Teach
  * Difficulty: Medium
  * Submission Time: 2025-09-10 13:05:45
- * Created by vahtyah on 2025-09-10 13:06:15
+ * Created by vahtyah on 2025-09-10 13:07:26
 */
  
 public class Solution {
