@@ -4,7 +4,7 @@ namespace LeetCodeSolutions.DataStructures/String;
  * 3227. Vowels Game in a String
  * Difficulty: Medium
  * Submission Time: 2025-09-12 12:24:50
- * Created by vahtyah on 2025-09-12 12:25:29
+ * Created by vahtyah on 2025-09-12 13:21:32
 */
  
 public class Solution {
