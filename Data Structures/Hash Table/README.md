@@ -94,6 +94,8 @@ foreach (var pair in dict)
 
 [3442. Maximum Difference Between Even and Odd Frequency I](/Data%20Structures%2FHash%20Table%2F3442.%20Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20I): Find max difference: (even count) - (odd count)
 
+[3541. Find Most Frequent Vowel and Consonant](/Data%20Structures%2FHash%20Table%2F3541.%20Find%20Most%20Frequent%20Vowel%20and%20Consonant): Find the most frequent vowel and consonant in string
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0049. Group Anagrams](/Data%20Structures%2FHash%20Table%2F0049.%20Group%20Anagrams): Group strings with anagrams together
