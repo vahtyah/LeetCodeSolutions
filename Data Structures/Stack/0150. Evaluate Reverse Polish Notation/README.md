@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=study-plan-v2&envId=top-interview-150">0150. Evaluate Reverse Polish Notation</a></h1>
+<h1><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation?envType=problem-list-v2&envId=dsa-linear-shoal-stack">0150. Evaluate Reverse Polish Notation</a></h1>
 
 ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 

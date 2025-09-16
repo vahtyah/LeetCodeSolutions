@@ -3,44 +3,73 @@ namespace LeetCodeSolutions.DataStructures/Stack;
 /*
  * 0150. Evaluate Reverse Polish Notation
  * Difficulty: Medium
- * Submission Time: 2025-02-21 13:36:19
- * Created by vahtyah on 2025-02-21 13:36:40
+ * Submission Time: 2026-06-14 14:54:40
+ * Created by vahtyah on 2026-06-14 14:55:41
 */
  
-public class Solution {
-    public int EvalRPN(string[] tokens) {
-        Span<int> stack = stackalloc int[tokens.Length / 2 + 1];
+public class Solution
+{
+    public int EvalRPN(string[] tokens)
+    {
+        var n = tokens.Length;
+        Span<int> stack = stackalloc int[n];
         var top = -1;
-        
-        foreach (var token in tokens) {
-            if (token.Length == 1 && !char.IsDigit(token[0])) {
-                var b = stack[top--];
-                var a = stack[top];
-                
-                stack[top] = token[0] switch {
-                    '+' => a + b,
-                    '-' => a - b,
-                    '*' => a * b,
-                    '/' => a / b,
-                    _ => throw new ArgumentException("Invalid operator")
-                };
+
+        for (int i = 0; i < n; i++)
+        {
+            var token = tokens[i];
+            if (TryParse(token, out int number))
+            {
+                stack[++top] = number;
+                continue;
             }
-            else {
-                stack[++top] = ParseInt(token);
+
+            var value = stack[top--];
+
+            switch (token)
+            {
+                case "+":
+                    stack[top] += value;
+                    break;
+                case "-":
+                    stack[top] -= value;
+                    break;
+                case "*":
+                    stack[top] *= value;
+                    break;
+                default:
+                    stack[top] /= value;
+                    break;
             }
         }
-        
-        return stack[top];
+
+        return stack[0];
     }
 
-    private int ParseInt(string s){
-        bool isNegative = s[0] == '-';
-        int i = isNegative ? 1 : 0;
-        int result = 0;
+    private static bool TryParse(string s, out int value)
+    {
+        if ((uint)(s[0] - '0') <= 9)
+        {
+            value = s[0] - '0';
 
-        for (; i < s.Length; i++) {
-            result = (result * 10) + (s[i] - '0');
+            for (int i = 1; i < s.Length; i++)
+                value = value * 10 + (s[i] - '0');
+
+            return true;
         }
-        return isNegative ? -result : result;
+
+        if (s.Length > 1 && s[0] == '-')
+        {
+            value = 0;
+
+            for (int i = 1; i < s.Length; i++)
+                value = value * 10 + (s[i] - '0');
+
+            value = -value;
+            return true;
+        }
+
+        value = 0;
+        return false;
     }
 }
