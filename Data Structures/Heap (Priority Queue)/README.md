@@ -200,6 +200,8 @@ public unsafe class UnsafePriorityQueue<TElement, TPriority> : IDisposable
 
 [3362. Zero Array Transformation III](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F3362.%20Zero%20Array%20Transformation%20III): Make target array all zeros by element transfers
 
+[3408. Design Task Manager](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F3408.%20Design%20Task%20Manager): Prioritize and execute tasks efficiently
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0502. IPO](/Data%20Structures%2FHeap%20%28Priority%20Queue%29%2F0502.%20IPO): Maximize capital by strategically investing in projects
