@@ -115,3 +115,5 @@ foreach (var pair in dict)
 [2349. Design a Number Container System](/Data%20Structures%2FHash%20Table%2F2349.%20Design%20a%20Number%20Container%20System): Design a system to store numbers and retrieve them based on intervals
 
 [3160. Find the Number of Distinct Colors Among the Balls](/Data%20Structures%2FHash%20Table%2F3160.%20Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls): Count the number of distinct colors of balls
+
+[3484. Design Spreadsheet](/Data%20Structures%2FHash%20Table%2F3484.%20Design%20Spreadsheet): Implement spreadsheet cells that can reference other cells
