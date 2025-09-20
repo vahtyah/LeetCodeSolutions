@@ -87,6 +87,8 @@ public static int BinarySearch(int[] nums, int target)
 
 [2616. Minimize the Maximum Difference of Pairs](/Searching%2FBinary%20Search%2F2616.%20Minimize%20the%20Maximum%20Difference%20of%20Pairs): Find minimum max-difference, forming p pairs
 
+[3508. Implement Router](/Searching%2FBinary%20Search%2F3508.%20Implement%20Router): Implement a basic URL routing system
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0004. Median of Two Sorted Arrays](/Searching%2FBinary%20Search%2F0004.%20Median%20of%20Two%20Sorted%20Arrays): Find median of two sorted arrays merged implicitly
