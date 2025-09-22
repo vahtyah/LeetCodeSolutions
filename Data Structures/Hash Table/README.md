@@ -90,6 +90,8 @@ foreach (var pair in dict)
 
 [2965. Find Missing and Repeated Values](/Data%20Structures%2FHash%20Table%2F2965.%20Find%20Missing%20and%20Repeated%20Values): Find the duplicate and missing numbers in a matrix
 
+[3005. Count Elements With Maximum Frequency](/Data%20Structures%2FHash%20Table%2F3005.%20Count%20Elements%20With%20Maximum%20Frequency): Find frequency of most frequent element(s)
+
 [3375. Minimum Operations to Make Array Values Equal to K](/Data%20Structures%2FHash%20Table%2F3375.%20Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K): Minimize operations to make array elements equal to K
 
 [3396. Minimum Number of Operations to Make Elements in Array Distinct](/Data%20Structures%2FHash%20Table%2F3396.%20Minimum%20Number%20of%20Operations%20to%20Make%20Elements%20in%20Array%20Distinct): Increment array elements to make all values distinct
