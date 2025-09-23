@@ -162,6 +162,8 @@ str += "World"; // Creates a new string instance
 
 [0151. Reverse Words in a String](/Data%20Structures%2FString%2F0151.%20Reverse%20Words%20in%20a%20String): Reverse the order of words in a string while preserving spaces
 
+[0165. Compare Version Numbers](/Data%20Structures%2FString%2F0165.%20Compare%20Version%20Numbers): Compare version strings lexicographically by numeric components
+
 [0916. Word Subsets](/Data%20Structures%2FString%2F0916.%20Word%20Subsets): Find all words from `B` that are universal in `A`
 
 [0966. Vowel Spellchecker](/Data%20Structures%2FString%2F0966.%20Vowel%20Spellchecker): Correct misspelled words, prioritizing exact match, case-insensitive, then vowel errors
