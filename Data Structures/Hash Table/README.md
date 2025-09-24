@@ -104,6 +104,8 @@ foreach (var pair in dict)
 
 [0049. Group Anagrams](/Data%20Structures%2FHash%20Table%2F0049.%20Group%20Anagrams): Group strings with anagrams together
 
+[0166. Fraction to Recurring Decimal](/Data%20Structures%2FHash%20Table%2F0166.%20Fraction%20to%20Recurring%20Decimal): Convert fraction to decimal, detect and represent recurring part
+
 [0380. Insert Delete GetRandom O(1)](/Data%20Structures%2FHash%20Table%2F0380.%20Insert%20Delete%20GetRandom%20O%281%29): Design a data structure that supports insert, delete, and getRandom operations in constant time.
 
 [0898. Bitwise ORs of Subarrays](/Data%20Structures%2FHash%20Table%2F0898.%20Bitwise%20ORs%20of%20Subarrays): Find unique bitwise OR results of all subarrays
