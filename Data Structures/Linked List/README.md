@@ -52,4 +52,6 @@ A **linked list** is a linear data structure where elements are stored in nodes.
 
 [0146. LRU Cache](/Data%20Structures%2FLinked%20List%2F0146.%20LRU%20Cache): Design a cache system that evicts least recently used items
 
+[2095. Delete the Middle Node of a Linked List](/Data%20Structures%2FLinked%20List%2F2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List): Remove the middle node of a linked list
+
 [2130. Maximum Twin Sum of a Linked List](/Data%20Structures%2FLinked%20List%2F2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List): Find maximum symmetric pair sum in a linked list
