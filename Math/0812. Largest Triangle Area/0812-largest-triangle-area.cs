@@ -4,7 +4,7 @@ namespace LeetCodeSolutions.Math;
  * 0812. Largest Triangle Area
  * Difficulty: Easy
  * Submission Time: 2025-09-27 08:44:43
- * Created by vahtyah on 2025-09-28 02:43:21
+ * Created by vahtyah on 2025-09-28 02:44:08
 */
  
 public class Solution {
