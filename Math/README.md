@@ -17,6 +17,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [0326. Power of Three](/Math%2F0326.%20Power%20of%20Three): Determine if a number is a power of three
 
+[0812. Largest Triangle Area](/Math%2F0812.%20Largest%20Triangle%20Area): Find the largest area triangle formed by given points
+
 [0976. Largest Perimeter Triangle](/Math%2F0976.%20Largest%20Perimeter%20Triangle): Find the largest perimeter triangle from given side lengths
 
 [1295. Find Numbers with Even Number of Digits](/Math%2F1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits): Count integers with an even number of digits
