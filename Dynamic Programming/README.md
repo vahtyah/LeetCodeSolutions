@@ -180,6 +180,8 @@ public class Solution {
 
 [0918. Maximum Sum Circular Subarray](/Dynamic%20Programming%2F0918.%20Maximum%20Sum%20Circular%20Subarray): Find max subarray sum, considering circular wrap-around
 
+[1039. Minimum Score Triangulation of Polygon](/Dynamic%20Programming%2F1039.%20Minimum%20Score%20Triangulation%20of%20Polygon): Minimize triangulation score by summing triangle products
+
 [1143. Longest Common Subsequence](/Dynamic%20Programming%2F1143.%20Longest%20Common%20Subsequence): Find the length of the longest common subsequence between two strings.
 
 [1277. Count Square Submatrices with All Ones](/Dynamic%20Programming%2F1277.%20Count%20Square%20Submatrices%20with%20All%20Ones): Count all square submatrices filled entirely with ones
