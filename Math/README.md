@@ -51,6 +51,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [2929. Distribute Candies Among Children II](/Math%2F2929.%20Distribute%20Candies%20Among%20Children%20II): Distribute candies to children respecting given limits
 
+[3100. Water Bottles II](/Math%2F3100.%20Water%20Bottles%20II): Maximize water consumed with bottle recycling and reuse limit
+
 [3335. Total Characters in String After Transformations I](/Math%2F3335.%20Total%20Characters%20in%20String%20After%20Transformations%20I): Count remaining characters after consecutive duplicates removal
 
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
