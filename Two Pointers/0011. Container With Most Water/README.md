@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150">0011. Container With Most Water</a></h1>
+<h1><a href="https://leetcode.com/problems/container-with-most-water?envType=daily-question&envId=2025-10-04">0011. Container With Most Water</a></h1>
 
 ![Difficulty: Medium](https://img.shields.io/badge/Medium-fac31d)
 
