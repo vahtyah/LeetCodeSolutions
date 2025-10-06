@@ -184,6 +184,8 @@ str += "World"; // Creates a new string instance
 
 [3227. Vowels Game in a String](/Data%20Structures%2FString%2F3227.%20Vowels%20Game%20in%20a%20String): Determine vowel substrings' win/loss based on length parity
 
+[3612. Process String with Special Operations I](/Data%20Structures%2FString%2F3612.%20Process%20String%20with%20Special%20Operations%20I): Transform a string by executing specified special operations
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [0068. Text Justification](/Data%20Structures%2FString%2F0068.%20Text%20Justification): Left-justify, right-justify, or center-justify text with variable word spacing
