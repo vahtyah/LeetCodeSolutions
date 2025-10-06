@@ -67,3 +67,7 @@ public class Dijkstra
 [3341. Find Minimum Time to Reach Last Room I](/Pathfinding%2FDijkstra%27s%20Algorithm%2F3341.%20Find%20Minimum%20Time%20to%20Reach%20Last%20Room%20I): Minimize time to visit rooms sequentially with delay
 
 [3342. Find Minimum Time to Reach Last Room II](/Pathfinding%2FDijkstra%27s%20Algorithm%2F3342.%20Find%20Minimum%20Time%20to%20Reach%20Last%20Room%20II): Minimize time to visit rooms sequentially with delay
+
+### ![Hard](https://img.shields.io/badge/Hard-f8615c)
+
+[0778. Swim in Rising Water](/Pathfinding%2FDijkstra%27s%20Algorithm%2F0778.%20Swim%20in%20Rising%20Water): Find minimum water level to connect top-left to bottom-right
