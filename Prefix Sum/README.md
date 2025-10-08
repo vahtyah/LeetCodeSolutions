@@ -131,6 +131,8 @@ public static int[] CalculatePrefixSum(int[] input)
 
 [3354. Make Array Elements Equal to Zero](/Prefix%20Sum%2F3354.%20Make%20Array%20Elements%20Equal%20to%20Zero): Transform array elements to zero using prefix subtractions
 
+[3903. Smallest Stable Index I](/Prefix%20Sum%2F3903.%20Smallest%20Stable%20Index%20I): Find smallest index where prefix-max minus suffix-min ≤ k
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0238. Product of Array Except Self](/Prefix%20Sum%2F0238.%20Product%20of%20Array%20Except%20Self): Calculate the product of all elements in an array except the current element.
