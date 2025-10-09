@@ -174,3 +174,5 @@ public class ArrayExamples
 [3531. Count Covered Buildings](/Data%20Structures%2FArray%2F3531.%20Count%20Covered%20Buildings): Count buildings not covered by any other
 
 [3689. Maximum Total Subarray Value I](/Data%20Structures%2FArray%2F3689.%20Maximum%20Total%20Subarray%20Value%20I): Maximize total value of partitioned subarrays
+
+[3876. Construct Uniform Parity Array II](/Data%20Structures%2FArray%2F3876.%20Construct%20Uniform%20Parity%20Array%20II): Make all elements same parity using differences
