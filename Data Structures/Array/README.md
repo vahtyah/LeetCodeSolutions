@@ -176,3 +176,5 @@ public class ArrayExamples
 [3689. Maximum Total Subarray Value I](/Data%20Structures%2FArray%2F3689.%20Maximum%20Total%20Subarray%20Value%20I): Maximize total value of partitioned subarrays
 
 [3876. Construct Uniform Parity Array II](/Data%20Structures%2FArray%2F3876.%20Construct%20Uniform%20Parity%20Array%20II): Make all elements same parity using differences
+
+[3904. Smallest Stable Index II](/Data%20Structures%2FArray%2F3904.%20Smallest%20Stable%20Index%20II): Find smallest index where left-max minus right-min ≤ k
