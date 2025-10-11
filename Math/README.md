@@ -41,6 +41,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [3516. Find Closest Person](/Math%2F3516.%20Find%20Closest%20Person): Find the minimum distance to a value in a list
 
+[3870. Count Commas in Range](/Math%2F3870.%20Count%20Commas%20in%20Range): Count total commas in numbers 1 through n
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0050. Pow(x, n)](/Math%2F0050.%20Pow%28x%2C%20n%29): Description not available
