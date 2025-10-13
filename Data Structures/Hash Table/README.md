@@ -88,6 +88,8 @@ foreach (var pair in dict)
 
 [1935. Maximum Number of Words You Can Type](/Data%20Structures%2FHash%20Table%2F1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type): Find max words typable given broken keys
 
+[2273. Find Resultant Array After Removing Anagrams](/Data%20Structures%2FHash%20Table%2F2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams): Remove anagrams from consecutive array elements
+
 [2965. Find Missing and Repeated Values](/Data%20Structures%2FHash%20Table%2F2965.%20Find%20Missing%20and%20Repeated%20Values): Find the duplicate and missing numbers in a matrix
 
 [3005. Count Elements With Maximum Frequency](/Data%20Structures%2FHash%20Table%2F3005.%20Count%20Elements%20With%20Maximum%20Frequency): Find frequency of most frequent element(s)
