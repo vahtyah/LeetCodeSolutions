@@ -140,6 +140,8 @@ str += "World"; // Creates a new string instance
 
 [1957. Delete Characters to Make Fancy String](/Data%20Structures%2FString%2F1957.%20Delete%20Characters%20to%20Make%20Fancy%20String): Remove adjacent duplicate characters if they appear thrice
 
+[2011. Final Value of Variable After Performing Operations](/Data%20Structures%2FString%2F2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations): Calculate final value after increment/decrement operations
+
 [2138. Divide a String Into Groups of Size k](/Data%20Structures%2FString%2F2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k): Divide string into k-sized groups; pad if needed
 
 [2264. Largest 3-Same-Digit Number in String](/Data%20Structures%2FString%2F2264.%20Largest%203-Same-Digit%20Number%20in%20String): Find the largest "XXX" substring within a string
