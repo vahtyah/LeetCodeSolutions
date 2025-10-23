@@ -154,6 +154,8 @@ str += "World"; // Creates a new string instance
 
 [3330. Find the Original Typed String I](/Data%20Structures%2FString%2F3330.%20Find%20the%20Original%20Typed%20String%20I): Reconstruct original string after duplicate characters are added
 
+[3461. Check If Digits Are Equal in String After Operations I](/Data%20Structures%2FString%2F3461.%20Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I): Check if all digits become equal after operations on string
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0006. Zigzag Conversion](/Data%20Structures%2FString%2F0006.%20Zigzag%20Conversion): Convert a string into a zigzag pattern
