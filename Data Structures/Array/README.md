@@ -119,6 +119,8 @@ public class ArrayExamples
 
 [2043. Simple Bank System](/Data%20Structures%2FArray%2F2043.%20Simple%20Bank%20System): Implement basic bank account operations (deposit, withdraw, balance)
 
+[2125. Number of Laser Beams in a Bank](/Data%20Structures%2FArray%2F2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank): Count laser beams between rows with security devices
+
 [2221. Find Triangular Sum of an Array](/Data%20Structures%2FArray%2F2221.%20Find%20Triangular%20Sum%20of%20an%20Array): Repeatedly sum adjacent array elements until one element remains
 
 [2348. Number of Zero-Filled Subarrays](/Data%20Structures%2FArray%2F2348.%20Number%20of%20Zero-Filled%20Subarrays): Count zero-filled contiguous subarrays within an array
