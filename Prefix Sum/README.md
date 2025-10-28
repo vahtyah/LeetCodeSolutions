@@ -129,6 +129,8 @@ public static int[] CalculatePrefixSum(int[] input)
 
 [1422. Maximum Score After Splitting a String](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/1422.%20Maximum%20Score%20After%20Splitting%20a%20String): Find the maximum score after splitting a string into two non-empty substrings.
 
+[3354. Make Array Elements Equal to Zero](/Prefix%20Sum%2F3354.%20Make%20Array%20Elements%20Equal%20to%20Zero): Transform array elements to zero using prefix subtractions
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0238. Product of Array Except Self](/Prefix%20Sum%2F0238.%20Product%20of%20Array%20Except%20Self): Calculate the product of all elements in an array except the current element.
