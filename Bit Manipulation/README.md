@@ -104,6 +104,8 @@ while(n > 0) {
 
 [3304. Find the K-th Character in String Game I](/Bit%20Manipulation%2F3304.%20Find%20the%20K-th%20Character%20in%20String%20Game%20I): Find the k-th character after repeated string transformations
 
+[3370. Smallest Number With All Set Bits](/Bit%20Manipulation%2F3370.%20Smallest%20Number%20With%20All%20Set%20Bits): Find the smallest number with `n` set bits
+
 ### ![Medium](https://img.shields.io/badge/Medium-fac31d)
 
 [0036. Valid Sudoku](/Bit%20Manipulation%2F0036.%20Valid%20Sudoku): Determine if a Sudoku board is valid
