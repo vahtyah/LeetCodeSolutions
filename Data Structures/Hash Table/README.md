@@ -124,4 +124,6 @@ foreach (var pair in dict)
 
 [3160. Find the Number of Distinct Colors Among the Balls](/Data%20Structures%2FHash%20Table%2F3160.%20Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls): Count the number of distinct colors of balls
 
+[3217. Delete Nodes From Linked List Present in Array](/Data%20Structures%2FHash%20Table%2F3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array): Remove nodes from linked list if value in array
+
 [3484. Design Spreadsheet](/Data%20Structures%2FHash%20Table%2F3484.%20Design%20Spreadsheet): Implement spreadsheet cells that can reference other cells
