@@ -123,6 +123,8 @@ public class ArrayExamples
 
 [2221. Find Triangular Sum of an Array](/Data%20Structures%2FArray%2F2221.%20Find%20Triangular%20Sum%20of%20an%20Array): Repeatedly sum adjacent array elements until one element remains
 
+[2257. Count Unguarded Cells in the Grid](/Data%20Structures%2FArray%2F2257.%20Count%20Unguarded%20Cells%20in%20the%20Grid): Count empty grid cells not visible by guards
+
 [2348. Number of Zero-Filled Subarrays](/Data%20Structures%2FArray%2F2348.%20Number%20of%20Zero-Filled%20Subarrays): Count zero-filled contiguous subarrays within an array
 
 [2364. Count Number of Bad Pairs](/Data%20Structures%2FArray%2F2364.%20Count%20Number%20of%20Bad%20Pairs): Count pairs of elements with bigger elements on right
