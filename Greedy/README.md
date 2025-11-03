@@ -61,6 +61,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [1432. Max Difference You Can Get From Changing an Integer](/Greedy%2F1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer): Maximize difference by replacing digits to create min/max numbers
 
+[1578. Minimum Time to Make Rope Colorful](/Greedy%2F1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful): Minimize time removing balloons with same consecutive color
+
 [1717. Maximum Score From Removing Substrings](/Greedy%2F1717.%20Maximum%20Score%20From%20Removing%20Substrings): Maximize score by removing "ab" and "ba" substrings
 
 [2116. Check if a Parentheses String Can Be Valid](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Greedy/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid): Check if a parentheses string can be made valid by adding parentheses.
