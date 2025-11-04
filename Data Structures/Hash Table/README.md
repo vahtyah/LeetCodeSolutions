@@ -96,6 +96,8 @@ foreach (var pair in dict)
 
 [3289. The Two Sneaky Numbers of Digitville](/Data%20Structures%2FHash%20Table%2F3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville): Find two unique numbers summing to the remaining number
 
+[3318. Find X-Sum of All K-Long Subarrays I](/Data%20Structures%2FHash%20Table%2F3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I): Sum subarrays of length K, weighted by indices
+
 [3375. Minimum Operations to Make Array Values Equal to K](/Data%20Structures%2FHash%20Table%2F3375.%20Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K): Minimize operations to make array elements equal to K
 
 [3396. Minimum Number of Operations to Make Elements in Array Distinct](/Data%20Structures%2FHash%20Table%2F3396.%20Minimum%20Number%20of%20Operations%20to%20Make%20Elements%20in%20Array%20Distinct): Increment array elements to make all values distinct
