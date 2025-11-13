@@ -89,6 +89,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [3191. Minimum Operations to Make Binary Array Elements Equal to One I](/Greedy%2F3191.%20Minimum%20Operations%20to%20Make%20Binary%20Array%20Elements%20Equal%20to%20One%20I): Minimize flips to make all binary array elements one
 
+[3228. Maximum Number of Operations to Move Ones to the End](/Greedy%2F3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End): Minimize operations to move all ones to the end
+
 [3397. Maximum Number of Distinct Elements After Operations](/Greedy%2F3397.%20Maximum%20Number%20of%20Distinct%20Elements%20After%20Operations): Minimize distinct elements after decrementing array elements K times
 
 [3440. Reschedule Meetings for Maximum Free Time II](/Greedy%2F3440.%20Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20II): Maximize free time by optimally rescheduling meetings
