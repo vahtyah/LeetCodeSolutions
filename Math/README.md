@@ -45,6 +45,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [0172. Factorial Trailing Zeroes](/Math%2F0172.%20Factorial%20Trailing%20Zeroes): Count trailing zeroes in n factorial (n!)
 
+[1513. Number of Substrings With Only 1s](/Math%2F1513.%20Number%20of%20Substrings%20With%20Only%201s): Count substrings consisting solely of contiguous '1's
+
 [1780. Check if Number is a Sum of Powers of Three](/Math%2F1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three): Check if `n` is a sum of distinct powers of 3
 
 [2523. Closest Prime Numbers in Range](/Math%2F2523.%20Closest%20Prime%20Numbers%20in%20Range): Find closest prime number pair within given range
