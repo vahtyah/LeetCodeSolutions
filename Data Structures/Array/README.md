@@ -71,6 +71,8 @@ public class ArrayExamples
 
 [0228. Summary Ranges](/Data%20Structures%2FArray%2F0228.%20Summary%20Ranges): Merge overlapping intervals and summarize them as ranges
 
+[0717. 1-bit and 2-bit Characters](/Data%20Structures%2FArray%2F0717.%201-bit%20and%202-bit%20Characters): Determine if the last character is 1-bit
+
 [1304. Find N Unique Integers Sum up to Zero](/Data%20Structures%2FArray%2F1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero): Return N unique integers that sum to zero
 
 [1437. Check If All 1's Are at Least Length K Places Away](/Data%20Structures%2FArray%2F1437.%20Check%20If%20All%201%27s%20Are%20at%20Least%20Length%20K%20Places%20Away): Check if all 1s are K distance apart
