@@ -118,6 +118,8 @@ while(n > 0) {
 
 [1318. Minimum Flips to Make a OR b Equal to c](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Bit%20Manipulation/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c): Find the minimum number of flips to make `a | b` equal to `c`.
 
+[1930. Unique Length-3 Palindromic Subsequences](/Bit%20Manipulation%2F1930.%20Unique%20Length-3%20Palindromic%20Subsequences): Count unique "aba" palindromes in a given string
+
 [2401. Longest Nice Subarray](/Bit%20Manipulation%2F2401.%20Longest%20Nice%20Subarray): Find the longest subarray with pairwise bitwise AND zero
 
 [2411. Smallest Subarrays With Maximum Bitwise OR](/Bit%20Manipulation%2F2411.%20Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR): Find shortest subarrays with maximum bitwise OR value
