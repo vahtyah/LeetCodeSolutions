@@ -99,6 +99,8 @@ public class ArrayExamples
 
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](/Data%20Structures%2FArray%2F3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray): Find longest contiguous strictly increasing or strictly decreasing subarray
 
+[3190. Find Minimum Operations to Make All Elements Divisible by Three](/Data%20Structures%2FArray%2F3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three): Minimize operations to make array elements divisible by three
+
 [3392. Count Subarrays of Length Three With a Condition](/Data%20Structures%2FArray%2F3392.%20Count%20Subarrays%20of%20Length%20Three%20With%20a%20Condition): Count length-three subarrays meeting absolute difference criteria
 
 [3423. Maximum Difference Between Adjacent Elements in a Circular Array](/Data%20Structures%2FArray%2F3423.%20Maximum%20Difference%20Between%20Adjacent%20Elements%20in%20a%20Circular%20Array): Find max difference between circular array neighbors
