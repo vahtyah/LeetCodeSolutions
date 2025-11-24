@@ -94,6 +94,8 @@ while(n > 0) {
 
 [0342. Power of Four](/Bit%20Manipulation%2F0342.%20Power%20of%20Four): Determine if an integer is a power of four
 
+[1018. Binary Prefix Divisible By 5](/Bit%20Manipulation%2F1018.%20Binary%20Prefix%20Divisible%20By%205): Determine if binary prefixes are divisible by 5
+
 [1550. Three Consecutive Odds](/Bit%20Manipulation%2F1550.%20Three%20Consecutive%20Odds): Check for three consecutive odd numbers in array
 
 [1863. Sum of All Subset XOR Totals](/Bit%20Manipulation%2F1863.%20Sum%20of%20All%20Subset%20XOR%20Totals): Calculate XOR sum of all subsets' XOR totals
