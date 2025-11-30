@@ -139,6 +139,8 @@ public static int[] CalculatePrefixSum(int[] input)
 
 [1524. Number of Sub-arrays With Odd Sum](/Prefix%20Sum%2F1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum): Count sub-arrays having odd sum given an array
 
+[1590. Make Sum Divisible by P](/Prefix%20Sum%2F1590.%20Make%20Sum%20Divisible%20by%20P): Find shortest subarray to remove for sum divisible by P
+
 [1769. Minimum Number of Operations to Move All Balls to Each Box](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box): Calculate the minimum number of operations needed to move all balls to each box.
 
 [1930. Unique Length-3 Palindromic Subsequences](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Prefix%20Sum%2F1930.%20Unique%20Length-3%20Palindromic%20Subsequences): Find the number of unique length-3 palindromic subsequences in a string.
