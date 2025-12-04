@@ -4,7 +4,7 @@ namespace LeetCodeSolutions.DataStructures/String;
  * 2211. Count Collisions on a Road
  * Difficulty: Medium
  * Submission Time: 2025-12-04 15:33:06
- * Created by vahtyah on 2025-12-04 15:36:04
+ * Created by vahtyah on 2025-12-04 15:37:45
 */
  
 public class Solution {
