@@ -4,7 +4,7 @@ namespace LeetCodeSolutions.Math;
  * 1523. Count Odd Numbers in an Interval Range
  * Difficulty: Easy
  * Submission Time: 2025-12-07 02:48:57
- * Created by vahtyah on 2025-12-07 05:28:19
+ * Created by vahtyah on 2025-12-07 05:58:57
 */
  
 public class Solution {
