@@ -29,6 +29,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [1518. Water Bottles](/Math%2F1518.%20Water%20Bottles): Calculate total drinks from initial bottles and exchange rate
 
+[1523. Count Odd Numbers in an Interval Range](/Math%2F1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range): Description not available
+
 [1716. Calculate Money in Leetcode Bank](/Math%2F1716.%20Calculate%20Money%20in%20Leetcode%20Bank): Calculate weekly increasing savings over n days
 
 [2843. Count Symmetric Integers](/Math%2F2843.%20Count%20Symmetric%20Integers): Count integers within range that are symmetric
