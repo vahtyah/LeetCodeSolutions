@@ -63,6 +63,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [3335. Total Characters in String After Transformations I](/Math%2F3335.%20Total%20Characters%20in%20String%20After%20Transformations%20I): Count remaining characters after consecutive duplicates removal
 
+[3577. Count the Number of Computer Unlocking Permutations](/Math%2F3577.%20Count%20the%20Number%20of%20Computer%20Unlocking%20Permutations): Count valid unlock-lock sequences for m people on n computers
+
 ### ![Hard](https://img.shields.io/badge/Hard-f8615c)
 
 [2081. Sum of k-Mirror Numbers](/Math%2F2081.%20Sum%20of%20k-Mirror%20Numbers): Find the sum of first n k-mirror numbers
