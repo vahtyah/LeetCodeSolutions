@@ -85,6 +85,8 @@ public class ArrayExamples
 
 [1920. Build Array from Permutation](/Data%20Structures%2FArray%2F1920.%20Build%20Array%20from%20Permutation): Reorder array elements based on given index mapping
 
+[1929. Concatenation of Array](/Data%20Structures%2FArray%2F1929.%20Concatenation%20of%20Array): Concatenate an array with itself
+
 [2094. Finding 3-Digit Even Numbers](/Data%20Structures%2FArray%2F2094.%20Finding%203-Digit%20Even%20Numbers): Find all distinct 3-digit even numbers from given digits
 
 [2099. Find Subsequence of Length K With the Largest Sum](/Data%20Structures%2FArray%2F2099.%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum): Find k elements from array with maximum sum
