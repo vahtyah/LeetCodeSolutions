@@ -69,6 +69,8 @@ int digitCount = (int)Math.Log10(num) + 1;
 
 [2081. Sum of k-Mirror Numbers](/Math%2F2081.%20Sum%20of%20k-Mirror%20Numbers): Find the sum of first n k-mirror numbers
 
+[2147. Number of Ways to Divide a Long Corridor](/Math%2F2147.%20Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor): Ways to partition corridor into two-seat segments
+
 [3272. Find the Count of Good Integers](/Math%2F3272.%20Find%20the%20Count%20of%20Good%20Integers): Count n-digit numbers rearranged into divisible palindromes without leading zeros
 
 [3337. Total Characters in String After Transformations II](/Math%2F3337.%20Total%20Characters%20in%20String%20After%20Transformations%20II): Calculate total characters remaining after repeated adjacent same-character removals
