@@ -194,6 +194,8 @@ public class Solution {
 
 [1749. Maximum Absolute Sum of Any Subarray](/Dynamic%20Programming%2F1749.%20Maximum%20Absolute%20Sum%20of%20Any%20Subarray): Find the maximum absolute sum of any subarray
 
+[2110. Number of Smooth Descent Periods of a Stock](/Dynamic%20Programming%2F2110.%20Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock): Count contiguous subarrays with values decreasing by one
+
 [2140. Solving Questions With Brainpower](/Dynamic%20Programming%2F2140.%20Solving%20Questions%20With%20Brainpower): Maximize points solving questions, skipping some based on brainpower
 
 [2787. Ways to Express an Integer as Sum of Powers](/Dynamic%20Programming%2F2787.%20Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers): Find the number of ways to sum powers to n
