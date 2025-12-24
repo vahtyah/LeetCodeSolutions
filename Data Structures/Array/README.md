@@ -107,6 +107,8 @@ public class ArrayExamples
 
 [3000. Maximum Area of Longest Diagonal Rectangle](/Data%20Structures%2FArray%2F3000.%20Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle): Find the largest area of rectangles with maximum diagonal
 
+[3074. Apple Redistribution into Boxes](/Data%20Structures%2FArray%2F3074.%20Apple%20Redistribution%20into%20Boxes): Distribute total apples into fewest boxes
+
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](/Data%20Structures%2FArray%2F3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray): Find longest contiguous strictly increasing or strictly decreasing subarray
 
 [3190. Find Minimum Operations to Make All Elements Divisible by Three](/Data%20Structures%2FArray%2F3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three): Minimize operations to make array elements divisible by three
