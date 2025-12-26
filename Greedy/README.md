@@ -81,6 +81,8 @@ public static int GreedyAlgorithm(int[] nums)
 
 [2434. Using a Robot to Print the Lexicographically Smallest String](/Greedy%2F2434.%20Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String): Lexicographically smallest string after robot operations on given string
 
+[2483. Minimum Penalty for a Shop](/Greedy%2F2483.%20Minimum%20Penalty%20for%20a%20Shop): Minimize penalty by choosing optimal shop closing time
+
 [2874. Maximum Value of an Ordered Triplet II](/Greedy%2F2874.%20Maximum%20Value%20of%20an%20Ordered%20Triplet%20II): Find the maximum (nums[i] - nums[j]) * nums[k] for i<j<k
 
 [2966. Divide Array Into Arrays With Max Difference](/Greedy%2F2966.%20Divide%20Array%20Into%20Arrays%20With%20Max%20Difference): Divide sorted array into subarrays, max difference <= k
