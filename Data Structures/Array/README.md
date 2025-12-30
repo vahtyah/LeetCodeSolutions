@@ -131,6 +131,8 @@ public class ArrayExamples
 
 [0289. Game of Life](/Data%20Structures%2FArray%2F0289.%20Game%20of%20Life): Determine the next state of a game board with living and dead cells
 
+[0840. Magic Squares In Grid](/Data%20Structures%2FArray%2F0840.%20Magic%20Squares%20In%20Grid): Count 3x3 magic squares within a given grid
+
 [1267. Count Servers that Communicate](https://github.com/vahtyah/LeetCodeSolutions/tree/main/Data%20Structures%2FArray%2F1267.%20Count%20Servers%20that%20Communicate): Count the number of servers that can communicate with at least one other server in a grid.
 
 [2033. Minimum Operations to Make a Uni-Value Grid](/Data%20Structures%2FArray%2F2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid): Minimize operations to make all grid values equal
