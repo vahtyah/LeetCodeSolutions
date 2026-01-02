@@ -80,6 +80,8 @@ foreach (var pair in dict)
 
 [0594. Longest Harmonious Subsequence](/Data%20Structures%2FHash%20Table%2F0594.%20Longest%20Harmonious%20Subsequence): Find the longest subsequence with max-min difference of 1
 
+[0961. N-Repeated Element in Size 2N Array](/Data%20Structures%2FHash%20Table%2F0961.%20N-Repeated%20Element%20in%20Size%202N%20Array): Find element repeating N times in 2N array
+
 [1128. Number of Equivalent Domino Pairs](/Data%20Structures%2FHash%20Table%2F1128.%20Number%20of%20Equivalent%20Domino%20Pairs): Count domino pairs with equivalent numbers
 
 [1394. Find Lucky Integer in an Array](/Data%20Structures%2FHash%20Table%2F1394.%20Find%20Lucky%20Integer%20in%20an%20Array): Find an array element matching its frequency count
