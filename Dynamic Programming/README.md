@@ -172,6 +172,8 @@ public class Solution {
 
 [0474. Ones and Zeroes](/Dynamic%20Programming%2F0474.%20Ones%20and%20Zeroes): Maximize strings formed with limited 0s and 1s
 
+[0712. Minimum ASCII Delete Sum for Two Strings](/Dynamic%20Programming%2F0712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings): Minimize ASCII sum of deleted characters for string equality
+
 [0714. Best Time to Buy and Sell Stock with Transaction Fee](/Dynamic%20Programming%2F0714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee): Find the maximum profit that can be obtained by buying and selling a stock with a transaction fee.
 
 [0790. Domino and Tromino Tiling](/Dynamic%20Programming%2F0790.%20Domino%20and%20Tromino%20Tiling): Find the number of ways to tile a 2 x N board with dominoes and trominoes.
