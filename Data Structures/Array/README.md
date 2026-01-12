@@ -79,6 +79,8 @@ public class ArrayExamples
 
 [0944. Delete Columns to Make Sorted](/Data%20Structures%2FArray%2F0944.%20Delete%20Columns%20to%20Make%20Sorted): Count unsorted columns
 
+[1266. Minimum Time Visiting All Points](/Data%20Structures%2FArray%2F1266.%20Minimum%20Time%20Visiting%20All%20Points): Minimum time to visit points sequentially
+
 [1304. Find N Unique Integers Sum up to Zero](/Data%20Structures%2FArray%2F1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero): Return N unique integers that sum to zero
 
 [1437. Check If All 1's Are at Least Length K Places Away](/Data%20Structures%2FArray%2F1437.%20Check%20If%20All%201%27s%20Are%20at%20Least%20Length%20K%20Places%20Away): Check if all 1s are K distance apart
