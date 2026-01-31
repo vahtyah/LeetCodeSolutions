@@ -136,6 +136,8 @@ str += "World"; // Creates a new string instance
 
 [0242. Valid Anagram](/Data%20Structures%2FString%2F0242.%20Valid%20Anagram): Determine if two strings are anagrams of each other
 
+[0744. Find Smallest Letter Greater Than Target](/Data%20Structures%2FString%2F0744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target): Find smallest letter greater than target, circularly
+
 [1790. Check if One String Swap Can Make Strings Equal](/Data%20Structures%2FString%2F1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal): Swap any two characters of one string to check if equal to another
 
 [1957. Delete Characters to Make Fancy String](/Data%20Structures%2FString%2F1957.%20Delete%20Characters%20to%20Make%20Fancy%20String): Remove adjacent duplicate characters if they appear thrice
