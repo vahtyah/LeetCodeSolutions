@@ -98,7 +98,7 @@ foreach (var pair in dict)
 
 [3005. Count Elements With Maximum Frequency](/Data%20Structures%2FHash%20Table%2F3005.%20Count%20Elements%20With%20Maximum%20Frequency): Find frequency of most frequent element(s)
 
-[3120. Count the Number of Special Characters I](/Data%20Structures%2FHash%20Table%2F3120.%20Count%20the%20Number%20of%20Special%20Characters%20I): Description not available
+[3120. Count the Number of Special Characters I](/Data%20Structures%2FHash%20Table%2F3120.%20Count%20the%20Number%20of%20Special%20Characters%20I): Reconstruct a binary tree from parent-child relationships
 
 [3289. The Two Sneaky Numbers of Digitville](/Data%20Structures%2FHash%20Table%2F3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville): Find two unique numbers summing to the remaining number
 
