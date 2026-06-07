@@ -128,6 +128,8 @@ foreach (var pair in dict)
 
 [1865. Finding Pairs With a Certain Sum](/Data%20Structures%2FHash%20Table%2F1865.%20Finding%20Pairs%20With%20a%20Certain%20Sum): Find how many pairs sum to a given value
 
+[2196. Create Binary Tree From Descriptions](/Data%20Structures%2FHash%20Table%2F2196.%20Create%20Binary%20Tree%20From%20Descriptions): Build a binary tree from parent-child descriptions
+
 [2349. Design a Number Container System](/Data%20Structures%2FHash%20Table%2F2349.%20Design%20a%20Number%20Container%20System): Design a system to store numbers and retrieve them based on intervals
 
 [3160. Find the Number of Distinct Colors Among the Balls](/Data%20Structures%2FHash%20Table%2F3160.%20Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls): Count the number of distinct colors of balls
